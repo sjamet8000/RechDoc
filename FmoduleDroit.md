@@ -303,17 +303,44 @@ Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemb
 ## SpringerNature
 
 ## La recherche de données bibliographiques avec LeDoctrinal
-[LeDoctrinal](https://www-doctrinal-fr.ezproxy.universite-paris-saclay.fr/) est une base de **données bibliographiques** qui propose des notices bibliographiques d’articles de revues, de la jurisprudence française et européenne, des textes officiels, ainsi que des **références bibliographiques** de Mélanges.
+[LeDoctrinal](https://www-doctrinal-fr.ezproxy.universite-paris-saclay.fr/) est une base de **données bibliographiques** qui propose des notices bibliographiques d’articles de revues, de la jurisprudence française et européenne, des textes officiels, ainsi que des références bibliographiques de Mélanges.
 
 ![](assets\LeDoctrinal\LeDoctrinal_acc.png)
 
 Base de données bibliographiques ? Notices bibliographiques ?
 =====
 
-Contrairement à d'autres plateformes visitées précédemment visitées, LeDoctrinal n'offre pas, d'accès au texte intégral des références recherchées. Sa force réside dans la qualité des informations qu'elle rend accessible et qui décrivent les documents référencés.
+Contrairement à d'autres plateformes précédemment visitées, LeDoctrinal n'offre pas, d'accès au texte intégral des références recherchées. Sa force réside dans la qualité des informations qu'elle rend accessible et qui décrivent les documents référencés.
 
-LeDoctrinal est donc une base qui permet de faire des **recherches thématiques** poussées dans un certain fond (en l'occurrence, la doctrine) contrairement à une plateforme éditoriale qui offre un accès à tout ou 
+LeDoctrinal est donc une base qui permet de faire des **recherches thématiques** poussées dans un certain fond (en l'occurrence, la doctrine) contrairement à une plateforme éditoriale qui offre un accès à de la documentation.
 
+La première est *par définition* un outil de recherche documentaire, tandis que la seconde tient plus de l'entrepôt, plus ou moins bien rangé.
+
+### Rechercher dans LeDoctrinal
+
+Ici, la **recherche exploratoire** n'a pas grand sens, vous n'allez pas pouvoir flâner dans les rayonnages vituels en espérant tomber sur quelque chose d'intéressant et de pertinent, il va falloir chercher thématiquement et donc s'armer des mots-clés les plus pertinents et les plus efficaces.
+
+On peut tout de même distinguer au moins deux degrés de recherche avec LeDoctrinal : la **recherche simple** et la recherche dite " **experte** ".
+
+#### La recherche simple
+
+Pour éviter toute déception, limitez-vous pour la recherche simple, à deux mots-clés maximum, sans vous embarrasser de guillemets, parenthèses ou autre opérateurs de recherche, pour le meilleur et pour le pire[^2], LeDoctrinal s'accorde mieux avec une recherche en langage libre qu'avec la syntaxe habituellement requise dans ce genre de base.
+
+Mettons que recherchons de la doctrine autour de **l'avis consultatif de Cour internationale de justice sur la responsabilité juridique des Etats en matière de changement climatique**.
+
+Lancez la recherche telle qu'elle, combien de résultats trouvez-vous ?
+(*en chiffre*) > [[0]]
+
+{1}{*Telle qu'elle, la requête est bien trop longue, comporte trop de mots-clés pour que LeDoctrinal puisse retrouver la moindre référence, il faut simplifier.*![](assets\LeDoctrinal\LeDoctrinal_rech_simple.png)}
+
+        {{2}}
+Lancez la recherche **avis consultatif cour internationale de justice**, combien de résultats trouvez-vous en doctrine ? (*en chiffres*) > [[82]]
+
+[^2]: Le problème avec ce fonctionnement étant qu'il reste assez obscure pour l'utilisateur puisqu'il ne peut pas contrôler très exactement la manière dont la base de données interprète ses requêtes.
+
+#### La recherche experte
+
+#### Les notices et leurs liens
 
 ## La veille juridique
 
