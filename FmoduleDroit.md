@@ -3,14 +3,13 @@ author:   Samuel Jamet
 
 email:    samuel.jamet@universite-paris-saclay
 
+tags:     Liascript, recherche documentaire , droit
+
 version:  0.0.1
 
 language: fr
 
-narrator: US English Female
-
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
+comment:  Ce cours est à destination des étudiants de master de droit
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
@@ -20,13 +19,17 @@ translation: Deutsch  translations/German.md
 
 translation: Français translations/French.md
 -->
-# En préambule : à quoi avez-vous accès ?
+# Les fondamentaux de la recherche documentaire juridique
+
+[preview-lia](https://raw.githubusercontent.com/sjamet8000/RechDoc/refs/heads/main/FmoduleDroit.md)
+
+## En préambule : à quoi avez-vous accès ?
 
 Etudiant.es à l'Université Paris-Saclay, vous avez accès à de très nombreuses ressources, les quelques pages qui vont suivre ont pour objectif de vous montrer comment y accéder le plus simplement possible, et de faire un petit tour d'horizon de la diversité des ressources qui sont à votre disposition. ba
 
 *Si vous vous repérez déjà sans difficulté dans les méandres de l'environnement numériques de l'Université, vous pouvez vous rendre directement [à cette page] pour commencer la formation proprement dite.*
 
-## Atteindre les ressources en lignes sans encombre
+### Atteindre les ressources en lignes sans encombre
 
 Informations primordiales
 ---
@@ -48,7 +51,7 @@ Si vous n'avez pas ces deux informations en votre possession, rendez-vous sur
 ![](assets\Acces_RE\Adonis_mdp.png) Récupérer votre **mot de passe** en cliquant sur **Mon compte** > **[Mot de passe perdu](https://adonis.universite-paris-saclay.fr/annuaire/compte/perte_mdp/)**
 
 
-### CAS et wayf !?
+#### CAS et wayf !?
 
 Si vous venez d'arriver à l'Université Paris-Saclay, vous n'avez peut-être pas encore eu besoin d'accéder à l'environnement numérique. Avec votre mail universitaire et de votre mot de passe, vous allez pouvoir accéder à votre messagerie, aux réseaux wifis Eduroam et Eduspot, et, bien sûr aux ressources électroniques.
 
@@ -57,7 +60,7 @@ Si vous venez d'arriver à l'Université Paris-Saclay, vous n'avez peut-être pa
         {{1}}
 ![](assets\Acces_RE\wayf.png)En revanche, vous n'êtes peut-être pas encore tombé.e sur la page de sélection de votre établissement[^1](Sans faire de design institutionnel, sachez que de nombreux services, en particulier les ressources électroniques, sont mutualisés et proposés par plusieurs établissements dont Paris-Saclay, ce qui nécessite pour vous de spécifier, lorsque vous demandez un accès à ce genre de service, votre établissement de rattachement.). Veillez donc à bien sélectionner " **Université Paris-Saclay (Périmètre employeur) et IOGS** ".
 
-### Via le site web des BU
+#### Via le site web des BU
 
 Maintenant que vous êtes parfaitement équipé.e, partons à la découverte des ressources mises à votre disposition.
 
@@ -69,7 +72,7 @@ Vous pouvez atteindre la liste des ressources disponibles en ligne en cliquant s
 Les ressources sont classées par grands domaines scientifiques. Les ressources en [Sciences humaines et sociales](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-sciences-humaines-et-sociales), en [Economie-Gestion](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-economie-et-gestion) et bien entendu, en [Droit](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-droit), devraient tout particulièrement vous intéresser, mais n'oubliez pas d'aller faire un tour dans notre sélection de presse !
 ![](assets\Acces_RE\BU_RE.png)
 
-### Via le catalogue des BU
+#### Via le catalogue des BU
 
 Un autre moyen tout aussi efficace vous permettra d'atteindre les ressources en ligne, mais pas seulement, le catalogue des bibliothèques, [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?vid=33UDPS_VU1&lang=fr_FR)[^1](Attention aux logos ! Pour chercher dans les fonds de l'Université, veillez à bien voir les logos de l'Université Paris-Saclay, de CentralSupélec et de l'ENS Paris-Saclay !).
 
@@ -92,7 +95,7 @@ Si vous souhaitez vous rendre sur la base Dalloz Enseignant, entrez " Dalloz " d
 
 [^1]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
 
-## Un panorama des ressources en droit, économie, management
+### Un panorama des ressources en droit, économie, management
 
 Depuis la page des [Ressources 24h/24](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources/ressources-24h/24), nous pouvons faire un petit tour d'horizon des différentes bases auxquelles vous avez accès.
 
@@ -125,9 +128,9 @@ Plus généralement en SHS, on vous conseille :
 |[OpenEdition Books](https://books-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue)|e-books|xxxx|
 |[OpenEdition Revues](https://www-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue-journals)|Revues|xxxx|
 
-# Guide des ressources en ligne
+## Guide des ressources en ligne
 
-## Se connecter Lexis 360 Intelligence sans encombre
+### Se connecter Lexis 360 Intelligence sans encombre
 Certaines plateformes imposent la création d'un compte en plus de la connexion via le CAS, Lexis 360 Intelligence en fait partie.
 
 Si vous arrivez d'un autre établissement fournissant un accès à cette plateforme, vous allez devoir recréer un compte avec votre nouvelle adresse universitaire, voici la marche à suivre :
@@ -156,7 +159,7 @@ Pendant vos visites, connectez-vous en renseignant votre identifiant (i.e. votre
 Si vous oubliez votre nom d'utilisateur et/ou votre mot de passe[^1](Ce qui n'arrivera pas si vous notez scrupuleusement ces infos quelque par, dans votre bibliothèque Zotero par exemple.), suivez les indications après avoir cliqué sur **Identifiant ou mot de passe oublié ?**. Dans tous les cas, LexisNexis passera par votre **adresse mail universitaire** pour vous envoyer les informations de récupération avec les adresses *customersupport@lexisnexis.com* et *noreply@lexisnexis.com*. Vous pourrez attendre jusqu'à 5 minutes pour recevoir les messages, vérifiez bien qu'ils ne sont pas tombés dans vos indésirables.
 
 
-## Stradalex
+### Stradalex
 [Stradalex](https://www-stradalex-eu.ezproxy.universite-paris-saclay.fr/fr) est une base incontournable si vous devez étendre vos recherches au-delà des frontières nationales. En effet, Stradalex est très forte en droit européen et couvre largement les sujets tels que la protection de l'environnement, la protection des données personnelles ou encore le droit des technologies de l'information, le droit intellectuel, entre autres domaines.
 ![Page d'accueil de la base Stradalex](assets\Stradalex\Strada_acc.png)
 Pour tout ce qui concerne le droit de l'Union Européenne, Stradalex est intimement liée à la base [EUR-Lex](https://eur-lex.europa.eu/homepage.html?lang=fr), le Légifrance de l'UE, attendez-vous donc à naviguer de l'une à l'autre.
@@ -167,7 +170,7 @@ Stradalex propose deux types de recherche :
 
 2. La recherche thématique (ou par mots-clé)
 
-### La recherche exploratoire
+#### La recherche exploratoire
 C'est-à-dire une recherche où vous naviguez dans l'arborescence de la base depuis l'onglet "Explorer" **(1)**
 ![](assets\Stradalex\Strada_rechex.png)
 
@@ -177,7 +180,7 @@ C'est-à-dire une recherche où vous naviguez dans l'arborescence de la base dep
         {{2}}
 **Inconvénient** : si vous savez déjà ce que vous cherchez, si vous êtes un.e habitué.e de la C.C.L.R., que vous souhaitez simplement consulter l'Art. 22 du Règl. (UE) 2016/300, vous allez perdre du temps, passez plutôt directement à...
 
-### La recherche thématique (ou par mots-clés)
+#### La recherche thématique (ou par mots-clés)
 En passant directement par la barre de recherche et en tapant les mots-clés souhaitez **(2)**, vous pouvez rechercher, dans l'intégralité de la base (*Toutes les sources*), ou **(1)** dans une section seulement (ici sur l'exemple : *Réglementation consolidée*).
 Quelques filtres (masqués par défaut) vous permetteront d'affiner votre recherche **(3)**.
 
@@ -200,7 +203,7 @@ Si la base " ne reconnaît pas " un mot-clé que vous lui proposez (i.e. elle ne
       {{4}}
 ![](assets\Stradalex\Stradalex_recherche_thematique_5.png)... et les identifiants d'actes officiels.
 
-### La recherche avancée
+#### La recherche avancée
 
 Vous pouvez atteindre la recherche avancée en cliquant sur la roue crantée sur la droit de la barre de recherche :
 
@@ -217,12 +220,12 @@ La recherche dite " avancée " est surtout une recherche guidée pour vous perme
 
 [^1] : Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
 
-## Rechercher efficacement dans JSTOR et dans ScienceDirect
+### Rechercher efficacement dans JSTOR et dans ScienceDirect
 
 Descriptif JSTOR
 Descriptif ScienceDirect
 
-### Les revues et ouvrages juridiques dans ScienceDirect
+#### Les revues et ouvrages juridiques dans ScienceDirect
 La recherche thématique n'étant pas le fort de ScienceDirect, il vous est conseillé, dans cette introduction, d'opter pour une recherche exploratoire, d'autant que l'offre pléthorique de la plateforme de Relx (anciennement Elsevier) n'a pas la lisibilité des plateformes plus traditionnelles en littérature juridique.
 
 Néanmoins, ScienceDirect couvre des branches et des domaines juridiques que d'autres bases ne couvrent pas ou peu, comme :
@@ -259,7 +262,7 @@ Pour aller encore plus loin dans le filtrage, vous pouvez ensuite chercher dans 
 
 [^1]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
 
-#### L'accès au texte intégral sur ScienceDirect
+##### L'accès au texte intégral sur ScienceDirect
 
 Si vous avez suivi les étapes de filtrages des publications à la page précédente, seules celles auxquelles vous avez accès en totalité, ou presque, s'affichent.
 
@@ -281,7 +284,7 @@ Et pour le reste :
 
 - une mention *Abstract only* ou *No access*![](assets\ScienceDirect\ScienceDirect_pasacces.png)![](assets\ScienceDirect\ScienceDirect_pasacces2.png)
 
-#### Naviguer dans une publication
+##### Naviguer dans une publication
 Pour atteindre les articles d'une publication, cliquez simplement sur le nom de celle-ci pour afficher la page d'accueil. ![](assets\ScienceDirect\ScienceDirect_publication.png)
 Sur cette dernière, deux points à repérer :
 
@@ -298,11 +301,11 @@ Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemb
         {{2}}
 ![](assets\Communs_fondamentaux\Structure_publi_1.png)
 
-## Le Social Science Research Network (SSRN)
+### Le Social Science Research Network (SSRN)
 
-## SpringerNature
+### SpringerNature
 
-## La recherche de données bibliographiques avec LeDoctrinal
+### La recherche de données bibliographiques avec LeDoctrinal
 [LeDoctrinal](https://www-doctrinal-fr.ezproxy.universite-paris-saclay.fr/) est une base de **données bibliographiques** qui propose des notices bibliographiques d’articles de revues, de la jurisprudence française et européenne, des textes officiels, ainsi que des références bibliographiques de Mélanges.
 
 ![](assets\LeDoctrinal\LeDoctrinal_acc.png)
@@ -316,39 +319,43 @@ LeDoctrinal est donc une base qui permet de faire des **recherches thématiques*
 
 La première est *par définition* un outil de recherche documentaire, tandis que la seconde tient plus de l'entrepôt, plus ou moins bien rangé.
 
-### Rechercher dans LeDoctrinal
+#### Rechercher dans LeDoctrinal
 
 Ici, la **recherche exploratoire** n'a pas grand sens, vous n'allez pas pouvoir flâner dans les rayonnages vituels en espérant tomber sur quelque chose d'intéressant et de pertinent, il va falloir chercher thématiquement et donc s'armer des mots-clés les plus pertinents et les plus efficaces.
 
 On peut tout de même distinguer au moins deux degrés de recherche avec LeDoctrinal : la **recherche simple** et la recherche dite " **experte** ".
 
-#### La recherche simple
+##### La recherche simple
 
 Pour éviter toute déception, limitez-vous pour la recherche simple, à deux mots-clés maximum, sans vous embarrasser de guillemets, parenthèses ou autre opérateurs de recherche, pour le meilleur et pour le pire[^2], LeDoctrinal s'accorde mieux avec une recherche en langage libre qu'avec la syntaxe habituellement requise dans ce genre de base.
 
 Mettons que recherchons de la doctrine autour de **l'avis consultatif de Cour internationale de justice sur la responsabilité juridique des Etats en matière de changement climatique**.
 
 Lancez la recherche telle qu'elle, combien de résultats trouvez-vous ?
-(*en chiffre*) > [[0]]
+(*en chiffre*) -> [[0]]
 
 {1}{*Telle qu'elle, la requête est bien trop longue, comporte trop de mots-clés pour que LeDoctrinal puisse retrouver la moindre référence, il faut simplifier.*![](assets\LeDoctrinal\LeDoctrinal_rech_simple.png)}
 
         {{2}}
-Lancez la recherche **avis consultatif cour internationale de justice**, combien de résultats trouvez-vous en doctrine ? (*en chiffres*) > [[82]]
+Lancez la recherche **avis consultatif cour internationale de justice**, combien de résultats trouvez-vous en doctrine ? (*en chiffres*) -> [[82]]
 
 [^2]: Le problème avec ce fonctionnement étant qu'il reste assez obscure pour l'utilisateur puisqu'il ne peut pas contrôler très exactement la manière dont la base de données interprète ses requêtes.
 
-#### La recherche experte
+##### La recherche experte
 
-#### Les notices et leurs liens
+Assez rigide elle aussi, elle vous permet tout de même de monter en puissance sur la précision de vos requêtes, à condition de bien comprendre son fonctionnement...
 
-## La veille juridique
+![](assets\LeDoctrinal\LeDoctrinal_rech_exp.png)
 
-# Quelques conseils méthodologiques
+##### Les notices et leurs liens
 
-## Quelques workflows en recherche documentaire juridique
+### La veille juridique
 
-## Les guillemets et la troncature
+## Quelques conseils méthodologiques
+
+### Workflows en recherche documentaire juridique
+
+### Les guillemets et la troncature
 
 Vous avez pu remarquer qu'en modifiant très légèrement les mots-clés, on parvient à des résultats sensiblement différents.
 
