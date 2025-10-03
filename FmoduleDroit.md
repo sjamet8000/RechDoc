@@ -22,7 +22,9 @@ translation: Français translations/French.md
 -->
 # En préambule : à quoi avez-vous accès ?
 
-Etudiant.es à l'Université Paris-Saclay, vous avez accès à de très nombreuses ressources, les quelques pages qui vont suivre ont pour objectif de vous montrer comment y accéder le plus simplement possible, et de faire un petit tour d'horizon de la diversité des ressources qui sont à votre disposition.
+## Et test ?
+
+Etudiant.es à l'Université Paris-Saclay, vous avez accès à de très nombreuses ressources, les quelques pages qui vont suivre ont pour objectif de vous montrer comment y accéder le plus simplement possible, et de faire un petit tour d'horizon de la diversité des ressources qui sont à votre disposition. ba
 
 *Si vous vous repérez déjà sans difficulté dans les méandres de l'environnement numériques de l'Université, vous pouvez vous rendre directement [à cette page] pour commencer la formation proprement dite.*
 
