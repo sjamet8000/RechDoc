@@ -298,13 +298,22 @@ Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemb
         {{2}}
 ![](assets\Communs_fondamentaux\Structure_publi_1.png)
 
-
-
 ## Le Social Science Research Network (SSRN)
 
 ## SpringerNature
 
 ## La recherche de données bibliographiques avec LeDoctrinal
+[LeDoctrinal](https://www-doctrinal-fr.ezproxy.universite-paris-saclay.fr/) est une base de **données bibliographiques** qui propose des notices bibliographiques d’articles de revues, de la jurisprudence française et européenne, des textes officiels, ainsi que des **références bibliographiques** de Mélanges.
+
+![](assets\LeDoctrinal\LeDoctrinal_acc.png)
+
+Base de données bibliographiques ? Notices bibliographiques ?
+=====
+
+Contrairement à d'autres plateformes visitées précédemment visitées, LeDoctrinal n'offre pas, d'accès au texte intégral des références recherchées. Sa force réside dans la qualité des informations qu'elle rend accessible et qui décrivent les documents référencés.
+
+LeDoctrinal est donc une base qui permet de faire des **recherches thématiques** poussées dans un certain fond (en l'occurrence, la doctrine) contrairement à une plateforme éditoriale qui offre un accès à tout ou 
+
 
 ## La veille juridique
 
