@@ -313,11 +313,11 @@ Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemb
 Base de données bibliographiques ?
 =====
 
-Contrairement à d'autres plateformes précédemment visitées, LeDoctrinal n'offre pas, d'accès au texte intégral des références recherchées. Sa force réside dans la qualité des informations qu'elle rend accessible et qui décrivent les documents référencés.
+Contrairement à d'autres plateformes précédemment visitées, LeDoctrinal n'offre pas d'accès au texte intégral des références recherchées. Sa force réside dans la qualité des informations qu'elle rend accessible et qui décrivent les documents référencés.
 
 LeDoctrinal est donc une base qui permet de faire des **recherches thématiques** poussées dans un certain fond (en l'occurrence, la doctrine) contrairement à une plateforme éditoriale qui offre un accès à de la documentation.
 
-La première est *par définition* un outil de recherche documentaire, tandis que la seconde tient plus de l'entrepôt, plus ou moins bien rangé.
+La première est *par définition* un outil de recherche documentaire, tandis que la seconde tient davantage de l'entrepôt, plus ou moins bien rangé.
 
 #### Rechercher dans LeDoctrinal
 
@@ -327,19 +327,19 @@ On peut tout de même distinguer au moins deux degrés de recherche avec LeDoctr
 
 ##### La recherche simple
 
-Pour éviter toute déception, limitez-vous pour la recherche simple, à deux mots-clés maximum, sans vous embarrasser de guillemets, parenthèses ou autre opérateurs de recherche. Pour le meilleur et pour le pire[^2], LeDoctrinal s'accorde mieux avec une recherche en langage libre qu'avec la syntaxe habituellement requise dans ce genre de base.
+Pour éviter toute déception, limitez-vous pour la recherche simple, à deux mots-clés maximum, sans vous embarrasser de guillemets, parenthèses ou autres opérateurs de recherche. Pour le meilleur et pour le pire[^2], LeDoctrinal s'accorde mieux avec une recherche en langage libre qu'avec la syntaxe habituellement requise dans ce genre de base.
 
 Mettons que recherchons de la doctrine autour de **l'avis consultatif de Cour internationale de justice sur la responsabilité juridique des Etats en matière de changement climatique**.
 
-Lancez la recherche telle qu'elle, combien de résultats trouvez-vous ?
+Lancez la recherche telle quelle, combien de résultats trouvez-vous ?
 (*en chiffre*) -> [[0]]
 
-{1}{*Telle qu'elle, la requête est bien trop longue, comporte trop de mots-clés pour que LeDoctrinal puisse retrouver la moindre référence, il faut simplifier.*![](assets\LeDoctrinal\LeDoctrinal_rech_simple.png)}
+{1}{*Telle quelle, la requête est trop longue, comporte trop de mots-clés pour que LeDoctrinal puisse retrouver la moindre référence, il faut simplifier.*![](assets\LeDoctrinal\LeDoctrinal_rech_simple.png)}
 
         {{2}}
 Lancez la recherche **avis consultatif cour internationale de justice**, combien de résultats trouvez-vous en doctrine ? (*en chiffres*) -> [[82]]
 
-[^2]: Le problème avec ce fonctionnement étant qu'il reste assez obscure pour l'utilisateur puisqu'il ne peut pas contrôler très exactement la manière dont la base de données interprète ses requêtes.
+[^2]: Le problème avec ce fonctionnement étant qu'il reste assez obscur pour l'utilisateur puisqu'il ne peut pas contrôler très exactement la manière dont la base de données interprète ses requêtes.
 
 ##### La recherche experte : fonctionnement
 
@@ -350,7 +350,7 @@ Assez rigide elle aussi, elle vous permet tout de même de monter en puissance s
 Boutons et champs :
 ===
 
-**1.** Vous avez le choix entre deux opérateurs (booléens) : ET/OU. Attention à celui que vous choisissez, cela change tout.
+**1.** Vous avez le choix entre deux opérateurs (booléens) : ET/OU. Attention à celui que vous choisissez, cela change tout :
 
 **fromage ET dessert** n'est pas équivalent à **fromage OU dessert**, dans le premier cas vous demandez l'un ET l'autre **en même temps** ; dans le second cas vous demandez a minima l'un OU l'autre, séparément ou les deux en même temps.
 
@@ -368,7 +368,7 @@ Lequel ?
 
 **2.** Ici avez le choix entre plusieurs opérateurs : ou bien le mot-clé peut-être **contenu** dans une expression plus grande, ou bien le mot-clé doit apparaitre **exactement** comme vous l'avez écrit, ou bien LeDoctrinal va rechercher **en plus** du mot-clé renseigné d'autres mots-clés **proches**[^3].
 
-Ici encore, une utilisation maîtrisée de ces opérateurs est utile dans une stratégie de recherche exhaustive : pour une requête comportant les mêmes mots-clés, vous n'aurez pas le même nombre de résultats sur chacun des types de sources.  
+Une utilisation maîtrisée de ces opérateurs est utile dans une stratégie de recherche exhaustive : pour une requête comportant les mêmes mots-clés, vous n'aurez pas le même nombre de résultats sur chacun des types de sources.  
 
 **3.** Ici, renseignez **un** mot-clé pour éviter de surcharger LeDoctrinal. Notez aussi que la base garde en mémoire les précédents mots-clés que vous avez cherché.
 
@@ -393,8 +393,9 @@ Vous auriez maintenant besoin d'élargir la recherche précédente au **droit in
 ![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_2.png)
 
         {{3-4}}
-Vous auriez maintenant besoin d'associer les deux champs normatifs précédents au **milieu forestier** ou aux **zones humides** en général. --> **Traduction possible**[^6] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois les mots-clés *droit de l'union européenne* et *droit international*, nécessairement associés aux mots-clés *forêt* ou au mot-clé *zones humides*.
+Vous auriez maintenant besoin d'associer les deux champs normatifs précédents au **milieu forestier** ou aux **zones humides** en général. --> **Traduction possible**[^6] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois les mots-clés *droit de l'union européenne* et *droit international*, tous deux nécessairement associés aux mots-clés *forêt* ou au mot-clé *zones humides*.
 ![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_3.png)
+![](assets\LeDoctrinal\LeDoctrinal_rech_exp_4.png)
 
 [^4]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET forêt\***
 
