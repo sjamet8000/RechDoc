@@ -310,7 +310,7 @@ Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemb
 
 ![](assets\LeDoctrinal\LeDoctrinal_acc.png)
 
-Base de données bibliographiques ? Notices bibliographiques ?
+Base de données bibliographiques ?
 =====
 
 Contrairement à d'autres plateformes précédemment visitées, LeDoctrinal n'offre pas, d'accès au texte intégral des références recherchées. Sa force réside dans la qualité des informations qu'elle rend accessible et qui décrivent les documents référencés.
