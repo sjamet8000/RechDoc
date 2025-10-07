@@ -350,7 +350,7 @@ Assez rigide elle aussi, elle vous permet tout de même de monter en puissance s
 Boutons et champs :
 ===
 
-**1.** Vous avez le choix entre deux opérateurs : ET/OU. Attention à celui que vous choisissez, cela change tout.
+**1.** Vous avez le choix entre deux opérateurs (booléens) : ET/OU. Attention à celui que vous choisissez, cela change tout.
 
 **fromage ET dessert** n'est pas équivalent à **fromage OU dessert**, dans le premier cas vous demandez l'un ET l'autre **en même temps** ; dans le second cas vous demandez a minima l'un OU l'autre, séparément ou les deux en même temps.
 
@@ -366,17 +366,27 @@ Lequel ?
 
 [[ ET ? | (OU ?) ]]
 
-**2.** Vous avez le choix entre plusieurs scopes : ou bien le mot-clé peut-être **contenu** dans une expression plus grande, ou bien le mot-clé doit apparaitre **exactement** comme vous l'avez écrit, ou bien LeDoctrinal va rechercher **en plus** du mot-clé renseigné d'autres mots-clés **proches**[^3].
+**2.** Ici avez le choix entre plusieurs opérateurs : ou bien le mot-clé peut-être **contenu** dans une expression plus grande, ou bien le mot-clé doit apparaitre **exactement** comme vous l'avez écrit, ou bien LeDoctrinal va rechercher **en plus** du mot-clé renseigné d'autres mots-clés **proches**[^3].
 
-**3.**
+Ici encore, une utilisation maîtrisée de ces opérateurs est utile dans une stratégie de recherche exhaustive : pour une requête comportant les mêmes mots-clés, vous n'aurez pas le même nombre de résultats sur chacun des types de sources.  
+
+**3.** Ici, renseignez **un** mot-clé pour éviter de surcharger LeDoctrinal. Notez aussi que la base garde en mémoire les précédents mots-clés que vous avez cherché.
 
 ![](assets\LeDoctrinal\LeDoctrinal_rech_exp_2.png)
-
-Quelques exemples pour vous guider sur un usage efficace :
 
 [^3]: Ici, le doute subsiste quand à la nature de la proximité selon LeDoctrinal, est-ce une proximité orthographique ? Ou sémantique ? A vous de vous faire votre idée.
 
 ##### La recherche experte : exemples
+
+Quelques exemples pour vous guider sur un usage efficace :
+
+        {{1-2}}
+Vous souhaitez interroger **la doctrine relative relative aux compétences et instruments juridiques de l'Union européenne en matière de gestion des forêts**.
+Il est important d'essayer de traduire cet objectif de recherche en une requête que la base est en capacité de comprendre.
+![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3.png)
+**Traduction possible** : vous demandez à LeDoctrinal de vous faire remonter toutes les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants). Notez que pour Le Doctrinal, les deux possibilités ci-dessus sont strictement équivalentes.
+
+        {{2}}
 
 ##### Les notices et leurs liens
 
