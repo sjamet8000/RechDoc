@@ -327,7 +327,7 @@ On peut tout de même distinguer au moins deux degrés de recherche avec LeDoctr
 
 ##### La recherche simple
 
-Pour éviter toute déception, limitez-vous pour la recherche simple, à deux mots-clés maximum, sans vous embarrasser de guillemets, parenthèses ou autre opérateurs de recherche, pour le meilleur et pour le pire[^2], LeDoctrinal s'accorde mieux avec une recherche en langage libre qu'avec la syntaxe habituellement requise dans ce genre de base.
+Pour éviter toute déception, limitez-vous pour la recherche simple, à deux mots-clés maximum, sans vous embarrasser de guillemets, parenthèses ou autre opérateurs de recherche. Pour le meilleur et pour le pire[^2], LeDoctrinal s'accorde mieux avec une recherche en langage libre qu'avec la syntaxe habituellement requise dans ce genre de base.
 
 Mettons que recherchons de la doctrine autour de **l'avis consultatif de Cour internationale de justice sur la responsabilité juridique des Etats en matière de changement climatique**.
 
