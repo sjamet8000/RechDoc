@@ -393,7 +393,7 @@ Vous auriez maintenant besoin d'élargir la recherche précédente au **droit in
 ![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_2.png)
 
         {{3-4}}
-Vous auriez maintenant besoin d'associer les deux champs normatifs précédents au **milieu forestier** ou aux **zones humides** en général. --> **Traduction possible**[^6] : vous demandez à Le Doctrinal de vous faire remonter les références doctrinales comportant à la fois les mots-clés *droit de l'union européenne* et *droit international*, nécessairement associés aux mots-clés *forêt* ou au mot-clé *zones humides*.
+Vous auriez maintenant besoin d'associer les deux champs normatifs précédents au **milieu forestier** ou aux **zones humides** en général. --> **Traduction possible**[^6] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois les mots-clés *droit de l'union européenne* et *droit international*, nécessairement associés aux mots-clés *forêt* ou au mot-clé *zones humides*.
 ![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_3.png)
 
 [^4]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET forêt\***
@@ -402,7 +402,21 @@ Vous auriez maintenant besoin d'associer les deux champs normatifs précédents 
 
 [^6]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET " droit international " ET (forêt\* OU " zones humides ")**
 
-##### Les notices et leurs liens
+##### Les notices et leurs métadonnées
+
+Quand on utilise une base telle que LeDoctrinal, il est crucial de savoir à quel type d'information elle donne accès. Le coeur d'une base de données bibliographiques comme celle-ci, ce sont les **notices bibliographiques** qui contiennent les **métadonnées** qui *décrivent* un document.
+
+Ces notices bibliographiques ont l'avantage d'être normées, de rassembler toutes les informations publiques nécessaires pour retrouver un document (physique ou numérique) et de donner quelques informations qualitatives sur le document en lui-même, sans pour autant vous donner accès au document.
+
+Avec LeDoctrinal, on peut distinguer deux types de métadonnées :
+
+1. Les métadonnées qui vont vous permettre de retrouver le texte intégral
+![](assets\LeDoctrinal\LeDoctrinal_notice_biblio_meta1.png)
+
+2. Les métadonnées qui vous donnent des informations sur le contenu du document
+![](assets\LeDoctrinal\LeDoctrinal_notice_biblio_meta2.png)
+
+Avec ces deux types d'information, vous pouvez vous faire une première idée de la pertinence d'un document, et savoir où il se trouve (dans quelle bibliothèque, ou dans quelle plateforme éditoriale).
 
 ### La veille juridique
 
