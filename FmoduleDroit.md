@@ -383,10 +383,24 @@ Quelques exemples pour vous guider sur un usage efficace :
         {{1-2}}
 Vous souhaitez interroger **la doctrine relative relative aux compétences et instruments juridiques de l'Union européenne en matière de gestion des forêts**.
 Il est important d'essayer de traduire cet objectif de recherche en une requête que la base est en capacité de comprendre.
+-->
+**Traduction possible**[^4] : vous demandez à LeDoctrinal de vous faire remonter toutes les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants).
 ![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3.png)
-**Traduction possible** : vous demandez à LeDoctrinal de vous faire remonter toutes les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants). Notez que pour Le Doctrinal, les deux possibilités ci-dessus sont strictement équivalentes.
+Notez que pour Le Doctrinal, les deux possibilités ci-dessus sont strictement équivalentes.
 
-        {{2}}
+        {{2-3}}
+Vous auriez maintenant besoin d'élargir la recherche précédente au **droit international**. --> **Traduction possible**[^5] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants) OU à la fois le mot-clé *droit international* et *forêt* (ou des termes approchants).
+![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_2.png)
+
+        {{3-4}}
+Vous auriez maintenant besoin d'associer les deux champs normatifs précédents au **milieu forestier** ou aux **zones humides** en général. --> **Traduction possible**[^6] : vous demandez à Le Doctrinal de vous faire remonter les références doctrinales comportant à la fois les mots-clés *droit de l'union européenne* et *droit international*, nécessairement associés aux mots-clés *forêt* ou au mot-clé *zones humides*.
+![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_3.png)
+
+[^4]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET forêt\***
+
+[^5]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **(" droit de l'union européenne " OU " droit international ") ET forêt\***
+
+[^6]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET " droit international " ET (forêt\* OU " zones humides ")**
 
 ##### Les notices et leurs liens
 
