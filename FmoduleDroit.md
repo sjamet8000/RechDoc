@@ -341,11 +341,42 @@ Lancez la recherche **avis consultatif cour internationale de justice**, combien
 
 [^2]: Le problème avec ce fonctionnement étant qu'il reste assez obscure pour l'utilisateur puisqu'il ne peut pas contrôler très exactement la manière dont la base de données interprète ses requêtes.
 
-##### La recherche experte
+##### La recherche experte : fonctionnement
 
 Assez rigide elle aussi, elle vous permet tout de même de monter en puissance sur la précision de vos requêtes, à condition de bien comprendre son fonctionnement...
 
 ![](assets\LeDoctrinal\LeDoctrinal_rech_exp.png)
+
+Boutons et champs :
+===
+
+**1.** Vous avez le choix entre deux opérateurs : ET/OU. Attention à celui que vous choisissez, cela change tout.
+
+**fromage ET dessert** n'est pas équivalent à **fromage OU dessert**, dans le premier cas vous demandez l'un ET l'autre **en même temps** ; dans le second cas vous demandez a minima l'un OU l'autre, séparément ou les deux en même temps.
+
+Maîtriser l'usage de ces opérateurs est crucial si vous souhaitez utiliser la recherche experte. L'un des deux va restreindre la quantité de résultats...
+
+Lequel ?
+
+[[ OU ? | (ET ?) ]]
+
+... L'autre va au contraire l'augmenter.
+
+Lequel ?
+
+[[ ET ? | (OU ?) ]]
+
+**2.** Vous avez le choix entre plusieurs scopes : ou bien le mot-clé peut-être **contenu** dans une expression plus grande, ou bien le mot-clé doit apparaitre **exactement** comme vous l'avez écrit, ou bien LeDoctrinal va rechercher **en plus** du mot-clé renseigné d'autres mots-clés **proches**[^3].
+
+**3.**
+
+![](assets\LeDoctrinal\LeDoctrinal_rech_exp_2.png)
+
+Quelques exemples pour vous guider sur un usage efficace :
+
+[^3]: Ici, le doute subsiste quand à la nature de la proximité selon LeDoctrinal, est-ce une proximité orthographique ? Ou sémantique ? A vous de vous faire votre idée.
+
+##### La recherche experte : exemples
 
 ##### Les notices et leurs liens
 
