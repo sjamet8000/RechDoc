@@ -129,6 +129,11 @@ Plus généralement en SHS, on vous conseille :
 |[OpenEdition Revues](https://www-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue-journals)|Revues|xxxx|
 
 ## Guide des ressources en ligne
+Brise-glace sur quelle ressources est quoi ? Archive ouverte ou accès non libre
+
+> Extension de l'exploitation des terres rares dans la transition écologique
+
+> les labels en droit du patrimoine
 
 ### Se connecter Lexis 360 Intelligence sans encombre
 Certaines plateformes imposent la création d'un compte en plus de la connexion via le CAS, Lexis 360 Intelligence en fait partie.
@@ -301,9 +306,13 @@ Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemb
         {{2}}
 ![](assets\Communs_fondamentaux\Structure_publi_1.png)
 
-### Le Social Science Research Network (SSRN)
+### Le Social Science Research Network (SSRN) et HAL
 
-### SpringerNature
+
+
+### Une petite option sur OpenAlex
+
+### HeinOnline
 
 ### La recherche de données bibliographiques avec LeDoctrinal
 [LeDoctrinal](https://www-doctrinal-fr.ezproxy.universite-paris-saclay.fr/) est une base de **données bibliographiques** qui propose des notices bibliographiques d’articles de revues, de la jurisprudence française et européenne, des textes officiels, ainsi que des références bibliographiques de Mélanges.
@@ -419,6 +428,13 @@ Avec LeDoctrinal, on peut distinguer deux types de métadonnées :
 
 Avec ces deux types d'information, vous pouvez vous faire une première idée de la pertinence d'un document, et savoir où il se trouve (dans quelle bibliothèque, ou dans quelle plateforme éditoriale).
 
+Exemples : les labels en droit du patrimoine
+
+### Europresse
+
+Faire ressortir la gazette des communes, Le monde Diplomatique, Le Monde,
+L'espace PDF
+
 ### La veille juridique
 
 ## Quelques conseils méthodologiques
@@ -443,3 +459,14 @@ Si vous cherchez *"plantes cultivées"*, vous cherchez en fait :
 Par exemple, lorsque vous recherchez *plant\** au lieu de *plantes*, vous cherchez à la fois *plantes*, *planter*, *planté*, etc.
 
 Lorsque vous recherchez *cultiv\** au lieu de *cultivées*, vous recherchez à la fois *cultiver*, *cultivé*, *cultivée*, *cultivées*, etc.
+
+## Bonus Mir@bel ou astuces pour trouver des références introuvables
+Comment trouver une revue, ou des articles que vous ne trouvez pas
+
+## IA
+
+!?[UNIGE - Hors Classe #5 -- Intelligence artificielle générative](https://youtu.be/YbuB_TU9ETE?si=RQ3qJOe_pZ-7AbQU)
+
+## Fabriquer un prompt
+
+La bonne recette pour le prompt
