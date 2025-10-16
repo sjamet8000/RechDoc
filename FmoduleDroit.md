@@ -3,7 +3,7 @@ author:   Samuel Jamet
 
 email:    samuel.jamet@universite-paris-saclay
 
-tags:     Liascript, recherche documentaire , droit
+tags:     Liascript, recherche documentaire, droit
 
 version:  0.0.1
 
@@ -14,10 +14,6 @@ comment:  Ce cours est à destination des étudiants de master de droit
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
-
-translation: Deutsch  translations/German.md
-
-translation: Français translations/French.md
 -->
 # Les fondamentaux de la recherche documentaire juridique
 
@@ -25,7 +21,7 @@ translation: Français translations/French.md
 
 ## En préambule : à quoi avez-vous accès ?
 
-Etudiant.es à l'Université Paris-Saclay, vous avez accès à de très nombreuses ressources, les quelques pages qui vont suivre ont pour objectif de vous montrer comment y accéder le plus simplement possible, et de faire un petit tour d'horizon de la diversité des ressources qui sont à votre disposition. ba
+Etudiant.es à l'Université Paris-Saclay, vous avez accès à de très nombreuses ressources, les quelques pages qui vont suivre ont pour objectif de vous montrer comment y accéder le plus simplement possible, et de faire un petit tour d'horizon de la diversité des ressources qui sont à votre disposition.
 
 *Si vous vous repérez déjà sans difficulté dans les méandres de l'environnement numériques de l'Université, vous pouvez vous rendre directement [à cette page] pour commencer la formation proprement dite.*
 
