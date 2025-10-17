@@ -141,9 +141,9 @@ Brise-glace sur quelle ressources est quoi ? Archive ouverte ou accès non libre
 ></iframe>
 <script src="https://ecampus.paris-saclay.fr/h5p/h5plib/v127/joubel/core/js/h5p-resizer.js"></script>
 
-> Extension de l'exploitation des terres rares dans la transition écologique
+Extension de l'exploitation des terres rares dans la transition écologique
 
-> les labels en droit du patrimoine
+les labels en droit du patrimoine
 
 ### Se connecter Lexis 360 Intelligence sans encombre
 Certaines plateformes imposent la création d'un compte en plus de la connexion via le CAS, Lexis 360 Intelligence en fait partie.
