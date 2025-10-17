@@ -127,18 +127,19 @@ Plus généralement en SHS, on vous conseille :
 ## Guide des ressources en ligne
 Brise-glace sur quelle ressources est quoi ? Archive ouverte ou accès non libre
 
-
+<div class="d-flex justify-content-end mb-3">
+</div>
 
 <iframe
     src="https://ecampus.paris-saclay.fr/h5p/embed.php?url=https%3A%2F%2Fecampus.paris-saclay.fr%2Fpluginfile.php%2F4443149%2Fmod_h5pactivity%2Fpackage%2F0%2F1585297997.h5p&amp;component=mod_h5pactivity"
-    name="h5player"
     width="1508"
     height="947"
-    allowfullscreen="allowfullscreen"
+    frameborder="0"
     class="h5p-player w-100 border-0"
     style="height: 0px;"
     id="68f2147b1ed9168f2147b1ed931-h5player"
-></iframe><script src="https://ecampus.paris-saclay.fr/h5p/h5plib/v127/joubel/core/js/h5p-resizer.js"></script>
+></iframe>
+<script src="https://ecampus.paris-saclay.fr/h5p/h5plib/v127/joubel/core/js/h5p-resizer.js"></script>
 
 > Extension de l'exploitation des terres rares dans la transition écologique
 
