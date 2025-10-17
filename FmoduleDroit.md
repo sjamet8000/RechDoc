@@ -230,12 +230,7 @@ La recherche dite " avancée " est surtout une recherche guidée pour vous perme
 
 [^1] : Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
 
-### Rechercher efficacement dans JSTOR et dans ScienceDirect
-
-Descriptif JSTOR
-Descriptif ScienceDirect
-
-#### Les revues et ouvrages juridiques dans ScienceDirect
+### Les revues et ouvrages juridiques dans ScienceDirect
 La recherche thématique n'étant pas le fort de ScienceDirect, il vous est conseillé, dans cette introduction, d'opter pour une recherche exploratoire, d'autant que l'offre pléthorique de la plateforme de Relx (anciennement Elsevier) n'a pas la lisibilité des plateformes plus traditionnelles en littérature juridique.
 
 Néanmoins, ScienceDirect couvre des branches et des domaines juridiques que d'autres bases ne couvrent pas ou peu, comme :
@@ -272,7 +267,7 @@ Pour aller encore plus loin dans le filtrage, vous pouvez ensuite chercher dans 
 
 [^1]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
 
-##### L'accès au texte intégral sur ScienceDirect
+#### L'accès au texte intégral sur ScienceDirect
 
 Si vous avez suivi les étapes de filtrages des publications à la page précédente, seules celles auxquelles vous avez accès en totalité, ou presque, s'affichent.
 
@@ -294,7 +289,7 @@ Et pour le reste :
 
 - une mention *Abstract only* ou *No access*![](assets\ScienceDirect\ScienceDirect_pasacces.png)![](assets\ScienceDirect\ScienceDirect_pasacces2.png)
 
-##### Naviguer dans une publication
+#### Naviguer dans une publication
 Pour atteindre les articles d'une publication, cliquez simplement sur le nom de celle-ci pour afficher la page d'accueil. ![](assets\ScienceDirect\ScienceDirect_publication.png)
 Sur cette dernière, deux points à repérer :
 
@@ -436,6 +431,36 @@ Avec ces deux types d'information, vous pouvez vous faire une première idée de
 Exemples : les labels en droit du patrimoine
 
 ### Europresse
+
+La base [Europresse](https://nouveau-europresse-com.ezproxy.universite-paris-saclay.fr/Search/Reading) est un service qui regroupe et met à disposition des articles de presse francophones dans une base de données accessible en ligne.
+
+Il s'agit d'une base payante, il est donc nécessaire de passer par [le site web des BU](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources/ressources-24h/24) ou par le catalogue [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?institution=33UDPS&vid=33UDPS_VU1&tab=default_tab&search_scope=default_scope&mode=Basic&displayMode=full&bulkSize=50&highlight=true&dum=true&query=any,contains,europresse&displayField=all&pcAvailabilityMode=false&choix_index=tout) pour y accéder.
+
+![](assets\Europresse\Europresse_acc.png)
+
+La plateforme comporte une grande variété de type de contenus, mais nous allons nous concentrer sur la presse, avec trois exemples d'utilisation pour apprendre à connaître la plateforme.
+
+#### Exemple n°1 : la recherche thématique simple
+
+La recherche thématique sur Europresse ne vous surprendra pas, elle ressemble à toutes les autres.
+
+Attention tout de même : par défaut, Europresse vous proposera des résultats piochés dans *Tout le contenu* et dans les *30 derniers jours*, pensez à modifier ce scope si nécessaire.
+
+Vous pouvez par exemple isoler les titres de la presse nationale française, ou des titres de toutes l'Europe.
+
+![](assets\Europresse\Europresse_rech_simple.png)
+
+<iframe
+  src="https://sjamet8000.github.io/RechDoc/activites/europresse.html"
+  width="100%"
+  height="600"
+  style="border:none;"
+  allowfullscreen
+></iframe>
+
+#### Conseil n°2
+
+#### Conseil n°3
 
 Faire ressortir la gazette des communes, Le monde Diplomatique, Le Monde,
 L'espace PDF
