@@ -318,6 +318,15 @@ Les utilisateurs peuvent y télécharger, consulter et commenter des documents a
 
 ### HAL
 
+![](assets\HAL\Logo_HAL.png) [HAL (Hyper Articles en Ligne)](https://hal.science/) est une archive ouverte nationale développée par le CCSD (Centre pour la Communication Scientifique Directe, CNRS). Elle permet le dépôt, la diffusion et la consultation de travaux de recherche produits par des chercheurs, enseignants-chercheurs et étudiants français ou étrangers.
+
+La navigation au sein de cet immense entrepôt peut ne pas être très intuitive, voici quelques pistes pour vous aider à faire connuaissance.
+
+#### Rechercher dans les archives en droit
+
+#### Rechercher dans les archives institutionnelles
+
+
 ### Une petite option sur OpenAlex
 
 ### HeinOnline
