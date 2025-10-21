@@ -320,12 +320,42 @@ Les utilisateurs peuvent y télécharger, consulter et commenter des documents a
 
 ![](assets\HAL\Logo_HAL.png) [HAL (Hyper Articles en Ligne)](https://hal.science/) est une archive ouverte nationale développée par le CCSD (Centre pour la Communication Scientifique Directe, CNRS). Elle permet le dépôt, la diffusion et la consultation de travaux de recherche produits par des chercheurs, enseignants-chercheurs et étudiants français ou étrangers.
 
-La navigation au sein de cet immense entrepôt peut ne pas être très intuitive, voici quelques pistes pour vous aider à faire connuaissance.
+La navigation au sein de cet immense entrepôt peut ne pas être très intuitive, voici quelques pistes pour vous aider à faire connaissance.
 
-#### Rechercher dans les archives en droit
+#### Rechercher dans les ressources en droit
+
+Une manière particulièrement simple de faire vos recherches dans les fonds de ressources en droit est d'interroger par **Domaines** et **Sous-domaines**.
+
+> ![](assets\HAL\HAL_acc.png)**Attention** : La barre de recherche de HAL se situe en milieu de page et peut ne pas être visible en fonction de votre résolution.
+
+{{1}} Sous la barre de recherche, cliquez directement sur **Sciences de l'Homme et de la Société**![](assets\HAL\HAL_SHS_acc.png)
+
+{{2}} Les résultats correspondants au domaine s'affichent, mais ils sont encore bien trop nombreux. Pour les préciser encore un peu, regardez du côté de la barre de recherche qui affiche *domain_t:shs* :![](assets\HAL\HAL_domain.png)
+
+{{3}} Il vous suffit d'y ajouter *.droit* pour afficher toutes les références en répertoriées dans ce domaine. Vous pouvez systématiquement faire débuter votre requête par *domain_t:shs.droit* suivi d'un ou plusieurs mots-clés. ![](assets\HAL\HAL_astuce_recherche.png)
+
+{{4}} **Question** : Testez la requête ci-dessous dans [HAL](https://hal.science/). Quel.le auteur.ice est particulièrement présent.e dans le résultats obtenus (*ne notez que son nom de famille, respectez la casse*) ?
+[[Fontanel]]
+
+{{5}} **Question** : Quel est le type de document le plus présent parmi les résultats obtenus ?
+[[Article dans une revue|Thèse|(Communication dans un congrès)|Poster de conférence]]
 
 #### Rechercher dans les archives institutionnelles
 
+#### Le portail HAL SHS
+
+Outre la plateforme principale, il existe un [portail HAL dédié aux sciences humaines et sociales](https://shs.hal.science/), dans lequel il vous sera plus aisé de retrouver des ressources en droit.
+
+Tapez *HAL SHS* dans votre moteur de recherche favori pour y accéder, ou rendez-vous tout en bas de la page d'accueil du site principal pour trouver les accès aux portails plus spécialisés.
+![](assets\HAL\HAL_SHS.png)
+
+À partir du portail HAL SHS, vous pourrez déjà effectuer une recherche plus précise, mais vous gagnerez à préciser encore votre exploration, en passant par l'onglet **Parcourir** puis **Par Discipline**.
+![](assets\HAL\HAL_SHS2.png)
+
+Un diagramme en anneau s'affiche, cliquez dessus pour afficher d'autres options et choisissez **Voir les sous-domaines**. Par chance, le droit reste le domaine le plus représenté en SHS dans HAL, vous ne pourrez donc pas le rater.
+
+Sur le deuxième diagramme en anneau, cliquez dans la zone du Droit puis sur **Voir les résultats de recherche**.
+![](assets\HAL\HAL_SHS3.png)
 
 ### Une petite option sur OpenAlex
 
@@ -560,3 +590,13 @@ Comment trouver une revue, ou des articles que vous ne trouvez pas
 ## Fabriquer un prompt
 
 La bonne recette pour le prompt
+
+## A revoir
+
+À partir du portail HAL SHS, vous pourrez déjà effectuer une recherche plus précise, mais vous gagnerez à préciser encore votre exploration, en passant par l'onglet **Parcourir** puis **Par Discipline**.
+![](assets\HAL\HAL_SHS2.png)
+
+Un diagramme en anneau s'affiche, cliquez dessus pour afficher d'autres options et choisissez **Voir les sous-domaines**. Par chance, le droit reste le domaine le plus représenté en SHS dans HAL, vous ne pourrez donc pas le rater.
+
+Sur le deuxième diagramme en anneau, cliquez dans la zone du Droit puis sur **Voir les résultats de recherche**.
+![](assets\HAL\HAL_SHS3.png)
