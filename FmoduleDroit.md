@@ -469,7 +469,7 @@ Voici, pour la recherche " Lecornu " la page de résultats qu'on obtenait le 17/
 ></iframe>
 
         {{2}}
-Cliquez sur le titre d'un article pour que le corps du texte se substitue au tableau de bord. Notez qu'à l'instar de la page des résultats, le mot-clé recherché est lisurligné en jaune.
+Cliquez sur le titre d'un article pour que le corps du texte se substitue au tableau de bord. Notez qu'à l'instar de la page des résultats, le mot-clé recherché est surligné en jaune.
 ![](assets\Europresse\Europresse_article.png)
 
 #### Consulter les articles d'un titre spécifique
