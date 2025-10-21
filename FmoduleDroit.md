@@ -334,7 +334,7 @@ Une manière particulièrement simple de faire vos recherches dans les fonds de 
 
 {{3}} Il vous suffit d'y ajouter *.droit* pour afficher toutes les références en répertoriées dans ce domaine. Vous pouvez systématiquement faire débuter votre requête par *domain_t:shs.droit* suivi d'un ou plusieurs mots-clés. ![](assets\HAL\HAL_astuce_recherche.png)
 
-{{4}} **Question** : Testez la requête ci-dessous dans [HAL](https://hal.science/). Quel.le auteur.ice est particulièrement présent.e dans le résultats obtenus (*ne notez que son nom de famille, respectez la casse*) ?
+{{4}} **Question** : Testez la requête ci-dessus dans [HAL](https://hal.science/). Quel.le auteur.ice est particulièrement présent.e dans le résultats obtenus (*ne notez que son nom de famille, respectez la casse*) ?
 [[Fontanel]]
 
 {{5}} **Question** : Quel est le type de document le plus présent parmi les résultats obtenus ?
