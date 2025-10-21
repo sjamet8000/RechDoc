@@ -310,7 +310,9 @@ Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemb
 
 ### Le Social Science Research Network (SSRN)
 
-Le [Social Science Research Network ou SSRN](https://www.ssrn.com/index.cfm/en/) est une base de données académique en accès libre regroupant des travaux en sciences sociales, notamment en droit. Elle diffuse des articles récents, souvent avant leur publication, et offre une couverture internationale et interdisciplinaire, utile pour consulter des recherches à jour et variées dans le cadre d’un travail universitaire.
+Le [Social Science Research Network ou SSRN](https://www.ssrn.com/index.cfm/en/) est une plateforme en ligne lancée en 1994 qui permet aux chercheurs de partager des articles de travail, des prépublications et des recherches dans des domaines variés des sciences sociales (économie, finance, droit, sciences politiques, gestion).​
+
+Les utilisateurs peuvent y télécharger, consulter et commenter des documents académiques avant leur publication officielle. SSRN offre également des outils pour suivre l'impact des recherches et facilite les échanges entre chercheurs.
 
 ### HAL
 
