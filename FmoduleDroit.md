@@ -7,6 +7,8 @@ tags:     Liascript, recherche documentaire, droit
 
 version:  0.0.1
 
+repository: github.com/sjamet8000/RechDoc
+
 language: fr
 
 comment:  Ce cours est à destination des étudiants de master de droit
@@ -432,15 +434,21 @@ Exemples : les labels en droit du patrimoine
 
 ### Europresse
 
-La base [Europresse](https://nouveau-europresse-com.ezproxy.universite-paris-saclay.fr/Search/Reading) est un service qui regroupe et met à disposition des articles de presse francophones dans une base de données accessible en ligne.
+La base [Europresse](https://nouveau-europresse-com.ezproxy.universite-paris-saclay.fr/Search/Reading) est un service qui regroupe et met à disposition des articles de presse du monde entier dans une base de données accessible en ligne.
 
-Il s'agit d'une base payante, il est donc nécessaire de passer par [le site web des BU](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources/ressources-24h/24) ou par le catalogue [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?institution=33UDPS&vid=33UDPS_VU1&tab=default_tab&search_scope=default_scope&mode=Basic&displayMode=full&bulkSize=50&highlight=true&dum=true&query=any,contains,europresse&displayField=all&pcAvailabilityMode=false&choix_index=tout) pour y accéder.
+Il s'agit d'une base payante, il est donc nécessaire de passer par [le site web des BU](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources/ressources-24h/24) ou par le catalogue [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?institution=33UDPS&vid=33UDPS_VU1&tab=default_tab&search_scope=default_scope&mode=Basic&displayMode=full&bulkSize=50&highlight=true&dum=true&query=any,contains,europresse&displayField=all&pcAvailabilityMode=false&choix_index=tout) pour y accéder sans encombre.
 
 ![](assets\Europresse\Europresse_acc.png)
 
 La plateforme comporte une grande variété de type de contenus, mais nous allons nous concentrer sur la presse, avec trois exemples d'utilisation pour apprendre à connaître la plateforme.
 
-#### Exemple n°1 : la recherche thématique simple
+Pour les exemples qui vont suivre, nous utiliserons la version dite **classique** d'Europresse avec quelques options intéressantes. Celle-ci n'étant pas activée par défaut cliquez, en haut à droite de la page sur **Etudiant** puis **Version classique**.
+![](assets\Europresse\Europressevclassique.png)
+
+Le passage à la **version classique** fait apparaitre de nouvelles options en plus de la recherche simple.
+![](assets\Europresse\Europressevclass_option.png)
+
+#### La recherche thématique simple
 
 La recherche thématique sur Europresse ne vous surprendra pas, elle ressemble à toutes les autres.
 
@@ -450,6 +458,8 @@ Vous pouvez par exemple isoler les titres de la presse nationale française, ou 
 
 ![](assets\Europresse\Europresse_rech_simple.png)
 
+        {{1}}
+Voici, pour la recherche " Lecornu " la page de résultats qu'on obtenait le 17/10/2025 :
 <iframe
   src="https://sjamet8000.github.io/RechDoc/activites/europresse.html"
   width="100%"
@@ -458,7 +468,26 @@ Vous pouvez par exemple isoler les titres de la presse nationale française, ou 
   allowfullscreen
 ></iframe>
 
-#### Conseil n°2
+        {{2}}
+Cliquez sur le titre d'un article pour que le corps du texte se substitue au tableau de bord. Notez qu'à l'instar de la page des résultats, le mot-clé recherché est lisurligné en jaune.
+![](assets\Europresse\Europresse_article.png)
+
+#### Consulter les articles d'un titre spécifique
+
+Il est possible de restreindre sa recherche à des titres sélectionnés par vos soins. Rendez-vous dans la **Recherche express** :
+![](assets\Europresse\Europresse_rech_express.png)
+
+![](assets\Europresse\Europresse_express.png) Positionnez-vous dans **Source** et cliquez sur n'importe quel titre puis tapez rapidement les premières lettres du titre que vous souhaitez interroger, vous devriez vous en rapprocher suffisamment pour le retrouver dans la liste.
+
+Par exemple, en tapant " gazette " on retrouve sans difficulté *La Gazette des communes*.
+![](assets\Europresse\Europresse_gazette.png)
+
+Si vous souhaitez savoir comment le sujet de la dissolution de l'AN (ou du risque de dissolution) a été traité par ce titre, il ne vous reste plus qu'à remplir les champs idoines.
+
+![](assets\Europresse\Europresse_gazette2.png)
+
+Vous remarquerez que la période de pic médiatique n'est pas surprenante.
+![](assets\Europresse\Europresse_gazette3.png)
 
 #### Conseil n°3
 
