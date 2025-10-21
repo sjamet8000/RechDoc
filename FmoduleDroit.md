@@ -454,7 +454,7 @@ La recherche thématique sur Europresse ne vous surprendra pas, elle ressemble �
 
 Attention tout de même : par défaut, Europresse vous proposera des résultats piochés dans *Tout le contenu* et dans les *30 derniers jours*, pensez à modifier ce scope si nécessaire.
 
-Vous pouvez par exemple isoler les titres de la presse nationale française, ou des titres de toutes l'Europe.
+Vous pouvez par exemple isoler les titres de la presse nationale française, ou des titres de toute l'Europe.
 
 ![](assets\Europresse\Europresse_rech_simple.png)
 
@@ -479,8 +479,7 @@ Il est possible de restreindre sa recherche à des titres sélectionnés par vos
 
 ![](assets\Europresse\Europresse_express.png) Positionnez-vous dans **Source** et cliquez sur n'importe quel titre puis tapez rapidement les premières lettres du titre que vous souhaitez interroger, vous devriez vous en rapprocher suffisamment pour le retrouver dans la liste.
 
-Par exemple, en tapant " gazette " on retrouve sans difficulté *La Gazette des communes*.
-![](assets\Europresse\Europresse_gazette.png)
+![Liste des titres couverts par Europresse, ici, la Gazette des commune a été sélectionnée](assets\Europresse\Europresse_gazette.png)Par exemple, en tapant " gazette " on retrouve sans difficulté *La Gazette des communes* (vous aurez peut-être à faire défiler quelques titres).
 
 Si vous souhaitez savoir comment le sujet de la dissolution de l'AN (ou du risque de dissolution) a été traité par ce titre, il ne vous reste plus qu'à remplir les champs idoines.
 
@@ -489,10 +488,27 @@ Si vous souhaitez savoir comment le sujet de la dissolution de l'AN (ou du risqu
 Vous remarquerez que la période de pic médiatique n'est pas surprenante.
 ![](assets\Europresse\Europresse_gazette3.png)
 
-#### Conseil n°3
+#### Autre mode de consultation : l'espace Publications PDF
 
-Faire ressortir la gazette des communes, Le monde Diplomatique, Le Monde,
-L'espace PDF
+Si vous avez conservé (ou développé) l'habitude de lire votre titre favori dans sa version physique, sachez qu'Europresse propose une expérience qui s'en rapproche avec la consultation des versions physiques en version PDF.
+
+L'espace Publications PDF se situe dans le menu racine de la plateforme.
+![](assets\Europresse\Europresse_PDF.png)
+
+Pour une raison non encore élucidée, l'espace [Publications PDF](https://nouveau-europresse-com.ezproxy.universite-paris-saclay.fr/webpages/Pdf/SearchForm.aspx) n'a pas suivi le rajeunissement de la plateforme et son fonctionnement (courant octobre 2025) n'est pas optimal.
+
+Voici, malgré tout comment vous en sortir :
+
+Sur la partie gauche de la page, vous retrouverez la liste des publications référencées par Europresse. Ici, même fonctionnement que pour la Recherche express, faites défiler les titres jusqu'à trouver celui que vous souhaitez consulter, ou taper les premières lettres de son nom.
+
+![](assets\Europresse\Europresse_PDF_rech.png) Une fois le titre sélectionné, choisissez une date et *oubliez* immédiatement l'utilisation des options **Dernière édition disponible au cours des 6 derniers mois** ainsi que la **recherche d'une date en particulier**. Les tests réalisés courant octobre 2025 n'ont pas été concluants.
+
+Sélectionnez une période en respectant la limite d'un an maximum comme indiqué dans le formulaire.
+
+![Liste des résultats pour une recherche des éditions du Monde Diplomatique entre le 01/01/2025 et le 20/10/2025](assets\Europresse\Europresse_PDF_resu.png) Les résultats s'affichent sur la partie droite de votre écran sous la forme de titres cliquables. Attention, ces derniers ouvrent un nouvelle fenêtre de votre navigateur. **Attention**, donc, aux autorisations d'ouverture de pop up !
+
+La fenêtre de consultation est assez basique, avec en son centre **(1)** la version PDF du titre que vous souhaitez consulter et dans sa partie gauche **(2)** la navigation dans les pages. À noter tout de même qu'il vous est possible de télécharger la page consultée **(3)**.
+![Visualisation PDF de la Une de l'édition du 01/10/2025 du Monde Diplomatique](assets\Europresse\Europresse_consult.png)
 
 ### La veille juridique
 
