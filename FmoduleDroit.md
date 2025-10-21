@@ -53,7 +53,7 @@ Si vous n'avez pas ces deux informations en votre possession, rendez-vous sur
 
 Si vous venez d'arriver à l'Université Paris-Saclay, vous n'avez peut-être pas encore eu besoin d'accéder à l'environnement numérique. Avec votre mail universitaire et de votre mot de passe, vous allez pouvoir accéder à votre messagerie, aux réseaux wifis Eduroam et Eduspot, et, bien sûr aux ressources électroniques.
 
-![](assets\Acces_RE\CAS.png)Vous connaissez déjà très certainement la page d'**Authentification Centralisée** (aussi connue sous son petit nom **CAS**) par laquelle vous devez passer pour vous connecter aux différents services proposés par l'université.
+![Page d'accueil du site web des bibliothèques de l'Université Paris-Saclay](assets\Acces_RE\CAS.png)Vous connaissez déjà très certainement la page d'**Authentification Centralisée** (aussi connue sous son petit nom **CAS**) par laquelle vous devez passer pour vous connecter aux différents services proposés par l'université.
 
         {{1}}
 ![](assets\Acces_RE\wayf.png)En revanche, vous n'êtes peut-être pas encore tombé.e sur la page de sélection de votre établissement[^1](Sans faire de design institutionnel, sachez que de nombreux services, en particulier les ressources électroniques, sont mutualisés et proposés par plusieurs établissements dont Paris-Saclay, ce qui nécessite pour vous de spécifier, lorsque vous demandez un accès à ce genre de service, votre établissement de rattachement.). Veillez donc à bien sélectionner " **Université Paris-Saclay (Périmètre employeur) et IOGS** ".
@@ -187,7 +187,7 @@ C'est-à-dire une recherche où vous naviguez dans l'arborescence de la base dep
 ![](assets\Stradalex\Strada_rechex.png)
 
         {{1}}
-**Avantage** : L'onglet **Explorer** est assez utile pour faire connaissance avec le contenu de la base, explorer (à l'évidence) la diversité des titres de **revues** **(3)**, la table des matière du **Répertoire Européen** et naviguer dans la **Réglementation consolidée**.
+**Avantage** : L'onglet **Explorer** est assez utile pour faire connaissance avec le contenu de la base, explorer la diversité des titres de **revues** **(3)**, la table des matière du **Répertoire Européen** et naviguer dans la **Réglementation consolidée**.
 
         {{2}}
 **Inconvénient** : si vous savez déjà ce que vous cherchez, si vous êtes un.e habitué.e de la C.C.L.R., que vous souhaitez simplement consulter l'Art. 22 du Règl. (UE) 2016/300, vous allez perdre du temps, passez plutôt directement à...
@@ -308,9 +308,11 @@ Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemb
         {{2}}
 ![](assets\Communs_fondamentaux\Structure_publi_1.png)
 
-### Le Social Science Research Network (SSRN) et HAL
+### Le Social Science Research Network (SSRN)
 
+Le [Social Science Research Network ou SSRN](https://www.ssrn.com/index.cfm/en/) est une base de données académique en accès libre regroupant des travaux en sciences sociales, notamment en droit. Elle diffuse des articles récents, souvent avant leur publication, et offre une couverture internationale et interdisciplinaire, utile pour consulter des recherches à jour et variées dans le cadre d’un travail universitaire.
 
+### HAL
 
 ### Une petite option sur OpenAlex
 
