@@ -1,3 +1,5 @@
+*en cours de rédaction*
+
 # Mode d'emploi de la ressource
 ## Comment l'utiliser en l'état
 ## Comment la maintenir et la sauvegarder
