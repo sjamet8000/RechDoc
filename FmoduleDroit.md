@@ -17,6 +17,7 @@ link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 -->
+
 # Les fondamentaux de la recherche documentaire juridique
 
 [preview-lia](https://raw.githubusercontent.com/sjamet8000/RechDoc/refs/heads/main/FmoduleDroit.md)
@@ -326,13 +327,13 @@ La navigation au sein de cet immense entrepôt peut ne pas être très intuitive
 
 Une manière particulièrement simple de faire vos recherches dans les fonds de ressources en droit est d'interroger par **Domaines** et **Sous-domaines**.
 
-> ![](assets\HAL\HAL_acc.png)**Attention** : La barre de recherche de HAL se situe en milieu de page et peut ne pas être visible en fonction de votre résolution.
+> ![](assets\HAL\HAL_acc.png)**Attention** : La barre de recherche de HAL se situe en milieu de page et peut ne pas être visible en fonction de la résolution de votre écran.
 
 {{1}} Sous la barre de recherche, cliquez directement sur **Sciences de l'Homme et de la Société**![](assets\HAL\HAL_SHS_acc.png)
 
-{{2}} Les résultats correspondants au domaine s'affichent, mais ils sont encore bien trop nombreux. Pour les préciser encore un peu, regardez du côté de la barre de recherche qui affiche *domain_t:shs* :![](assets\HAL\HAL_domain.png)
+{{2}} Les résultats correspondants au domaine s'affichent, mais ils sont encore bien trop nombreux. Pour les préciser encore un peu, regardez du côté de la barre de recherche qui affiche **domain_t:shs**<!-- style="color: red" --> :![](assets\HAL\HAL_domain.png)
 
-{{3}} Il vous suffit d'y ajouter *.droit* pour afficher toutes les références en répertoriées dans ce domaine. Vous pouvez systématiquement faire débuter votre requête par *domain_t:shs.droit* suivi d'un ou plusieurs mots-clés. ![](assets\HAL\HAL_astuce_recherche.png)
+{{3}} Il vous suffit d'y ajouter **.droit**<!-- style="color: red" --> pour afficher toutes les références en répertoriées dans ce domaine. Vous pouvez systématiquement faire débuter votre requête par **domain_t:shs.droit**<!-- style="color: red" --> suivi d'un ou plusieurs mots-clés. ![](assets\HAL\HAL_astuce_recherche.png)
 
 {{4}} **Question** : Testez la requête ci-dessus dans [HAL](https://hal.science/). Quel.le auteur.ice est particulièrement présent.e dans le résultats obtenus (*ne notez que son nom de famille, respectez la casse*) ?
 [[Fontanel]]
