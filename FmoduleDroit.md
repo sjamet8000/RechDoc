@@ -335,7 +335,7 @@ Une manière particulièrement simple de faire vos recherches dans les fonds de 
 
 {{3}} Il vous suffit d'y ajouter **.droit**<!-- style="color: red" --> pour afficher tous les dépôts répertoriés dans ce domaine. Vous pouvez systématiquement faire débuter votre requête par **domain_t:shs.droit**<!-- style="color: red" --> suivi d'un ou plusieurs mots-clés. ![](assets\HAL\HAL_astuce_recherche.png)
 
-{{4}} **Question** : Testez la requête ci-dessus dans [HAL](https://hal.science/). Quel.le auteur.ice est particulièrement présent.e dans le résultats obtenus (*ne notez que son nom de famille, respectez la casse*) ?
+{{4}} **Question** : Testez la requête ci-dessus dans [HAL](https://hal.science/). Quel.le auteur.ice est particulièrement présent.e dans les résultats obtenus (*ne notez que son nom de famille, respectez la casse*) ?
 [[Fontanel]]
 ***
 Il s'agit de Fontanel.
@@ -359,7 +359,7 @@ Le [**portail de l'Université Paris-Saclay**](https://universite-paris-saclay.h
 - [GS Informatique et Sciences du Numérique](https://universite-paris-saclay.hal.science/GS-COMPUTER-SCIENCE)
 - [GS Géosciences, Climat, Environnement, Planètes](https://universite-paris-saclay.hal.science/GS-GEOSCIENCES)
 
-Les portails des différentes Graduate Schools sont tous construit de la manière suivante :
+Les portails des différentes Graduate Schools sont tous construits de la manière suivante :
 
 <iframe
   src="https://sjamet8000.github.io/RechDoc/activites/GSDroit.html"
@@ -384,7 +384,7 @@ Un diagramme en anneau s'affiche, cliquez dessus pour afficher d'autres options 
 Sur le deuxième diagramme en anneau, cliquez dans la zone du Droit puis sur **Voir les résultats de recherche**.
 ![](assets\HAL\HAL_SHS3.png)
 
-### Propositions d'exercices
+#### Propositions d'exercices
 
 - Vous souhaitez faire remonter des références au sujet des labels en droit du patrimoine, en utilisant l'astuce présentée [ici](#19), quelle requête proposez-vous (*cliquez sur le check pour comparer votre réponse aux réponses possibles*) ?
 [[domain_t:shs.droit label patrimoine]]
@@ -442,7 +442,7 @@ Lancez la recherche telle quelle, combien de résultats trouvez-vous ?
 {1}{*Telle quelle, la requête est trop longue, comporte trop de mots-clés pour que LeDoctrinal puisse retrouver la moindre référence, il faut simplifier.*![](assets\LeDoctrinal\LeDoctrinal_rech_simple.png)}
 
         {{2}}
-Lancez la recherche **avis consultatif cour internationale de justice**, combien de résultats trouvez-vous en doctrine ? (*en chiffres*) -> [[82]]
+Lancez la recherche **avis consultatif cour internationale de justice**<!-- style="color: red" -->, combien de résultats trouvez-vous en doctrine ? (*en chiffres*) -> [[82]]
 
 [^2]: Le problème avec ce fonctionnement étant qu'il reste assez obscur pour l'utilisateur puisqu'il ne peut pas contrôler très exactement la manière dont la base de données interprète ses requêtes.
 
@@ -471,7 +471,7 @@ Lequel ?
 
 [[ ET ? | (OU ?) ]]
 
-**2.** Ici avez le choix entre plusieurs opérateurs : ou bien le mot-clé peut-être **contenu** dans une expression plus grande, ou bien le mot-clé doit apparaitre **exactement** comme vous l'avez écrit, ou bien LeDoctrinal va rechercher **en plus** du mot-clé renseigné d'autres mots-clés **proches**[^3].
+**2.** Vous avez le choix entre plusieurs opérateurs : ou bien le mot-clé peut-être **contenu** dans une expression plus grande, ou bien le mot-clé doit apparaitre **exactement** comme vous l'avez écrit, ou bien LeDoctrinal va rechercher **en plus** du mot-clé renseigné d'autres mots-clés **proches**[^3].
 
 Une utilisation maîtrisée de ces opérateurs est utile dans une stratégie de recherche exhaustive : pour une requête comportant les mêmes mots-clés, vous n'aurez pas le même nombre de résultats sur chacun des types de sources.  
 
@@ -534,7 +534,7 @@ Il s'agit d'une base payante, il est donc nécessaire de passer par [le site web
 
 ![](assets\Europresse\Europresse_acc.png)
 
-La plateforme comporte une grande variété de type de contenus, mais nous allons nous concentrer sur la presse, avec trois exemples d'utilisation pour apprendre à connaître la plateforme.
+La plateforme comporte une grande variété de types de contenus, mais nous allons nous concentrer sur la presse, avec trois exemples d'utilisation pour apprendre à connaître la plateforme.
 
 Pour les exemples qui vont suivre, nous utiliserons la version dite **classique** d'Europresse avec quelques options intéressantes. Celle-ci n'étant pas activée par défaut cliquez, en haut à droite de la page sur **Etudiant** puis **Version classique**.
 ![](assets\Europresse\Europressevclassique.png)
