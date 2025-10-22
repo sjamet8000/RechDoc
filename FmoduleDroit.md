@@ -333,15 +333,41 @@ Une manière particulièrement simple de faire vos recherches dans les fonds de 
 
 {{2}} Les résultats correspondants au domaine s'affichent, mais ils sont encore bien trop nombreux. Pour les préciser encore un peu, regardez du côté de la barre de recherche qui affiche **domain_t:shs**<!-- style="color: red" --> :![](assets\HAL\HAL_domain.png)
 
-{{3}} Il vous suffit d'y ajouter **.droit**<!-- style="color: red" --> pour afficher toutes les références en répertoriées dans ce domaine. Vous pouvez systématiquement faire débuter votre requête par **domain_t:shs.droit**<!-- style="color: red" --> suivi d'un ou plusieurs mots-clés. ![](assets\HAL\HAL_astuce_recherche.png)
+{{3}} Il vous suffit d'y ajouter **.droit**<!-- style="color: red" --> pour afficher tous les dépôts répertoriés dans ce domaine. Vous pouvez systématiquement faire débuter votre requête par **domain_t:shs.droit**<!-- style="color: red" --> suivi d'un ou plusieurs mots-clés. ![](assets\HAL\HAL_astuce_recherche.png)
 
 {{4}} **Question** : Testez la requête ci-dessus dans [HAL](https://hal.science/). Quel.le auteur.ice est particulièrement présent.e dans le résultats obtenus (*ne notez que son nom de famille, respectez la casse*) ?
 [[Fontanel]]
+***
+Il s'agit de Fontanel.
+***
 
 {{5}} **Question** : Quel est le type de document le plus présent parmi les résultats obtenus ?
 [[Article dans une revue|Thèse|(Communication dans un congrès)|Poster de conférence]]
 
-#### Rechercher dans les archives institutionnelles
+#### Rechercher dans les portails institutionnels
+
+Autre intérêt de HAL : les portails institutionnels. Ces derniers vous permettent de suivre les publications de votre université, et mieux encore de votre Graduate School. C'est l'un des moyens les plus commodes de se rendre compte de la recherche en train de se faire dans votre domaine.
+
+Pour accéder aux différents portails institutionnels vous pouvez faire une recherche dans votre moteur favori (*nom de l'université* + hal) ou passer par la page d'accueil et rechercher dans la liste des portails.
+![](assets\HAL\HAL_SHS.png)
+
+Le [**portail de l'Université Paris-Saclay**](https://universite-paris-saclay.hal.science/) vous donnera accès aux collections des différentes Graduate Schools, et particulièrement à celle de [**Droit**](https://universite-paris-saclay.hal.science/GS-DROIT), mais n'oubliez pas les collections suivantes qui peuvent vous concerner en fonction de votre sujet de recherche :
+
+- [GS Humanités Sciences du Patrimoine](https://universite-paris-saclay.hal.science/GS-HUMANITIES-HERITAGE)
+- [GS Economics & Management](https://universite-paris-saclay.hal.science/GS-ECONOMICS-MANAGEMENT)
+- [GS Sociologie et Science politique](https://universite-paris-saclay.hal.science/GS-SOCIOLOGIE)
+- [GS Informatique et Sciences du Numérique](https://universite-paris-saclay.hal.science/GS-COMPUTER-SCIENCE)
+- [GS Géosciences, Climat, Environnement, Planètes](https://universite-paris-saclay.hal.science/GS-GEOSCIENCES)
+
+Les portails des différentes Graduate Schools sont tous construit de la manière suivante :
+
+<iframe
+  src="https://sjamet8000.github.io/RechDoc/activites/GSDroit.html"
+  width="100%"
+  height="600"
+  style="border:none;"
+  allowfullscreen
+></iframe>
 
 #### Le portail HAL SHS
 
@@ -357,6 +383,28 @@ Un diagramme en anneau s'affiche, cliquez dessus pour afficher d'autres options 
 
 Sur le deuxième diagramme en anneau, cliquez dans la zone du Droit puis sur **Voir les résultats de recherche**.
 ![](assets\HAL\HAL_SHS3.png)
+
+### Propositions d'exercices
+
+- Vous souhaitez faire remonter des références au sujet des labels en droit du patrimoine, en utilisant l'astuce présentée [ici](#19), quelle requête proposez-vous (*cliquez sur le check pour comparer votre réponse aux réponses possibles*) ?
+[[domain_t:shs.droit label patrimoine]]
+***
+En utilisant l'astuce de recherche, la requête la plus simple serait **domain_t:shs.droit label patrimoine**<!-- style="color: red" --> qui renvoit une quinzaine de résultats.
+
+Sans utiliser l'astuce de recherche, on obtient environ 200 résultats, sans garantie qu'ils soient tous pertinents.
+***
+
+- À partir de la requête précédente, regardez les résultats. Quel.le chercheur.se paraît ressortir le plus (*ne notez que son nom de famille, respectez la casse*) ?
+[[Tanchoux]]
+***
+C'est Philippe Tanchoux qui semble avoir le plus déposé dans HAL sur la question.
+***
+
+- Quelle est son université de rattachement (*respectez la casse*) ?
+[[Université d'Orléans]]
+
+- Combien de dépôts fait par le centre de recherche auquel il est rattaché trouve-t-on dans HAL ?
+[[0|entre 1 et 500|(entre 501 et 2500)| entre 2501 et 3500]]
 
 ### Une petite option sur OpenAlex
 
