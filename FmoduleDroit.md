@@ -568,7 +568,7 @@ Cliquez sur le titre d'un article pour que le corps du texte se substitue au tab
 
 #### Consulter les articles d'un titre spécifique
 
-Il est possible de restreindre sa recherche à des titres sélectionnés par vos soins. Rendez-vous dans la **Recherche express** :
+Il est possible de restreindre sa recherche à des titres sélectionnés par vos soins. Rendez-vous dans la **Recherche express** (option présente dans la [v. classique d'Europresse](#31)) :
 ![](assets\Europresse\Europresse_rech_express.png)
 
 ![](assets\Europresse\Europresse_express.png) Positionnez-vous dans **Source** et cliquez sur n'importe quel titre puis tapez rapidement les premières lettres du titre que vous souhaitez interroger, vous devriez vous en rapprocher suffisamment pour le retrouver dans la liste.
@@ -605,6 +605,41 @@ La fenêtre de consultation est assez basique, avec en son centre **(1)** la ver
 ![Visualisation PDF de la Une de l'édition du 01/10/2025 du Monde Diplomatique](assets\Europresse\Europresse_consult.png)
 
 ### La veille juridique
+
+Lexis Veille
+========
+
+L'université met à votre disposition le service de veille fourni pas LexisNexis, [Lexis Veille](https://www-lexisveille-fr.ezproxy.universite-paris-saclay.fr/).
+
+Attention, tout comme [Lexis 360 Intelligence](https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/home), vous aurez besoin de votre compte LexisNexis pour accéder à toutes les fonctionnalités du service, reportez-vous à [cette section](#9) pour plus d'informations.
+
+![](assets\Lexis_Veille\Lexis_veille_profil.png) Lors de votre première connexion à Lexis Veille, rendez-vous directement dans **Mon profil** pour personnaliser votre veille, l'envoi ou non d'une newsletter sur votre mail ainsi que sa fréquence[^1].
+
+Vous aurez la possibilité de sélectionner parmis de très nombreuses matières celles qui vous semblent les plus pertinentes.
+
+![](assets\Lexis_Veille\Lexis_veille_perso.png)
+
+Petit conseil d'utilisation : si vous manquez d'inspiration ou d'assurance, testez quelques termes précis de votre sujet de mémoire dans la barre de recherche en haut de page pour voir ce qu'ils vous rendent.
+
+Je cherche par exemple des informations sur l'extraction des minéraux critiques et son impact sur l'environnement, j'ai donc entré le terme *lithium*...
+
+![](assets\Lexis_Veille\Lexis_veille_rech.png)
+
+... et les résultats qui ressortent m'informent sur les matières que je pourrais sélectionner dans mon produit de veille :
+![](assets\Lexis_Veille\Lexis_veille_index.png)
+
+Faites plusieurs essais pour avoir une chance de vous retrouver avec un produit de veille le plus précis et exhaustif possible.
+
+Dalloz Actualité
+==========
+
+Dalloz Actualité est une newsletter que vous pouvez consulter sur [dalloz-actualite.fr](https://www.dalloz-actualite.fr/) ou recevoir en newsletter sur la boîte mail de votre choix.
+
+Dalloz Actualité ne propose pas de fonctionnalités aussi avancées que Lexis Veille, néanmoins il vous sera possible de chercher dans les éditions précédentes, par date ou par matières et mots-clés.
+
+![](assets\Dalloz_actu\Dalloz_actu.png)
+
+[^1]: La newsletter n'est pas obligatoire, une fois votre profil sauvegardé dans Lexis Veille, il restera tel quel et le feed se mettra à jour.
 
 ## Quelques conseils méthodologiques
 
