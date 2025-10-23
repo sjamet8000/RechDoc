@@ -26,7 +26,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 Etudiant.es à l'Université Paris-Saclay, vous avez accès à de très nombreuses ressources, les quelques pages qui vont suivre ont pour objectif de vous montrer comment y accéder le plus simplement possible, et de faire un petit tour d'horizon de la diversité des ressources qui sont à votre disposition.
 
-*Si vous vous repérez déjà sans difficulté dans les méandres de l'environnement numériques de l'Université, vous pouvez vous rendre directement [à cette page] pour commencer la formation proprement dite.*
+*Si vous vous repérez déjà sans difficulté dans les méandres de l'environnement numériques de l'Université, vous pouvez vous rendre directement [à cette page](#8) pour commencer la formation proprement dite.*
 
 ### Atteindre les ressources en lignes sans encombre
 
@@ -68,7 +68,7 @@ Rendez-vous sur le [site des bibliothèques de l'Université Paris-Saclay](https
 
 Vous pouvez atteindre la liste des ressources disponibles en ligne en cliquant sur l'onglet **[Explorer les ressources](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources)**, puis sur [(Toutes les) Ressources 24h/24](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources/ressources-24h/24)
 
-Les ressources sont classées par grands domaines scientifiques. Les ressources en [Sciences humaines et sociales](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-sciences-humaines-et-sociales), en [Economie-Gestion](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-economie-et-gestion) et bien entendu, en [Droit](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-droit), devraient tout particulièrement vous intéresser, mais n'oubliez pas d'aller faire un tour dans notre sélection de presse !
+Les ressources sont classées par grands domaines scientifiques. Les ressources en [Sciences humaines et sociales](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-sciences-humaines-et-sociales), en [Economie-Gestion](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-economie-et-gestion) et bien entendu, en [Droit](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-droit), devraient tout particulièrement vous intéresser, mais n'oubliez pas d'aller faire un tour dans notre [sélection de presse](https://www.bibliotheques.universite-paris-saclay.fr/presse-en-ligne) !
 ![](assets\Acces_RE\BU_RE.png)
 
 #### Via le catalogue des BU
@@ -151,9 +151,7 @@ Si vous arrivez d'un autre établissement fournissant un accès à cette platefo
         {{1}}
 Accédez à la [page de connexion de Lexis](https://signin-lexisnexis-com.ezproxy.universite-paris-saclay.fr/lnaccess/app/signin?back=https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/legan-callback&aci=lint) depuis le [site des BU](https://www.bibliotheques.universite-paris-saclay.fr/) ou depuis le [catalogue Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?vid=33UDPS_VU1&lang=fr_FR)
 
-        {{2}}
-Sous **Première visite ?** Cliquez sur **Créer votre compte**.
-![](assets\LexisNexis\Lexisnexis_nouveaucompte.png)
+{{2}}![](assets\LexisNexis\Lexisnexis_nouveaucompte.png)Sous **Première visite ?** Cliquez sur **Créer votre compte**.
 
         {{3}}
 Renseignez les informations demandées, et tout particulièrement votre adresse mail **universitaire**.
@@ -164,13 +162,10 @@ Créez votre identifiant (i.e. nom d'utilisateur), **notez-le quelque part**, fa
         {{5}}
 Vérifiez bien que vous avez reçu un message, sur votre adresse universitaire, de la part de *customersupport@lexisnexis.com*, censé vous confirmer votre inscription.
 
-        {{6}}
-Pendant vos visites, connectez-vous en renseignant votre identifiant (i.e. votre nom d'utilisateur) et votre mot de passe. Ne cliquez pas sur **Accès - Universités et grandes écoles**.
-![](assets\LexisNexis\Lexisnexis_connexion.png)
+{{6}}![](assets\LexisNexis\Lexisnexis_connexion.png) Pendant vos visites, connectez-vous en renseignant votre identifiant (i.e. votre nom d'utilisateur) et votre mot de passe. Ne cliquez pas sur **Accès - Universités et grandes écoles**.
 
         {{7}}
 Si vous oubliez votre nom d'utilisateur et/ou votre mot de passe[^1](Ce qui n'arrivera pas si vous notez scrupuleusement ces infos quelque par, dans votre bibliothèque Zotero par exemple.), suivez les indications après avoir cliqué sur **Identifiant ou mot de passe oublié ?**. Dans tous les cas, LexisNexis passera par votre **adresse mail universitaire** pour vous envoyer les informations de récupération avec les adresses *customersupport@lexisnexis.com* et *noreply@lexisnexis.com*. Vous pourrez attendre jusqu'à 5 minutes pour recevoir les messages, vérifiez bien qu'ils ne sont pas tombés dans vos indésirables.
-
 
 ### Stradalex
 [Stradalex](https://www-stradalex-eu.ezproxy.universite-paris-saclay.fr/fr) est une base incontournable si vous devez étendre vos recherches au-delà des frontières nationales. En effet, Stradalex est très forte en droit européen et couvre largement les sujets tels que la protection de l'environnement, la protection des données personnelles ou encore le droit des technologies de l'information, le droit intellectuel, entre autres domaines.
@@ -224,14 +219,21 @@ Vous pouvez atteindre la recherche avancée en cliquant sur la roue crantée sur
 
 La recherche dite " avancée " est surtout une recherche guidée pour vous permettre d'élaborer une requête un peu plus efficace. Elle est conçue comme la [recherche avancée de Google](https://www.google.com/advanced_search) et de [Google Scholar](https://scholar.google.com/#d=gs_asd&t=1759248669064) : renseignez les bons mots-clés aux bons endroits et cela devrait fonctionner.
 
-![](assets\Stradalex\Strada_rech_av.png) Sur cet exemple, **(1)** j'ai demandé à la base de me chercher les mots-clés " *protection* " ainsi que " *forêt* " : les deux doivent obligatoirement apparaitre dans les références que Stradalex fait remonter.
-**(2)** J'ai aussi demandé de chercher l'expression exacte " *zone humide* " : elle doit apparaitre telle qu'elle dans les références remontées.
-**(3)** J'ai demandé de chercher les mots-clés " *loup* ", " *ours* ", " *lynx* ", mais pas nécessairement les trois termes ensembles.
-**(4)** Enfin j'ai demandé à exclure les résultats comportant le mot-clé " *mouton* ".[^1]
+Sur cet exemple :
+
+![](assets\Stradalex\Strada_rech_av.png)
+
+{{1}} J'ai demandé à la base de me chercher les mots-clés " *protection* " ainsi que " *forêt* " : les deux doivent obligatoirement apparaitre dans les références que Stradalex fait remonter.
+
+{{2}} J'ai aussi demandé de chercher l'expression exacte " *zone humide* " : elle doit apparaitre telle qu'elle dans les références remontées.
+
+{{3}} J'ai demandé de chercher les mots-clés " *loup* ", " *ours* ", " *lynx* ", mais pas nécessairement les trois termes ensembles.
+
+{{4}} Enfin j'ai demandé à exclure les résultats comportant le mot-clé " *mouton* ".[^1]
 
 **Attention** : ne surchargez pas trop les lignes " Tous ces termes " et " Cette expression exacte " au risque de vous retrouver avec un résultat totalement silencieux.
 
-[^1] : Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
+[^1]: Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
 
 ### Les revues et ouvrages juridiques dans ScienceDirect
 La recherche thématique n'étant pas le fort de ScienceDirect, il vous est conseillé, dans cette introduction, d'opter pour une recherche exploratoire, d'autant que l'offre pléthorique de la plateforme de Relx (anciennement Elsevier) n'a pas la lisibilité des plateformes plus traditionnelles en littérature juridique.
