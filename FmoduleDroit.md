@@ -165,7 +165,9 @@ Vérifiez bien que vous avez reçu un message, sur votre adresse universitaire, 
 {{6}}![](assets\LexisNexis\Lexisnexis_connexion.png) Pendant vos visites, connectez-vous en renseignant votre identifiant (i.e. votre nom d'utilisateur) et votre mot de passe. Ne cliquez pas sur **Accès - Universités et grandes écoles**.
 
         {{7}}
-Si vous oubliez votre nom d'utilisateur et/ou votre mot de passe[^1](Ce qui n'arrivera pas si vous notez scrupuleusement ces infos quelque par, dans votre bibliothèque Zotero par exemple.), suivez les indications après avoir cliqué sur **Identifiant ou mot de passe oublié ?**. Dans tous les cas, LexisNexis passera par votre **adresse mail universitaire** pour vous envoyer les informations de récupération avec les adresses *customersupport@lexisnexis.com* et *noreply@lexisnexis.com*. Vous pourrez attendre jusqu'à 5 minutes pour recevoir les messages, vérifiez bien qu'ils ne sont pas tombés dans vos indésirables.
+Si vous oubliez votre nom d'utilisateur et/ou votre mot de passe[^1], suivez les indications après avoir cliqué sur **Identifiant ou mot de passe oublié ?**. Dans tous les cas, LexisNexis passera par votre **adresse mail universitaire** pour vous envoyer les informations de récupération avec les adresses *customersupport@lexisnexis.com* et *noreply@lexisnexis.com*. Vous pourrez attendre jusqu'à 5 minutes pour recevoir les messages, vérifiez bien qu'ils ne sont pas tombés dans vos indésirables.
+
+[^1]: Ce qui n'arrivera pas si vous notez scrupuleusement ces infos quelque par, dans votre bibliothèque [Zotero](https://www.zotero.org/) par exemple.
 
 ### Stradalex
 [Stradalex](https://www-stradalex-eu.ezproxy.universite-paris-saclay.fr/fr) est une base incontournable si vous devez étendre vos recherches au-delà des frontières nationales. En effet, Stradalex est très forte en droit européen et couvre largement les sujets tels que la protection de l'environnement, la protection des données personnelles ou encore le droit des technologies de l'information, le droit intellectuel, entre autres domaines.
@@ -179,8 +181,13 @@ Stradalex propose deux types de recherche :
 2. La recherche thématique (ou par mots-clé)
 
 #### La recherche exploratoire
-C'est-à-dire une recherche où vous naviguez dans l'arborescence de la base depuis l'onglet "Explorer" **(1)**
+C'est-à-dire une recherche où vous naviguez dans l'arborescence de la base.
+
 ![](assets\Stradalex\Strada_rechex.png)
+
+Partez depuis l'onglet **Explorer** pour ouvrir l'arborescence principale de Strada Lex.
+
+Sélectionnez le type de source que vous souhaitez consulter. Strada Lex donne accès à toute la législation européenne, de la jurisprudence européenne, belge et internationale, ainsi qu'à de la doctrine. Pour une revue plus complète du contenu de Strada Lex, rendez-vous [ici]().
 
         {{1}}
 **Avantage** : L'onglet **Explorer** est assez utile pour faire connaissance avec le contenu de la base, explorer la diversité des titres de **revues** **(3)**, la table des matière du **Répertoire Européen** et naviguer dans la **Réglementation consolidée**.
