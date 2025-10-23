@@ -197,19 +197,13 @@ Quelques filtres (masqués par défaut) vous permetteront d'affiner votre recher
 Notez que :
 -----
 
-        {{1}}
-Si la base " reconnaît " un mot-clé que vous lui proposez (i.e. il y a au moins une référence quelque part chez elle qui comporte ce mot-clé), elle vous le fait savoir :
-![](assets\Stradalex\Stradalex_recherche_thematique_2.png)
+{{1}}![](assets\Stradalex\Stradalex_recherche_thematique_2.png) Si la base " reconnaît " un mot-clé que vous lui proposez (i.e. il y a au moins une référence quelque part chez elle qui comporte ce mot-clé), elle vous le fait savoir :
 
-        {{2}}
-Si la base " ne reconnaît pas " un mot-clé que vous lui proposez (i.e. elle ne trouve aucune référence comportant ce mot-clé), elle vous le fait savoir aussi :
-![](assets\Stradalex\Stradalex_recherche_thematique_3.png)
+{{2}}![](assets\Stradalex\Stradalex_recherche_thematique_3.png)Si la base " ne reconnaît pas " un mot-clé que vous lui proposez (i.e. elle ne trouve aucune référence comportant ce mot-clé), elle vous le fait savoir aussi :
 
-      {{3}}
-![](assets\Stradalex\Stradalex_recherche_thematique_4.png)Stradalex reconnaît d'autres formes de données telles que les noms abrégés des revues...
+{{3}}![](assets\Stradalex\Stradalex_recherche_thematique_4.png)Stradalex reconnaît d'autres formes de données telles que les noms abrégés des revues...
 
-      {{4}}
-![](assets\Stradalex\Stradalex_recherche_thematique_5.png)... et les identifiants d'actes officiels.
+{{4}}![](assets\Stradalex\Stradalex_recherche_thematique_5.png)... et les identifiants d'actes officiels.
 
 #### La recherche avancée
 
