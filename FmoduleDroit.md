@@ -429,7 +429,37 @@ C'est Philippe Tanchoux qui semble avoir le plus déposé dans HAL sur la questi
 - Combien de dépôts fait par le centre de recherche auquel il est rattaché trouve-t-on dans HAL ?
 [[0|entre 1 et 500|(entre 501 et 2500)| entre 2501 et 3500]]
 
-### Une petite option sur OpenAlex
+### Mir@bel ou comment trouver l'introuvable
+
+![](assets\Mirabel\Mirabel_logo.png) [**Mir\@bel**](https://reseau-mirabel.info/) est une plateforme collaborative qui permet de repérer et d’accéder aux revues en sciences humaines et sociales disponibles en ligne, qu’elles soient en accès ouvert, partiel ou restreint. Elle a été développée par un réseau de bibliothèques universitaires et de structures de recherche françaises.
+
+Mir@bel permet de trouver où accéder aux revues disponibles en ligne, en vous renseignant :
+
+- sur l'accès de la revue : en accès libre, sous embargo, ou réservée à un éditeur payant (comme [Dalloz](https://www.dalloz.fr/), [LexisNexis](https://www.lexisnexis.com/en-us), [Lextenso](https://www.lextenso.com/), etc.) ;
+
+- sur les plateformes de diffusion ([Lexis 360 Intelligence](https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/home), [Dalloz Etudiants](https://www-dalloz-fr.ezproxy.universite-paris-saclay.fr/etudiants), [Lamyline](https://www-lamyline-fr.ezproxy.universite-paris-saclay.fr/Content/Search.aspx?params=H4sIAAAAAAAEAMssdiwoKMovS02xNTIwMjU0MDIxNDW0VHNxDHG0rTQoj4py8zIvCi-qyPV0dPKqKverzAMArbNkrDMAAAA=WKE), etc.) ;
+
+- et parfois même sur les numéros disponibles en texte intégral.
+
+Les revues du droit y sont bien représentées, surtout pour
+
+#### Démonstration de puissance
+
+On cherche à mettre la main sur la revue *xxxxxxxx*.
+
+Problème :
+
+{{1-2}}Vous recherchez dans le catalogue Focus, ça n'est pas concluant...
+
+{{2-3}}... vous testez dans Lexis 360 Intelligence sans beaucoup plus de résultat...
+
+{{3-4}}... sur Dalloz, toujours rien...
+
+{{4-5}}... de guerre lasse vous tentez Google Scholar malgré votre aversion pour les GAFAM.
+
+{{5}}
+
+### OpenAlex
 
 ### HeinOnline
 
@@ -691,9 +721,6 @@ Si vous cherchez *"plantes cultivées"*, vous cherchez en fait :
 Par exemple, lorsque vous recherchez *plant\** au lieu de *plantes*, vous cherchez à la fois *plantes*, *planter*, *planté*, etc.
 
 Lorsque vous recherchez *cultiv\** au lieu de *cultivées*, vous recherchez à la fois *cultiver*, *cultivé*, *cultivée*, *cultivées*, etc.
-
-## Bonus Mir@bel ou astuces pour trouver des références introuvables
-Comment trouver une revue, ou des articles que vous ne trouvez pas
 
 ## IA
 
