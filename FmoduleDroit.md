@@ -96,6 +96,8 @@ Si vous souhaitez vous rendre sur la base Dalloz Enseignant, entrez " Dalloz " d
 
 ### Un panorama des ressources en droit, économie, management
 
+***à terminer***<!-- style="color: red" -->
+
 Depuis la page des [Ressources 24h/24](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources/ressources-24h/24), nous pouvons faire un petit tour d'horizon des différentes bases auxquelles vous avez accès.
 
 Du côté du Droit :
@@ -128,6 +130,9 @@ Plus généralement en SHS, on vous conseille :
 |[OpenEdition Revues](https://www-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue-journals)|Revues|xxxx|
 
 ## Guide des ressources en ligne
+
+***brise-glace à terminer, intégration H5P OK***<!-- style="color: red" -->
+
 Brise-glace sur quelle ressources est quoi ? Archive ouverte ou accès non libre
 
 <iframe
@@ -170,6 +175,9 @@ Si vous oubliez votre nom d'utilisateur et/ou votre mot de passe[^1], suivez les
 [^1]: Ce qui n'arrivera pas si vous notez scrupuleusement ces infos quelque par, dans votre bibliothèque [Zotero](https://www.zotero.org/) par exemple.
 
 ### Stradalex
+
+***panorama du contenu à faire***<!-- style="color: red" -->
+
 [Stradalex](https://www-stradalex-eu.ezproxy.universite-paris-saclay.fr/fr) est une base incontournable si vous devez étendre vos recherches au-delà des frontières nationales. En effet, Stradalex est très forte en droit européen et couvre largement les sujets tels que la protection de l'environnement, la protection des données personnelles ou encore le droit des technologies de l'information, le droit intellectuel, entre autres domaines.
 ![Page d'accueil de la base Stradalex](assets\Stradalex\Strada_acc.png)
 Pour tout ce qui concerne le droit de l'Union Européenne, Stradalex est intimement liée à la base [EUR-Lex](https://eur-lex.europa.eu/homepage.html?lang=fr), le Légifrance de l'UE, attendez-vous donc à naviguer de l'une à l'autre.
@@ -187,7 +195,8 @@ C'est-à-dire une recherche où vous naviguez dans l'arborescence de la base.
 
 Partez depuis l'onglet **Explorer** pour ouvrir l'arborescence principale de Strada Lex.
 
-Sélectionnez le type de source que vous souhaitez consulter. Strada Lex donne accès à toute la législation européenne, de la jurisprudence européenne, belge et internationale, ainsi qu'à de la doctrine. Pour une revue plus complète du contenu de Strada Lex, rendez-vous [ici]().
+Sélectionnez le type de source que vous souhaitez consulter. Strada Lex donne accès à toute la législation européenne, de la jurisprudence européenne, belge et internationale, ainsi qu'à de la doctrine. Pour une revue plus complète du contenu de Strada Lex, rendez-vous [ici]()
+***panorama du contenu à faire sur une autre page***<!-- style="color: red" -->.
 
         {{1}}
 **Avantage** : L'onglet **Explorer** est assez utile pour faire connaissance avec le contenu de la base, explorer la diversité des titres de **revues** **(3)**, la table des matière du **Répertoire Européen** et naviguer dans la **Réglementation consolidée**.
@@ -241,15 +250,15 @@ La recherche thématique n'étant pas le fort de ScienceDirect, il vous est cons
 
 Néanmoins, ScienceDirect couvre des branches et des domaines juridiques que d'autres bases ne couvrent pas ou peu, comme :
 
-- Certains droits étrangers et tout particulièrement le droit anglo-saxon ;
+- Certains **droits étrangers** et tout particulièrement le **droit anglo-saxon** ;
 
-- le droit international.
+- le **droit international**.
 
 ... et des sciences auxiliaires du droit comme :
 
-- La criminologie ;
+- La **criminologie** ;
 
-- La médecine légale.
+- La **médecine légale**.
 
 Si vous devez explorer la littérature de ces domaines, ScienceDirect est un passage nécessaire.
 
@@ -275,6 +284,8 @@ Pour aller encore plus loin dans le filtrage, vous pouvez ensuite chercher dans 
 
 #### L'accès au texte intégral sur ScienceDirect
 
+***correctifs images à appliquer***<!-- style="color: red" -->
+
 Si vous avez suivi les étapes de filtrages des publications à la page précédente, seules celles auxquelles vous avez accès en totalité, ou presque, s'affichent.
 
 Trois types d'accès sont mentionnés :
@@ -296,6 +307,7 @@ Et pour le reste :
 - une mention *Abstract only* ou *No access*![](assets\ScienceDirect\ScienceDirect_pasacces.png)![](assets\ScienceDirect\ScienceDirect_pasacces2.png)
 
 #### Naviguer dans une publication
+
 Pour atteindre les articles d'une publication, cliquez simplement sur le nom de celle-ci pour afficher la page d'accueil. ![](assets\ScienceDirect\ScienceDirect_publication.png)
 Sur cette dernière, deux points à repérer :
 
@@ -306,6 +318,8 @@ Sur cette dernière, deux points à repérer :
 ----
 Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemblera à ceci, et voici les informations que vous trouverez:
 
+***Animation à corriger***<!-- style="color: red" -->
+
         {{1-2}}
 ![](assets\ScienceDirect\ScienceDirect_structure_publication.png)
 
@@ -313,6 +327,8 @@ Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemb
 ![](assets\Communs_fondamentaux\Structure_publi_1.png)
 
 ### Le Social Science Research Network (SSRN)
+
+***Intégration Genially pour le SSRN ?***<!-- style="color: red" -->
 
 Le [Social Science Research Network ou SSRN](https://www.ssrn.com/index.cfm/en/) est une plateforme en ligne lancée en 1994 qui permet aux chercheurs de partager des articles de travail, des prépublications et des recherches dans des domaines variés des sciences sociales (économie, finance, droit, sciences politiques, gestion).​
 
@@ -389,6 +405,8 @@ Sur le deuxième diagramme en anneau, cliquez dans la zone du Droit puis sur **V
 
 #### Propositions d'exercices
 
+***Ici, deux possibilités non exclusives : intégration directe des exercices dans Liascript et/ou alimentation banque de question eCampus pour intégration directe eCampus***<!-- style="color: red" -->
+
 - Vous souhaitez faire remonter des références au sujet des labels en droit du patrimoine, en utilisant l'astuce présentée [ici](#19), quelle requête proposez-vous (*cliquez sur le check pour comparer votre réponse aux réponses possibles*) ?
 [[domain_t:shs.droit label patrimoine]]
 ***
@@ -413,7 +431,12 @@ C'est Philippe Tanchoux qui semble avoir le plus déposé dans HAL sur la questi
 
 ### HeinOnline
 
+***Base pas accessible pour le moment***<!-- style="color: red" -->
+
 ### La recherche de données bibliographiques avec LeDoctrinal
+
+***Ajouter exercices***<!-- style="color: red" -->
+
 [LeDoctrinal](https://www-doctrinal-fr.ezproxy.universite-paris-saclay.fr/) est une base de **données bibliographiques** qui propose des notices bibliographiques d’articles de revues, de la jurisprudence française et européenne, des textes officiels, ainsi que des références bibliographiques de Mélanges.
 
 ![](assets\LeDoctrinal\LeDoctrinal_acc.png)
@@ -612,7 +635,7 @@ La fenêtre de consultation est assez basique, avec en son centre **(1)** la ver
 Lexis Veille
 ========
 
-L'université met à votre disposition le service de veille fourni pas LexisNexis, [Lexis Veille](https://www-lexisveille-fr.ezproxy.universite-paris-saclay.fr/).
+L'université met à votre disposition le service de veille fourni par LexisNexis, [Lexis Veille](https://www-lexisveille-fr.ezproxy.universite-paris-saclay.fr/).
 
 Attention, tout comme [Lexis 360 Intelligence](https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/home), vous aurez besoin de votre compte LexisNexis pour accéder à toutes les fonctionnalités du service, reportez-vous à [cette section](#9) pour plus d'informations.
 
@@ -677,13 +700,3 @@ Comment trouver une revue, ou des articles que vous ne trouvez pas
 ## Fabriquer un prompt
 
 La bonne recette pour le prompt
-
-## A revoir
-
-À partir du portail HAL SHS, vous pourrez déjà effectuer une recherche plus précise, mais vous gagnerez à préciser encore votre exploration, en passant par l'onglet **Parcourir** puis **Par Discipline**.
-![](assets\HAL\HAL_SHS2.png)
-
-Un diagramme en anneau s'affiche, cliquez dessus pour afficher d'autres options et choisissez **Voir les sous-domaines**. Par chance, le droit reste le domaine le plus représenté en SHS dans HAL, vous ne pourrez donc pas le rater.
-
-Sur le deuxième diagramme en anneau, cliquez dans la zone du Droit puis sur **Voir les résultats de recherche**.
-![](assets\HAL\HAL_SHS3.png)
