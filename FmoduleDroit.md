@@ -20,7 +20,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 # Les fondamentaux de la recherche documentaire juridique
 
-[preview-lia](https://raw.githubusercontent.com/sjamet8000/RechDoc/refs/heads/main/FmoduleDroit.md)
+[preview-lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/sjamet8000/RechDoc/refs/heads/main/FmoduleDroit.md#1)
 
 ## En préambule : à quoi avez-vous accès ?
 
