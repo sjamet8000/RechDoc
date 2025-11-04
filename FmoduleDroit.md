@@ -290,8 +290,6 @@ Pour aller encore plus loin dans le filtrage, vous pouvez ensuite chercher dans 
 
 ##### L'accès au texte intégral sur ScienceDirect
 
-***correctifs images à appliquer***<!-- style="color: red" -->
-
 Si vous avez suivi les étapes de filtrages des publications à la page précédente, seules celles auxquelles vous avez accès en totalité, ou presque, s'affichent.
 
 Trois types d'accès sont mentionnés :
