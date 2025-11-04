@@ -280,7 +280,7 @@ Pour la méthode de recherche présentée ici, rendez-vous sur l'onglet " **Jour
 2. Dans " **Select secondary subject area** " sélectionnez " **Law** "
 
         {{1}}
-Si tout se passe bien, ScienceDirect doit vous remonter environ 215 publications (des revues et des e-books) que vous pouvez encore filtrer depuis les facettes par **types de publications** (revues, livres, manuels, etc.) et surtout par **type d'accès**.
+Si tout se passe bien, ScienceDirect doit vous remonter environ 215 publications (des revues et des e-books, leur nombre peut changer en fonction du temps) que vous pouvez encore filtrer depuis les facettes par **types de publications** (revues, livres, manuels, etc.) et surtout par **type d'accès**.
 ![](assets\ScienceDirect\ScienceDirect_access.png)
 Si vous souhaitez ne voir que les titres auxquels vous avez accès, **cochez tout**, mais il peut être intéressant d'accéder aux *abstracts* des articles ou ouvrages qui ne sont pas compris dans l'abonnement de l'université quitte à demander un [prêt entre bibliothèques](https://www.bibliotheques.universite-paris-saclay.fr/le-pret-entre-bibliotheques-peb) par la suite.
 Pour aller encore plus loin dans le filtrage, vous pouvez ensuite chercher dans les titres des publications proposées.
@@ -317,20 +317,25 @@ Et pour le reste :
 Pour atteindre les articles d'une publication, cliquez simplement sur le nom de celle-ci pour afficher la page d'accueil. ![](assets\ScienceDirect\ScienceDirect_publication.png)
 Sur cette dernière, deux points à repérer :
 
-- pour accéder à la liste des articles (dernière parution en date et toutes les archives disponibles), cliquer sur *Articles & Issues* **(1)** ;
+{{1}}- pour accéder à la liste des articles (dernière parution en date et toutes les archives disponibles), cliquer sur *Articles & Issues* ;
 
-- la page d'accueil embarque un petit moteur de recherche pour faire une recherche thématique dans la revue (*Search in this journal* **(2)**).
+{{2}}- la page d'accueil embarque un petit moteur de recherche pour faire une recherche thématique dans la revue.
 
 ----
+
 Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemblera à ceci, et voici les informations que vous trouverez:
 
-***Animation à corriger***<!-- style="color: red" -->
-
-        {{1-2}}
+        {{3-4}}
 ![](assets\ScienceDirect\ScienceDirect_structure_publication.png)
 
-        {{2}}
-![](assets\Communs_fondamentaux\Structure_publi_1.png)
+        {{4-5}}
+![](assets\ScienceDirect\ScienceDirect_publi_gauche.png)
+
+        {{5-6}}
+![](assets\ScienceDirect\ScienceDirect_publi_central.png)
+
+        {{6-7}}
+![](assets\ScienceDirect\ScienceDirect_publi_droit.png)
 
 ### Le Social Science Research Network (SSRN)
 
