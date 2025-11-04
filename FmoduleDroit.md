@@ -247,7 +247,11 @@ Sur cet exemple :
 
 [^1]: Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
 
-### Les revues et ouvrages juridiques dans ScienceDirect
+### ScienceDirect
+
+![](assets\ScienceDirect\ScienceDirect_logo.png)[ScienceDirect](https://www-sciencedirect-com.ezproxy.universite-paris-saclay.fr/browse/journals-and-books) est une base payante à laquelle l'université est abonnée. Elle donne accès au texte intégral d’articles de revues, chapitres d’ouvrages et collections thématiques. Sa richesse disciplinaire en fait une source majeure pour la recherche en sciences, santé, technologies et sciences sociales.
+
+#### Les revues et ouvrages juridiques dans ScienceDirect
 La recherche thématique n'étant pas le fort de ScienceDirect, il vous est conseillé, dans cette introduction, d'opter pour une recherche exploratoire, d'autant que l'offre pléthorique de la plateforme de Relx (anciennement Elsevier) n'a pas la lisibilité des plateformes plus traditionnelles en littérature juridique.
 
 Néanmoins, ScienceDirect couvre des branches et des domaines juridiques que d'autres bases ne couvrent pas ou peu, comme :
@@ -284,7 +288,7 @@ Pour aller encore plus loin dans le filtrage, vous pouvez ensuite chercher dans 
 
 [^1]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
 
-#### L'accès au texte intégral sur ScienceDirect
+##### L'accès au texte intégral sur ScienceDirect
 
 ***correctifs images à appliquer***<!-- style="color: red" -->
 
@@ -308,7 +312,7 @@ Et pour le reste :
 
 - une mention *Abstract only* ou *No access*![](assets\ScienceDirect\ScienceDirect_pasacces.png)![](assets\ScienceDirect\ScienceDirect_pasacces2.png)
 
-#### Naviguer dans une publication
+##### Naviguer dans une publication
 
 Pour atteindre les articles d'une publication, cliquez simplement sur le nom de celle-ci pour afficher la page d'accueil. ![](assets\ScienceDirect\ScienceDirect_publication.png)
 Sur cette dernière, deux points à repérer :
