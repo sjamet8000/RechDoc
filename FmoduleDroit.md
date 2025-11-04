@@ -75,7 +75,7 @@ Les ressources sont classées par grands domaines scientifiques. Les ressources 
 
 #### Via le catalogue des BU
 
-Un autre moyen tout aussi efficace vous permettra d'atteindre les ressources en ligne, mais pas seulement, le catalogue des bibliothèques, [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?vid=33UDPS_VU1&lang=fr_FR)[^1](Attention aux logos ! Pour chercher dans les fonds de l'Université, veillez à bien voir les logos de l'Université Paris-Saclay, de CentralSupélec et de l'ENS Paris-Saclay !).
+Un autre moyen tout aussi efficace vous permettra d'atteindre les ressources en ligne, mais pas seulement, le catalogue des bibliothèques, [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?vid=33UDPS_VU1&lang=fr_FR)[^*].
 
 ![](assets\Acces_RE\Logo_Focus.png)
 
@@ -89,12 +89,14 @@ Si vous souhaitez vous rendre sur la base Dalloz Enseignant, entrez " Dalloz " d
 ![](assets\Acces_RE\Focus_Dalloz.png)
 
         {{2}}
-![](assets\Acces_RE\Focus_Acces_ligne.png)Si vous faites une recherche autour du droit de l'environnement, entrez " droit de l'environnement " entre guillemets dans la barre de recherche puis cochez " **Accès en ligne** " à gauche de votre écran, dans la zone des *facettes*[^1]. N'oubliez pas de valider en cliquant sur " **Appliquer les filtres** " De cette manière, vous pourrez faire une recherche thématique sur toutes les bases de données auxquelles l'Université est abonnée.
+![](assets\Acces_RE\Focus_Acces_ligne.png)Si vous faites une recherche autour du droit de l'environnement, entrez " droit de l'environnement " entre guillemets dans la barre de recherche puis cochez " **Accès en ligne** " à gauche de votre écran, dans la zone des *facettes*[^*]. N'oubliez pas de valider en cliquant sur **Appliquer les filtres**. De cette manière, vous pourrez faire une recherche thématique sur toutes les bases de données auxquelles l'Université est abonnée.
 
         {{3}}
 ![](assets\Acces_RE\Focus_erevue.png)Vous pouvez aussi faire une recherche directement dans les titres des revues ou des ebooks en cliquant sur [e-books et e-revues](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/jsearch?vid=33UDPS_VU1&lang=fr_FR) en haut de page.
 
-[^1]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
+[^*]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
+
+[^*]: Attention aux logos ! Pour chercher dans les fonds de l'Université, veillez à bien voir les logos de l'Université Paris-Saclay, de CentralSupélec et de l'ENS Paris-Saclay !
 
 ### Un panorama des ressources en droit, économie, management
 
@@ -172,9 +174,9 @@ Vérifiez bien que vous avez reçu un message, sur votre adresse universitaire, 
 {{6}}![](assets\LexisNexis\Lexisnexis_connexion.png) Pendant vos visites, connectez-vous en renseignant votre identifiant (i.e. votre nom d'utilisateur) et votre mot de passe. Ne cliquez pas sur **Accès - Universités et grandes écoles**.
 
         {{7}}
-Si vous oubliez votre nom d'utilisateur et/ou votre mot de passe[^1], suivez les indications après avoir cliqué sur **Identifiant ou mot de passe oublié ?**. Dans tous les cas, LexisNexis passera par votre **adresse mail universitaire** pour vous envoyer les informations de récupération avec les adresses *customersupport@lexisnexis.com* et *noreply@lexisnexis.com*. Vous pourrez attendre jusqu'à 5 minutes pour recevoir les messages, vérifiez bien qu'ils ne sont pas tombés dans vos indésirables.
+Si vous oubliez votre nom d'utilisateur et/ou votre mot de passe[^*], suivez les indications après avoir cliqué sur **Identifiant ou mot de passe oublié ?**. Dans tous les cas, LexisNexis passera par votre **adresse mail universitaire** pour vous envoyer les informations de récupération avec les adresses *customersupport@lexisnexis.com* et *noreply@lexisnexis.com*. Vous pourrez attendre jusqu'à 5 minutes pour recevoir les messages, vérifiez bien qu'ils ne sont pas tombés dans vos indésirables.
 
-[^1]: Ce qui n'arrivera pas si vous notez scrupuleusement ces infos quelque par, dans votre bibliothèque [Zotero](https://www.zotero.org/) par exemple.
+[^*]: Ce qui n'arrivera pas si vous notez scrupuleusement ces infos quelque par, dans votre bibliothèque [Zotero](https://www.zotero.org/) par exemple.
 
 ### Stradalex
 
@@ -241,11 +243,11 @@ Sur cet exemple :
 
 {{3}} J'ai demandé de chercher les mots-clés " *loup* ", " *ours* ", " *lynx* ", mais pas nécessairement les trois termes ensembles.
 
-{{4}} Enfin j'ai demandé à exclure les résultats comportant le mot-clé " *mouton* ".[^1]
+{{4}} Enfin j'ai demandé à exclure les résultats comportant le mot-clé " *mouton* ".[^*]
 
 **Attention** : ne surchargez pas trop les lignes " Tous ces termes " et " Cette expression exacte " au risque de vous retrouver avec un résultat totalement silencieux.
 
-[^1]: Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
+[^*]: Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
 
 ### ScienceDirect
 
@@ -273,7 +275,7 @@ Comme d'habitude, vous pouvez accéder à ScienceDirect via [le site des BU](htt
 Pour la méthode de recherche présentée ici, rendez-vous sur l'onglet " **Journals & Books** " à partir duquel vous allez pouvoir faire remonter la liste des revues référencées dans le domaine du droit (selon ScienceDirect, ce qui est large).
 ![](assets\ScienceDirect\ScienceDirect_journalsbooks.png)
 
-![](assets\ScienceDirect\ScienceDirect_law.png)Pour sabrer dans les milliers de revues et dizaines de milliers d'ouvrages, affinez votre recherche via les *facettes*[^1]. Cela se passe en deux temps :
+![](assets\ScienceDirect\ScienceDirect_law.png)Pour sabrer dans les milliers de revues et dizaines de milliers d'ouvrages, affinez votre recherche via les *facettes*[^*]. Cela se passe en deux temps :
 
 1. Dans " **Select subject area** " sélectionnez " **Social Sciences** " (le dernier sujet de la liste)
 
@@ -286,7 +288,7 @@ Si vous souhaitez ne voir que les titres auxquels vous avez accès, **cochez tou
 Pour aller encore plus loin dans le filtrage, vous pouvez ensuite chercher dans les titres des publications proposées.
 ![](assets\ScienceDirect\ScienceDirect_forensic.png)
 
-[^1]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
+[^*]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
 
 ##### L'accès au texte intégral sur ScienceDirect
 
@@ -321,7 +323,7 @@ Sur cette dernière, deux points à repérer :
 
 ----
 
-Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemblera à ceci, et voici les informations que vous trouverez:
+Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemblera à ceci, et voici les informations que vous trouverez[^*] :
 
         {{3-4}}
 ![](assets\ScienceDirect\ScienceDirect_structure_publication.png)
@@ -334,6 +336,8 @@ Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemb
 
         {{6-7}}
 ![](assets\ScienceDirect\ScienceDirect_publi_droit.png)
+
+[^*]: Il s'agit d'une mise en forme que vous rencontrerez souvent dans d'autres bases.
 
 ### Le Social Science Research Network (SSRN)
 
@@ -678,7 +682,7 @@ L'université met à votre disposition le service de veille fourni par LexisNexi
 
 Attention, tout comme [Lexis 360 Intelligence](https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/home), vous aurez besoin de votre compte LexisNexis pour accéder à toutes les fonctionnalités du service, reportez-vous à [cette section](#9) pour plus d'informations.
 
-![](assets\Lexis_Veille\Lexis_veille_profil.png) Lors de votre première connexion à Lexis Veille, rendez-vous directement dans **Mon profil** pour personnaliser votre veille, l'envoi ou non d'une newsletter sur votre mail ainsi que sa fréquence[^1].
+![](assets\Lexis_Veille\Lexis_veille_profil.png) Lors de votre première connexion à Lexis Veille, rendez-vous directement dans **Mon profil** pour personnaliser votre veille, l'envoi ou non d'une newsletter sur votre mail ainsi que sa fréquence[^*].
 
 Vous aurez la possibilité de sélectionner parmis de très nombreuses matières celles qui vous semblent les plus pertinentes.
 
@@ -704,7 +708,7 @@ Dalloz Actualité ne propose pas de fonctionnalités aussi avancées que Lexis V
 
 ![](assets\Dalloz_actu\Dalloz_actu.png)
 
-[^1]: La newsletter n'est pas obligatoire, une fois votre profil sauvegardé dans Lexis Veille, il restera tel quel et le feed se mettra à jour.
+[^*]: La newsletter n'est pas obligatoire, une fois votre profil sauvegardé dans Lexis Veille, il restera tel quel et le feed se mettra à jour.
 
 ## Quelques conseils méthodologiques
 
