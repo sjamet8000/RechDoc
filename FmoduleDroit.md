@@ -452,21 +452,21 @@ Mir@bel permet de trouver où accéder aux revues disponibles en ligne, en vous 
 
 - et parfois même sur les numéros disponibles en texte intégral.
 
-Les revues du droit y sont bien représentées, surtout pour
+Les revues du droit y sont bien représentées, surtout pour (à compléter)
 
 #### Démonstration de puissance
 
-On cherche à mettre la main sur la revue *xxxxxxxx*.
+On cherche à mettre la main sur un article de la revue *Actes Pratiques et Stratégie Patrimoniale* sur les stratégie patrimoniales privées autour des fondations.
 
 Problème :
 
-{{1-2}}Vous recherchez dans le catalogue Focus, ça n'est pas concluant...
+{{1-2}}Vous recherchez dans le catalogue Focus, ça n'est pas concluant... ![](assets\Mirabel\Mirabel_demo_focus.png)
 
-{{2-3}}... vous testez dans Lexis 360 Intelligence sans beaucoup plus de résultat...
+{{2-3}}... vous testez dans Lexis 360 Intelligence sans beaucoup plus de résultat... ![](assets\Mirabel\Mirabel_demo_lexis.png)
 
-{{3-4}}... sur Dalloz, toujours rien...
+{{3-4}}... sur Dalloz, toujours rien... ![](assets\Mirabel\Mirabel_demo_dalloz.png)
 
-{{4-5}}... de guerre lasse vous tentez Google Scholar malgré votre aversion pour les GAFAM.
+{{4-5}}... de guerre lasse vous tentez Google Scholar malgré votre aversion pour les GAFAM... et là, miracle !... Mais hélas non, il ne s'agit que de citations sans rapport avec le papier que vous recherchez et qui ne vous diront rien sur l'accès à la revue en elle-même, sinon qu'elle existe. ![](assets\Mirabel\Mirabel_demo_googlescholar.png)
 
 {{5}}
 
