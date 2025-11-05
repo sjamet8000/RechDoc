@@ -482,15 +482,15 @@ Problème :
 
 ### OpenAlex
 
-[OpenAlex](https://openalex.org/) est un catalogue ouvert du système mondial de la recherche scientifique, développé par l’organisation à but non lucratif OurResearch[^1].
+![](assets\OpenAlex\openalex_logo.png)[OpenAlex](https://openalex.org/) est un catalogue ouvert du système mondial de la recherche scientifique, développé par l’organisation à but non lucratif OurResearch[^1].
 
-La base se structure autour des travaux scientifiques (ou *works* : articles, livres, chapitres, thèses, bases de données), elle en indexe, à ce jour plus de 240 millions[^2]. Elle couvre aussi un très large éventail de revues en Open Access[^3].
+La base se structure autour des travaux scientifiques (ou *works* : articles, livres, chapitres, thèses, bases de données), elle en indexe, à ce jour plus de 260 millions[^2]. Elle couvre aussi un très large éventail de revues en Open Access[^3].
 
-Il n'est pas encore possible de savoir à quel point le droit et les sciences auxiliaires du droit sont couvertes par OpenAlex,
+Il n'est pas encore possible de savoir à quel point le droit et les sciences auxiliaires du droit sont couvertes par OpenAlex, en revanche, un biais de couverture géographique est à prévoir avec une forte représentation de travaux états-uniens et anglais.
 
 [^1]: Cf. https://docs.openalex.org/
 
-[^2]: Cf. https://docs.openalex.org/api-entities/works
+[^2]: Cf. https://api.openalex.org/works?page=1&sort=cited_by_count:desc&per_page=10
 
 [^3]: Cf. https://doi.org/10.48550/arXiv.2411.03325
 
