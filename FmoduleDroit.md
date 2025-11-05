@@ -452,7 +452,7 @@ Mir@bel permet de trouver où accéder aux revues disponibles en ligne, en vous 
 
 - et parfois même sur les numéros disponibles en texte intégral.
 
-Les revues du droit y sont bien représentées, surtout pour (à compléter)
+Le droit reste un des domaines parmis les mieux représentés de la base, avec un réseau de bibliothèques très investies dans la bonne tenue des données, il s'agit donc d'un outil à intégrer dans votre processus de recherche.
 
 #### Démonstration de puissance
 
@@ -482,9 +482,17 @@ Problème :
 
 ### OpenAlex
 
-### HeinOnline
+[OpenAlex](https://openalex.org/) est un catalogue ouvert du système mondial de la recherche scientifique, développé par l’organisation à but non lucratif OurResearch[^1].
 
-***Base pas accessible pour le moment***<!-- style="color: red" -->
+La base se structure autour des travaux scientifiques (ou *works* : articles, livres, chapitres, thèses, bases de données), elle en indexe, à ce jour plus de 240 millions[^2]. Elle couvre aussi un très large éventail de revues en Open Access[^3].
+
+Il n'est pas encore possible de savoir à quel point le droit et les sciences auxiliaires du droit sont couvertes par OpenAlex,
+
+[^1]: Cf. https://docs.openalex.org/
+
+[^2]: Cf. https://docs.openalex.org/api-entities/works
+
+[^3]: Cf. https://doi.org/10.48550/arXiv.2411.03325
 
 ### La recherche de données bibliographiques avec LeDoctrinal
 
@@ -603,11 +611,10 @@ Avec LeDoctrinal, on peut distinguer deux types de métadonnées :
 
 Avec ces deux types d'information, vous pouvez vous faire une première idée de la pertinence d'un document, et savoir où il se trouve (dans quelle bibliothèque, ou dans quelle plateforme éditoriale).
 
-Exemples : les labels en droit du patrimoine
-
 #### Exercices
 
-
+Recherche d'une même revue entre Mir@bel et LeDoctrinal
+- Actes Pratiques et Stratégie Patrimoniales
 
 ### Europresse
 
@@ -754,3 +761,7 @@ Lorsque vous recherchez *cultiv\** au lieu de *cultivées*, vous recherchez à l
 ## Fabriquer un prompt
 
 La bonne recette pour le prompt
+
+### HeinOnline
+
+***Base pas accessible pour le moment***<!-- style="color: red" -->
