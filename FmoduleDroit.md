@@ -341,7 +341,7 @@ Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemb
 
 ### Le Social Science Research Network (SSRN)
 
-***Intégration Genially pour le SSRN ?***<!-- style="color: red" -->
+***Intégration Genially pour le SSRN ? Possibilité de RELiser (en créditant la tutrice qui a réalisé le tuto)***<!-- style="color: red" -->
 
 Le [Social Science Research Network ou SSRN](https://www.ssrn.com/index.cfm/en/) est une plateforme en ligne lancée en 1994 qui permet aux chercheurs de partager des articles de travail, des prépublications et des recherches dans des domaines variés des sciences sociales (économie, finance, droit, sciences politiques, gestion).​
 
@@ -468,7 +468,17 @@ Problème :
 
 {{4-5}}... de guerre lasse vous tentez Google Scholar malgré votre aversion pour les GAFAM... et là, miracle !... Mais hélas non, il ne s'agit que de citations sans rapport avec le papier que vous recherchez et qui ne vous diront rien sur l'accès à la revue en elle-même, sinon qu'elle existe. ![](assets\Mirabel\Mirabel_demo_googlescholar.png)
 
-{{5}}
+{{5}}Seule solution : rendez-vous sur Mir@bel, entrez le nom de la revue...
+![](assets\Mirabel\Mirabel_recherche.png)
+
+      {{6}}
+      <iframe
+        src="https://sjamet8000.github.io/RechDoc/activites/notice_revue_mirabel.html"
+        width="100%"
+        height="600"
+        style="border:none;"
+        allowfullscreen
+      ></iframe>
 
 ### OpenAlex
 
@@ -594,6 +604,10 @@ Avec LeDoctrinal, on peut distinguer deux types de métadonnées :
 Avec ces deux types d'information, vous pouvez vous faire une première idée de la pertinence d'un document, et savoir où il se trouve (dans quelle bibliothèque, ou dans quelle plateforme éditoriale).
 
 Exemples : les labels en droit du patrimoine
+
+#### Exercices
+
+
 
 ### Europresse
 
