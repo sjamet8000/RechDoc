@@ -494,6 +494,31 @@ Il n'est pas encore possible de savoir à quel point le droit et les sciences au
 
 [^3]: Cf. https://doi.org/10.48550/arXiv.2411.03325
 
+#### Rechercher dans OpenAlex
+
+OpenAlex est une base avec une forte orientation bibliométrique, cet aspect là ne sera pas évoqué dans ce petit guide. Nous traiterons cette base comme une **base de données bibliographiques**.
+
+D'autre part, la base est pluridisciplinaire, vous ne trouverez donc pas les mêmes logiques de recherche que dans des bases spécifiquement juridiques.
+
+Mettons que vous souhaitez faire remonter le plus de références possibles sur la question de l'**extraction et de la production des terres rares**, avec un angle **juridique** et **politique**.
+
+La base étant anglophone, vos mots-clés doivent l'être aussi.
+
+Voici une requête possible :
+
+**'rare earth' (mining OR extraction OR production)**<!-- style="color: red" -->[^1]
+
+Lancez la requête dans [OpenAlex](https://openalex.org/), combien de résultats obtenez-vous (sélectionnez la réponse qui convient le mieux) ?
+
+[[Entre 1000 et 5000|Entre 5000 et 10 000|Entre 10 000 et 15 000|(Plus de 15 000)]]
+********
+OpenAlex étant une base pluridisciplinaire, qui a vocation à proposer une alternative aux monstres tels que le Web Of Science ou Scopus, le nombre de résultats que vous obtenez peut être humainement indigeste. Il est crucial de jouer sur les différents filtres pour augmenter leur pertinence et ne pas vous faire perdre trop de temps.
+***********
+
+[^1]: Requête que nous pourrions traduire par " fais remonter *tous* les résultats contenant **rare earth**<!-- style="color: red" --> et les résultats qui contiennent *au moins* l'un des trois mots-clés suivants : **mining**<!-- style="color: red" -->, **extraction**<!-- style="color: red" -->, **production**<!-- style="color: red" --> "
+
+
+
 ### La recherche de données bibliographiques avec LeDoctrinal
 
 ***Ajouter exercices***<!-- style="color: red" -->
