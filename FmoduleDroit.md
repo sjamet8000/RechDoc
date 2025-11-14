@@ -542,7 +542,7 @@ Le sujet n'étant pas par définition un sujet propre aux réflexions juridiques
 
 {{4}}Vous remarquerez que vous ne pouvez pas sélectionner plusieurs *Subfields* en même temps. Cliquez sur le **+** à droite de la ligne des *Subfields* qui vient de s'ajouter pour ajouter d'autres *Subfields*. Répétez l'opération autant de fois que nécessaire. ![](assets\OpenAlex\openalex_exemple_2.png)
 
-{{5}}La zone 2 doit maintenant ressembler à cela
+{{5}}La zone 2 doit maintenant ressembler à cela, avec un nombre de références à évaluer largement réduit : ![](assets\OpenAlex\openalex_exemple_3.png)
 
 ### La recherche de données bibliographiques avec LeDoctrinal
 
