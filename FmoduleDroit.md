@@ -471,7 +471,7 @@ Problème :
 {{5}}Seule solution : rendez-vous sur Mir@bel, entrez le nom de la revue...
 ![](assets\Mirabel\Mirabel_recherche.png)
 
-      {{6}}
+      {{6}}... et miracle !
       <iframe
         src="https://sjamet8000.github.io/RechDoc/activites/notice_revue_mirabel.html"
         width="100%"
@@ -512,12 +512,24 @@ Lancez la requête dans [OpenAlex](https://openalex.org/), combien de résultats
 
 [[Entre 1000 et 5000|Entre 5000 et 10 000|Entre 10 000 et 15 000|(Plus de 15 000)]]
 ********
-OpenAlex étant une base pluridisciplinaire, qui a vocation à proposer une alternative aux monstres tels que le Web Of Science ou Scopus, le nombre de résultats que vous obtenez peut être humainement indigeste. Il est crucial de jouer sur les différents filtres pour augmenter leur pertinence et ne pas vous faire perdre trop de temps.
+OpenAlex étant une base pluridisciplinaire, qui a vocation à proposer une alternative aux monstres tels que le [Web Of Science](https://www-webofscience-com.ezproxy.universite-paris-saclay.fr/wos/woscc/basic-search) ou [Scopus](https://www-scopus-com.ezproxy.universite-paris-saclay.fr/pages/home?display=basic#basic), le nombre de résultats que vous obtenez peut être humainement indigeste. Il est crucial de jouer sur les différents filtres pour augmenter leur pertinence et ne pas vous faire perdre trop de temps.
 ***********
+
+Voici la structure d'une page de résultats d'OpenAlex :
+<iframe
+  src="https://sjamet8000.github.io/RechDoc/activites/page_results_OpenAlex.html"
+  width="100%"
+  height="600"
+  style="border:none;"
+  allowfullscreen
+></iframe>
+
 
 [^1]: Requête que nous pourrions traduire par " fais remonter *tous* les résultats contenant **rare earth**<!-- style="color: red" --> et les résultats qui contiennent *au moins* l'un des trois mots-clés suivants : **mining**<!-- style="color: red" -->, **extraction**<!-- style="color: red" -->, **production**<!-- style="color: red" --> "
 
+#### Un exemple
 
+bla
 
 ### La recherche de données bibliographiques avec LeDoctrinal
 
