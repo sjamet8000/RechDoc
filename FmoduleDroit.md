@@ -529,7 +529,20 @@ Voici la structure d'une page de résultats d'OpenAlex :
 
 #### Un exemple
 
-bla
+Vous avez lancé la recherche **'rare earth' (mining OR extraction OR production)**<!-- style="color: red" -->, et obtenu un peu plus de 15 000 résultats.
+Vous souhaitez naturellement afiner et ne conserver que ceux qui seront les plus pertinents.
+
+Le sujet n'étant pas par définition un sujet propre aux réflexions juridiques, vous allez devoir ruser. Voici une manière possible de procéder :
+
+{{1}}Ne vous laissez pas séduire par la zone des *Stats* (la zone 4), n'y touchez pas.
+
+{{2}}Positionnez-vous dans la zone 2. Pour le moment, une seule ligne apparaît : celle de votre requête. Nous allons l'enrichir en cliquant sur le **+**. ![](assets\OpenAlex\openalex_exemple_1.png)
+
+{{3}}Une petite liste de filtres s'affiche, mais cliquez sur **More** pour afficher la totalité. Sélectionnez *Subfields*. Vous pouvez ensuite parcourir la liste des *Sous-domaines* et sélectionner les plus pertinent. Voici ceux que nous vous proposons pour l'exemple. ![](assets\OpenAlex\openalex_subfields.png)
+
+{{4}}Vous remarquerez que vous ne pouvez pas sélectionner plusieurs *Subfields* en même temps. Cliquez sur le **+** à droite de la ligne des *Subfields* qui vient de s'ajouter pour ajouter d'autres *Subfields*. Répétez l'opération autant de fois que nécessaire. ![](assets\OpenAlex\openalex_exemple_2.png)
+
+{{5}}La zone 2 doit maintenant ressembler à cela
 
 ### La recherche de données bibliographiques avec LeDoctrinal
 
