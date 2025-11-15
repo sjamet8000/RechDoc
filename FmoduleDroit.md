@@ -792,41 +792,113 @@ Vous pouvez demander efficacement à une IAg de :
 - vous aider à reformuler votre pensée ou une pensée existante
 - vous aider à structurer et styliser un document
 
- **Il n'est pas recommandé**<!-- style="color: red" --> de déléguer à une IAg de :
+ **Il n'est pas recommandé**<!-- style="color: red" --> de déléguer à une IAg :
 
-- rechercher de l'information précise et/ou scientifique
-- synthétiser des idées très différentes les unes des autres
-- imaginer de nouvelles idées
+- la recherche de l'information précise et/ou scientifique
+- la synthèse d'idées très différentes l'une de l'autre
+- l'imagination d'idées originales
 ![](assets\IA\IA_oui_non.png)
 
-### Fabriquer un prompt
+### Elaborer le prompt le plus efficace possible
 
 En fonction de l'objectif que vous vous donnez, la structure et le contenu du prompt (ou de l'instruction) vont changer.
 
 > Réfléchir et élaborer une ou plusieurs stratégies pour fournir les instructions pertinentes à une IAg c'est ce que l'on nomme du ***prompt engineering***<!-- style="color: red" -->.
 
-#### Elaborer le prompt le plus efficace possible
-
-Le principe ici c'est de trouver des moyens très rapides de vous créer un vocabulaire riche pour faire vos recherches. C'est le but de dégager un **champ sémantique**.
-![](assets\IA\Champ_semantique_illustration.png)
-
-Le prompt doit être construit de manière précise, en tenant compte des capacités de l'agent que vous interrogez, il ne s'agit pas de simplement formuler le sujet et d'attendre une réponse.
+Le prompt doit être construit de manière précise, en tenant compte des capacités de l'agent que vous interrogez, il ne s'agit pas de simplement formuler le sujet en entrée pour récupérer la réponse en sortie.
 
 | Élément de prompt | Pourquoi | Exemple d'utilisation pour générer un champ sémantique | Exemple d'utilisation pour générer une bibliographie |
 |-------------------|----------|--------------------------------------------------------|------------------------------------------------------|
-| **1. Rôle de l’agent** | Le rôle oriente le niveau d’expertise, le vocabulaire utilisé, et la posture adoptée par l’IA, garantissant des réponses adaptées au contexte universitaire. | " Tu es linguiste spécialisé en analyse terminologique dans le champ du droit du patrimoine. "| " Tu es bibliothécaire spécialisé en droit international de l’environnement. "|
-| **2. Tâche générale de l’agent** | Indiquer clairement la nature du travail attendu évite les dérives et garantit une production cohérente avec le besoin académique (analyse, synthèse, liste, bibliographie, etc.). | " Ta tâche est d’analyser un concept et de produire l’ensemble de ses notions associées. "| " Ta tâche est de rassembler et de présenter des références académiques pertinentes en style APA. " |
-| **3. Demande précise à l’agent** | Spécifier ce que l’on attend exactement améliore la précision et la pertinence du résultat, en évitant les interprétations trop larges ou hors sujet. | " Dégage les notions principales, les concepts voisins et les expressions associées liés aux *labels en droit du patrimoine*. "| "Fournis dix références scientifiques fiables en style APA portant sur *l’exploitation des terres rares*, incluant articles, ouvrages et rapports institutionnels. " |
-| **4. Format(s) souhaité(s)** | Le format structure le résultat, facilite sa réutilisation (copier-coller, intégration dans un document), et impose un cadre reproductible. | " Présente les termes dans un tableau en Markdown avec : catégorie / terme / définition courte. " | " Présente la bibliographie sous forme de liste en style APA strict, un élément par ligne. " |
-| **5. Contraintes de styles** | Ces contraintes garantissent que la réponse respecte les exigences académiques : niveau de langue, concision, neutralité, précision, absence de subjectivité. | " Style concis, exclusivement descriptif, sans exemples, sans interprétation, niveau master. " | " Style académique, respect strict des normes APA, sans commentaires, sans annotations. " |
-| **6. Ce que l’agent ne doit surtout pas faire** | Indiquer les limites évite les erreurs fréquentes : invention de sources, concepts fictifs, spéculations ou contenus hors sujet, ce qui est essentiel pour un usage universitaire fiable. | " Ne propose pas de notions fictives ou non reconnues en droit du patrimoine ; ne traduis aucun terme ; n’ajoute aucun exemple. " | " N’invente aucune référence ; ne mélange pas les styles bibliographiques ; n’ajoute aucune source non vérifiable. " |
-
-
-#### Elaborer un prompt pour générer une bibliographie (avec des références qui existent)
+| **1. Rôle de l’agent** | Le rôle définit le niveau d’expertise attendu et oriente le vocabulaire ainsi que la posture de l’IA, garantissant une réponse adaptée au domaine étudié. | « Tu es un juriste spécialisé en droit du patrimoine dans une collectivité territoiriale. » | « Tu es bibliothécaire dans une bibliothèque universitaire de droit. » |
+| **2. Tâche générale de l’agent** | Indiquer précisément la nature de la tâche évite les interprétations incorrectes et améliore la cohérence de la production. | « Ta tâche est d’analyser un concept juridique et d’identifier l’ensemble de ses notions associées. » | « Ta tâche est de sélectionner et de présenter des références académiques pertinentes selon les normes APA. » |
+| **3. Demande précise à l’agent** | Une demande explicite permet d’obtenir un résultat ciblé, sans hors-sujet ni ajout inutile. | « Dégage le champ sémantique complet du sujet suivant : *les labels en droit du patrimoine*. » | « Produis une bibliographie en style APA portant sur le sujet suivant : *l’exploitation des terres rares*. » |
+| **4. Format(s) souhaité(s)** | Le format impose une structure stable et permet d’obtenir des résultats directement exploitables dans un travail académique. | « Présente les résultats sous forme d’un tableau Markdown : catégorie / terme / définition courte. » | « Présente les références sous forme d’une liste APA, une référence par ligne, en Markdown. » |
+| **5. Contraintes de styles** | Ces contraintes garantissent la conformité académique, un niveau de langue adapté et l’absence d’éléments non désirés. | « Utilise un style académique concis, sans exemples, sans paraphrase, et sans ajout contextuel. » | « Utilise un style académique, respecte strictement les normes APA, n’ajoute aucun commentaire explicatif. » |
+| **6. Ce que l’agent ne doit surtout pas faire** | Délimiter les interdictions réduit les risques d’erreurs fréquentes : invention, extrapolation, confusion ou hors-sujet. | « Ne crée aucun terme fictif, ne traduis aucun élément, et n’introduis aucune notion qui ne relève pas du droit du patrimoine. » | « N’invente aucune source, n’utilise aucun style autre que l’APA, et n’ajoute aucune référence non vérifiable. » |
 
 ### Rester vigilant
 
 !?[UNIGE - Hors Classe #5 -- Intelligence artificielle générative](https://youtu.be/YbuB_TU9ETE?si=RQ3qJOe_pZ-7AbQU)
+
+## La citation dans le cadre d'un travail de recherche
+
+Dans tout travail universitaire, il est indispensable de citer ses sources correctement et d’y inclure à la fin une bibliographie comprenant éventuellement une webographie qui récapitule l’ensemble des documents que vous avez consulté pour traiter votre sujet. L’origine des informations issues de vos lectures et utilisées dans votre devoir universitaire doit être indiquée précisément.
+
+### Pourquoi citer c'est important (quelques rappels) ?
+
+![](assets\Citer\Marteau.png)**Premièrement** : le plagiat est un délit ([Article L 335-3 du code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020740345/)), ce qui signifie qu’il est sanctionné de plusieurs manières :
+
+- **Pédagogique** : avec annulation de la note, un 0, etc. ;
+- **Disciplinaire** : annulation du partiel, exclusion de tout établissement de l’enseignement supérieur pour une durée qui peut aller jusqu’à 5 ans avec interdiction de passer des examens ou des concours ;
+- **Pénal** (si vous y allez fort) : dommages et intérêts, 150 000€ d’amende et jusqu’à deux ans de prison.
+
+---
+
+**Deuxièmement** : il y a de grandes chances pour que ce que vous allez produire soit relu, ne serait-ce que pour la correction. On doit donc pouvoir, si on le souhaite, accéder aux références qui ont été utilisées dans votre travail, et on doit pouvoir les distinguer de ce qui relève de votre réflexion personnelle pour pouvoir vous évaluer de manière plus juste.
+
+---
+
+**Troisièmement** : le plagiat c’est **GRAVE**<!-- style="color: red" --> surtout à l’université.
+
+On peut dire que l’enseignement supérieur tient debout grâce à un principe simple : **savoir qui a fait quoi**.
+
+Identifier l’auteur d’un travail, pouvoir vérifier ses sources et le rendre responsable de ce qu’il produit — hier comme demain — c’est ce qui garantit la **confiance**, la **crédibilité** et la **valeur** de tout le système académique.
+
+Vous êtes à l’université, vous devenez **membres** de cette communauté intellectuelle et institutionnelle et à ce titre, vous devez agir en tant que tel en démontrant votre maîtrise de votre environnement intellectuel et institutionnel.
+
+---
+
+**Le workflow du non-plagiat :**
+
+![](assets\Citer\eviter_plagier.png)
+
+## Bien citer c'est respecter une norme
+
+Ce qu'il faut garder en tête : pour les différents types de ressources que vous allez utiliser et citer, il y a des **éléments**<!-- style="color: red" --> à mentionner dans votre travail pour que vous ne puissiez pas être accusé de plagier par négligence.
+
+Par exemple, pour la norme [ISO 690](https://fr.wikipedia.org/wiki/ISO_690) :
+
+        {{1-2}}
+```````````````````````````````````````````````````````````
+            .--->> Auteur.ices
+            |
+            .--->> Titre (et sous-titre le cas échéant)
+            |
+            .--->> Lieu de publication
++------.    |
+| Livre )---*
++------'    |
+            .--->> Editeur  
+            |
+            .--->> Année d'édition
+            |
+            .--->> Nombre de pages
+```````````````````````````````````````````````````````````
+
+        {{2-3}}
+```````````````````````````````````````````````````````````
+               .--->> Auteur.ices
+               |
+               .--->> Titre (et sous-titre le cas échéant)
+               |
+               .--->> Lieu de publication
++---------.    |
+| Page web )---*
++---------'    |
+               .--->> Editeur  
+               |
+               .--->> Année d'édition
+               |
+               .--->> Nombre de pages
+```````````````````````````````````````````````````````````
+
+La norme ISO 690 ne définit pas de style de citation (ou de méthode de citation ou style bibliographique) particulier, elle ne normalise pas la mise en forme. Elle ne fait que prescrire les éléments qui doivent entrer dans une citation. L'interprétation de la norme diffère entre les différentes traditions de rédactions, entre les éditeurs, entre les institutions d'enseignement supérieur, etc.
+
+
+
+## Bien citer c'est utiliser un style de citation
+
+
 
 ## Quelques conseils méthodologiques
 
@@ -852,5 +924,3 @@ Par exemple, lorsque vous recherchez *plant\** au lieu de *plantes*, vous cherch
 Lorsque vous recherchez *cultiv\** au lieu de *cultivées*, vous recherchez à la fois *cultiver*, *cultivé*, *cultivée*, *cultivées*, etc.
 
 ## HeinOnline
-
-***Base pas accessible pour le moment***<!-- style="color: red" -->
