@@ -152,7 +152,7 @@ Extension de l'exploitation des terres rares dans la transition écologique
 
 les labels en droit du patrimoine
 
-### Se connecter Lexis 360 Intelligence sans encombre
+### Se connecter à Lexis 360 Intelligence sans encombre
 Certaines plateformes imposent la création d'un compte en plus de la connexion via le CAS, Lexis 360 Intelligence en fait partie.
 
 Si vous arrivez d'un autre établissement fournissant un accès à cette plateforme, vous allez devoir recréer un compte avec votre nouvelle adresse universitaire, voici la marche à suivre :
@@ -781,6 +781,53 @@ Dalloz Actualité ne propose pas de fonctionnalités aussi avancées que Lexis V
 
 [^*]: La newsletter n'est pas obligatoire, une fois votre profil sauvegardé dans Lexis Veille, il restera tel quel et le feed se mettra à jour.
 
+## Intégrer l'IA dans votre process de recherche documentaire
+
+Si vous utilisez un service d'IA générative (IAg), ce qui est autorisé, vous devez l'utiliser pour vous assister dans des tâches précises et ponctuelle, intégrée dans une méthodologie bien ficelée.
+
+Vous pouvez demander efficacement à une IAg de :
+
+- vous aider dans votre recherche de vocabulaire
+- vous aider à définir des termes
+- vous aider à reformuler votre pensée ou une pensée existante
+- vous aider à structurer et styliser un document
+
+ **Il n'est pas recommandé**<!-- style="color: red" --> de déléguer à une IAg de :
+
+- rechercher de l'information précise et/ou scientifique
+- synthétiser des idées très différentes les unes des autres
+- imaginer de nouvelles idées
+![](assets\IA\IA_oui_non.png)
+
+### Fabriquer un prompt
+
+En fonction de l'objectif que vous vous donnez, la structure et le contenu du prompt (ou de l'instruction) vont changer.
+
+> Réfléchir et élaborer une ou plusieurs stratégies pour fournir les instructions pertinentes à une IAg c'est ce que l'on nomme du ***prompt engineering***<!-- style="color: red" -->.
+
+#### Elaborer le prompt le plus efficace possible
+
+Le principe ici c'est de trouver des moyens très rapides de vous créer un vocabulaire riche pour faire vos recherches. C'est le but de dégager un **champ sémantique**.
+![](assets\IA\Champ_semantique_illustration.png)
+
+Le prompt doit être construit de manière précise, en tenant compte des capacités de l'agent que vous interrogez, il ne s'agit pas de simplement formuler le sujet et d'attendre une réponse.
+
+| Élément de prompt | Pourquoi | Exemple d'utilisation pour générer un champ sémantique | Exemple d'utilisation pour générer une bibliographie |
+|-------------------|----------|--------------------------------------------------------|------------------------------------------------------|
+| **1. Rôle de l’agent** | Le rôle oriente le niveau d’expertise, le vocabulaire utilisé, et la posture adoptée par l’IA, garantissant des réponses adaptées au contexte universitaire. | " Tu es linguiste spécialisé en analyse terminologique dans le champ du droit du patrimoine. "| " Tu es bibliothécaire spécialisé en droit international de l’environnement. "|
+| **2. Tâche générale de l’agent** | Indiquer clairement la nature du travail attendu évite les dérives et garantit une production cohérente avec le besoin académique (analyse, synthèse, liste, bibliographie, etc.). | " Ta tâche est d’analyser un concept et de produire l’ensemble de ses notions associées. "| " Ta tâche est de rassembler et de présenter des références académiques pertinentes en style APA. " |
+| **3. Demande précise à l’agent** | Spécifier ce que l’on attend exactement améliore la précision et la pertinence du résultat, en évitant les interprétations trop larges ou hors sujet. | " Dégage les notions principales, les concepts voisins et les expressions associées liés aux *labels en droit du patrimoine*. "| "Fournis dix références scientifiques fiables en style APA portant sur *l’exploitation des terres rares*, incluant articles, ouvrages et rapports institutionnels. " |
+| **4. Format(s) souhaité(s)** | Le format structure le résultat, facilite sa réutilisation (copier-coller, intégration dans un document), et impose un cadre reproductible. | " Présente les termes dans un tableau en Markdown avec : catégorie / terme / définition courte. " | " Présente la bibliographie sous forme de liste en style APA strict, un élément par ligne. " |
+| **5. Contraintes de styles** | Ces contraintes garantissent que la réponse respecte les exigences académiques : niveau de langue, concision, neutralité, précision, absence de subjectivité. | " Style concis, exclusivement descriptif, sans exemples, sans interprétation, niveau master. " | " Style académique, respect strict des normes APA, sans commentaires, sans annotations. " |
+| **6. Ce que l’agent ne doit surtout pas faire** | Indiquer les limites évite les erreurs fréquentes : invention de sources, concepts fictifs, spéculations ou contenus hors sujet, ce qui est essentiel pour un usage universitaire fiable. | " Ne propose pas de notions fictives ou non reconnues en droit du patrimoine ; ne traduis aucun terme ; n’ajoute aucun exemple. " | " N’invente aucune référence ; ne mélange pas les styles bibliographiques ; n’ajoute aucune source non vérifiable. " |
+
+
+#### Elaborer un prompt pour générer une bibliographie (avec des références qui existent)
+
+### Rester vigilant
+
+!?[UNIGE - Hors Classe #5 -- Intelligence artificielle générative](https://youtu.be/YbuB_TU9ETE?si=RQ3qJOe_pZ-7AbQU)
+
 ## Quelques conseils méthodologiques
 
 ### Workflows en recherche documentaire juridique
@@ -804,14 +851,6 @@ Par exemple, lorsque vous recherchez *plant\** au lieu de *plantes*, vous cherch
 
 Lorsque vous recherchez *cultiv\** au lieu de *cultivées*, vous recherchez à la fois *cultiver*, *cultivé*, *cultivée*, *cultivées*, etc.
 
-## IA
-
-!?[UNIGE - Hors Classe #5 -- Intelligence artificielle générative](https://youtu.be/YbuB_TU9ETE?si=RQ3qJOe_pZ-7AbQU)
-
-## Fabriquer un prompt
-
-La bonne recette pour le prompt
-
-### HeinOnline
+## HeinOnline
 
 ***Base pas accessible pour le moment***<!-- style="color: red" -->
