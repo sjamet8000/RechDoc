@@ -826,7 +826,7 @@ Dans tout travail universitaire, il est indispensable de citer ses sources corre
 
 ### Pourquoi citer c'est important (quelques rappels) ?
 
-![](assets\Citer\Marteau.png)**Premièrement** : le plagiat est un délit ([Article L 335-3 du code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020740345/)), ce qui signifie qu’il est sanctionné de plusieurs manières :
+![Marteau jurisprudence](assets\Citer\Marteau.png)**Premièrement** : le plagiat est un délit ([Article L 335-3 du code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020740345/)), ce qui signifie qu’il est sanctionné de plusieurs manières :
 
 - **Pédagogique** : avec annulation de la note, un 0, etc. ;
 - **Disciplinaire** : annulation du partiel, exclusion de tout établissement de l’enseignement supérieur pour une durée qui peut aller jusqu’à 5 ans avec interdiction de passer des examens ou des concours ;
@@ -850,13 +850,13 @@ Vous êtes à l’université, vous devenez **membres** de cette communauté int
 
 **Le workflow du non-plagiat :**
 
-![](assets\Citer\eviter_plagier.png)
+![Les questions à se poser pour éviter de plagier](assets\Citer\eviter_plagier.png)
 
 ## Bien citer c'est respecter une norme
 
 Ce qu'il faut garder en tête : pour les différents types de ressources que vous allez utiliser et citer, il y a des **éléments**<!-- style="color: red" --> à mentionner dans votre travail pour que vous ne puissiez pas être accusé de plagier par négligence.
 
-Par exemple, pour la norme [ISO 690](https://fr.wikipedia.org/wiki/ISO_690) :
+Par exemple, pour la norme [ISO 690](https://fr.wikipedia.org/wiki/ISO_690), vous ne plagiez pas si les éléments suivants sont présents :
 
         {{1-2}}
 ```````````````````````````````````````````````````````````
@@ -865,9 +865,9 @@ Par exemple, pour la norme [ISO 690](https://fr.wikipedia.org/wiki/ISO_690) :
             .--->> Titre (et sous-titre le cas échéant)
             |
             .--->> Lieu de publication
-+------.    |
-| Livre )---*
-+------'    |
+.-----.     |
+|Livre )----*
+.-----'     |
             .--->> Editeur  
             |
             .--->> Année d'édition
@@ -877,28 +877,64 @@ Par exemple, pour la norme [ISO 690](https://fr.wikipedia.org/wiki/ISO_690) :
 
         {{2-3}}
 ```````````````````````````````````````````````````````````
-               .--->> Auteur.ices
-               |
-               .--->> Titre (et sous-titre le cas échéant)
-               |
-               .--->> Lieu de publication
-+---------.    |
-| Page web )---*
-+---------'    |
-               .--->> Editeur  
-               |
-               .--->> Année d'édition
-               |
-               .--->> Nombre de pages
+                       .--->> Auteur.ices
+                       |
+                       .--->> Titre de l'article
+                       |
+                       .--->> Titre de la revue
+.----------------.     |
+|Article de revue )----.--->> Date de publication
+.----------------'     |
+                       .--->> Volume
+                       |
+                       .--->> Numéro
+                       |
+                       .--->> Pagination (début et fin)
 ```````````````````````````````````````````````````````````
+      {{3-4}}
+```````````````````````````````````````````````````````````
+                       .--->> Nature et intitulé
+                       |
+                       .--->> Tite de la publication
+.----------------.     |
+|Texte législatif )----.--->> Numéro
+.----------------'     |
+                       .--->> Date
+                       |
+                       .--->> Numéro
+```````````````````````````````````````````````````````````
+      {{4-5}}
+`````````````````````````````````````````````````````````
+               .--->> Auteur.ices (si mentionné.es)
+               |
+               .--->> Titre de la page
+               |
+               .--->> Nom du site web
+.--------.     |
+|Page web )----*
+.--------'     |
+               .--->> Dernière date de publication/modification
+               |
+               .--->> URL
+               |
+               .--->> Date de consultation
+``````````````````````````````````````````````````````````
 
-La norme ISO 690 ne définit pas de style de citation (ou de méthode de citation ou style bibliographique) particulier, elle ne normalise pas la mise en forme. Elle ne fait que prescrire les éléments qui doivent entrer dans une citation. L'interprétation de la norme diffère entre les différentes traditions de rédactions, entre les éditeurs, entre les institutions d'enseignement supérieur, etc.
+La norme ISO 690 ne définit pas de modèle de citation (ou de méthode de citation ou style bibliographique) particulier, elle ne normalise pas la mise en forme. Elle ne fait que prescrire les éléments qui doivent entrer dans une citation. L'interprétation de la norme diffère entre les différentes traditions de rédactions, entre les éditeurs, entre les institutions d'enseignement supérieur, etc.
 
+## Bien citer c'est utiliser un modèle de citation
 
+Chaque tradition scientifique a développé ses propres usages de citation pour des raisons bien particulières et le droit ne fait pas exception, bien au contraire.
 
-## Bien citer c'est utiliser un style de citation
+La grande diversité de types de documents qui intervenant dans tous travail académique mène fatalement à une grande diversité de règles et d'usages qu'il n'est pas aisé de connaître et donc de respecter.
 
+![Logo Ref-Lex](assets\Ref_Lex\Ref_Lex_logo.png)Afin de vous permettre de vous y retrouver et de ne pas perdre de temps avec ces questions, le site [Ref-Lex](https://reflex.sne.fr/), maintenu par le **Syndicat national de l'édition** reste la référence.
 
+Le site Ref-Lex met à disposition deux outils bienvenus :
+
+1. [Le guide de rédaction](https://reflex.sne.fr/guide), consultable en ligne ou téléchargeable en version PDF et XLS. ![Page d'accueil du Guide de rédaction du SNE](assets\Ref_Lex\Ref_Lex_guide_redac.png) Le guide est précis, complet et relativement pédagogique. ![Exemple ](assets\Ref_Lex\Ref_Lex_juris.png)
+
+2. [Les tables d'abréviations](https://reflex.sne.fr/tables-dabreviations), qui vous donnerons des indications précieuses pour déchiffrer une abréviation, ou pour abréger correctement le nom d'une revue par exemple. ![Liste des différentes tables d'abréviations](assets\Ref_Lex\Ref_Lex_table_abreviation.png) Un exemple **nom complet --> nom abrégé** : ![](assets\Ref_Lex\Ref_Lex_table_abrev_rev1.png) Un exemple **nom abrégé --> nom complet** :![](assets\Ref_Lex\Ref_Lex_table_abrev2.png)
 
 ## Quelques conseils méthodologiques
 
