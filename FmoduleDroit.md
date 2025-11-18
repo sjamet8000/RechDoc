@@ -834,7 +834,7 @@ Dans tout travail universitaire, il est indispensable de citer ses sources corre
 
 ---
 
-**Deuxièmement** : il y a de grandes chances pour que ce que vous allez produire soit relu, ne serait-ce que pour la correction. On doit donc pouvoir, si on le souhaite, accéder aux références qui ont été utilisées dans votre travail, et on doit pouvoir les distinguer de ce qui relève de votre réflexion personnelle pour pouvoir vous évaluer de manière plus juste.
+**Deuxièmement** : il y a de grandes chances pour que ce que vous allez produire soit relu, ne serait-ce que pour la correction. On doit donc pouvoir, si on le souhaite, accéder aux références qui ont été utilisées dans votre travail, et on doit pouvoir les distinguer de ce qui relève de votre réflexion personnelle pour pouvoir vous évaluer de manière juste.
 
 ---
 
@@ -842,7 +842,7 @@ Dans tout travail universitaire, il est indispensable de citer ses sources corre
 
 On peut dire que l’enseignement supérieur tient debout grâce à un principe simple : **savoir qui a fait quoi**.
 
-Identifier l’auteur d’un travail, pouvoir vérifier ses sources et le rendre responsable de ce qu’il produit — hier comme demain — c’est ce qui garantit la **confiance**, la **crédibilité** et la **valeur** de tout le système académique.
+Identifier l’auteur d’un travail, pouvoir vérifier ses sources et le tenir responsable de ce qu’il produit, c’est ce qui garantit la **confiance**, la **crédibilité** et la **valeur** de tout le système académique.
 
 Vous êtes à l’université, vous devenez **membres** de cette communauté intellectuelle et institutionnelle et à ce titre, vous devez agir en tant que tel en démontrant votre maîtrise de votre environnement intellectuel et institutionnel.
 
@@ -852,7 +852,7 @@ Vous êtes à l’université, vous devenez **membres** de cette communauté int
 
 ![Les questions à se poser pour éviter de plagier](assets\Citer\eviter_plagier.png)
 
-## Bien citer c'est respecter une norme
+### Bien citer c'est respecter une norme
 
 Ce qu'il faut garder en tête : pour les différents types de ressources que vous allez utiliser et citer, il y a des **éléments**<!-- style="color: red" --> à mentionner dans votre travail pour que vous ne puissiez pas être accusé de plagier par négligence.
 
@@ -920,22 +920,53 @@ Par exemple, pour la norme [ISO 690](https://fr.wikipedia.org/wiki/ISO_690), vou
                .--->> Date de consultation
 ``````````````````````````````````````````````````````````
 
-La norme ISO 690 ne définit pas de modèle de citation (ou de méthode de citation ou style bibliographique) particulier, elle ne normalise pas la mise en forme. Elle ne fait que prescrire les éléments qui doivent entrer dans une citation. L'interprétation de la norme diffère entre les différentes traditions de rédactions, entre les éditeurs, entre les institutions d'enseignement supérieur, etc.
+{{5}}La norme ISO 690 ne définit pas de modèle de citation (ou de méthode de citation ou style bibliographique) particulier, elle ne normalise pas la mise en forme. Elle ne fait que prescrire les éléments qui doivent entrer dans une citation. L'interprétation de la norme diffère entre les différentes traditions de rédactions, entre les éditeurs, entre les institutions d'enseignement supérieur, etc.
 
-## Bien citer c'est utiliser un modèle de citation
+### Bien citer c'est utiliser un modèle de citation
 
 Chaque tradition scientifique a développé ses propres usages de citation pour des raisons bien particulières et le droit ne fait pas exception, bien au contraire.
 
-La grande diversité de types de documents qui intervenant dans tous travail académique mène fatalement à une grande diversité de règles et d'usages qu'il n'est pas aisé de connaître et donc de respecter.
+C'est ici que l'on va parler de modèle de citation ou de modèle éditorial. Ce modèle est une interprétation et une adaptation de la norme aux enjeux professionnels et académiques qui ont court dans le domaine du droit.
 
-![Logo Ref-Lex](assets\Ref_Lex\Ref_Lex_logo.png)Afin de vous permettre de vous y retrouver et de ne pas perdre de temps avec ces questions, le site [Ref-Lex](https://reflex.sne.fr/), maintenu par le **Syndicat national de l'édition** reste la référence.
+La grande diversité de types de documents qui intervenant dans tout travail académique mène fatalement à une grande diversité de règles et d'usages qu'il n'est pas aisé de connaître et donc de respecter.
+
+![Logo Ref-Lex](assets\Ref_Lex\Ref_Lex_logo.png)Afin de vous permettre de vous y retrouver et de ne pas perdre de temps avec ces questions, le site [Ref-Lex](https://reflex.sne.fr/), maintenu par le **Syndicat national de l'édition** reste la référence dans le domaine juridique (droit français, droit de l'UE et droit international).
 
 Le site Ref-Lex met à disposition deux outils bienvenus :
 
 1. [Le guide de rédaction](https://reflex.sne.fr/guide), consultable en ligne ou téléchargeable en version PDF et XLS. ![Page d'accueil du Guide de rédaction du SNE](assets\Ref_Lex\Ref_Lex_guide_redac.png) Le guide est précis, complet et relativement pédagogique. ![Exemple ](assets\Ref_Lex\Ref_Lex_juris.png)
 
-2. [Les tables d'abréviations](https://reflex.sne.fr/tables-dabreviations), qui vous donnerons des indications précieuses pour déchiffrer une abréviation, ou pour abréger correctement le nom d'une revue par exemple. ![Liste des différentes tables d'abréviations](assets\Ref_Lex\Ref_Lex_table_abreviation.png) Un exemple **nom complet --> nom abrégé** : ![](assets\Ref_Lex\Ref_Lex_table_abrev_rev1.png) Un exemple **nom abrégé --> nom complet** :![](assets\Ref_Lex\Ref_Lex_table_abrev2.png)
+2. [Les tables d'abréviations](https://reflex.sne.fr/tables-dabreviations), qui vous donneront des indications précieuses pour déchiffrer une abréviation, ou pour abréger correctement le nom d'une revue par exemple. ![Liste des différentes tables d'abréviations](assets\Ref_Lex\Ref_Lex_table_abreviation.png) Un exemple **nom complet --> nom abrégé** : ![](assets\Ref_Lex\Ref_Lex_table_abrev_rev1.png) Un exemple **nom abrégé --> nom complet** :![](assets\Ref_Lex\Ref_Lex_table_abrev2.png)
 
+### Les styles bibliographiques
+
+La notion de **style bibliographique** est intimement liée aux logiciels de gestion bibliographique tels que [Zotero](https://www.zotero.org/) (logiciel gratuit et open source pour lequel des formations existent) ou encore [Mendeley](https://www.mendeley.com/?interaction_required=true).
+
+Le styles bibliographiques vont déterminer de manière précise à quoi vont ressembler vos citations dans votre travail. Il peut exister plusieurs styles bibliographiques pour un modèle de citation (et c'est le cas pour le droit).
+
+Ici, seul votre établissement, votre Graduate School ou même votre directeur.ice de mémoire est en capacité de vous prescrire un style bibliographique précis, n'hésitez surtout pas à vous renseigner avant d'entamer la rédaction !
+
+{{1-2}}De manière générale, voilà à quoi doit ressembler une citation correcte dans un texte. On y trouve les quatre éléments suivants[^1] :
+![](assets\Citer\Style_biblio1.png)
+
+{{2-3}}Mais ne soyez pas surpris de rencontrer ce genre de style dans vos lectures, sans note de bas de page[^2]. ![](assets\Citer\Style_biblio2.png)
+
+Les styles bibliographiques les plus couramment utilisés en droit sont les suivants :
+
+|Style|Notes de bas de page|Bibliographie|
+|------|--------|-------|
+|**InVisu**|Willard Van Orman QUINE, *Logique élémentaire*, Deuxième édition corrigée., Paris : J. Vrin, 2006 (Bibliothèque des textes philosophiques), p. 36.|QUINE Willard Van Orman, *Logique élémentaire*, Deuxième édition corrigée., Paris : J. Vrin, 2006 (Bibliothèque des textes philosophiques), 226 p.|
+|**PU Paris-Nanterre**|QUINE Willard Van Orman, *Logique élémentaire*, Deuxième édition corrigée., Paris, J. Vrin, « Bibliothèque des textes philosophiques », 2006, 226 p, p. 36.|QUINE Willard Van Orman, *Logique élémentaire*, Deuxième édition corrigée., Paris, J. Vrin, « Bibliothèque des textes philosophiques », 2006, 226 p.|
+|**Sorbonne Student Law Review**|W.V.O. Quine, *Logique élémentaire*, Paris, J. Vrin, Bibliothèque des textes philosophiques, Deuxième édition corrigée., 2006, p. 36|QUINE W.V.O., *Logique élémentaire*, Paris, J. Vrin, Bibliothèque des textes philosophiques, Deuxième édition corrigée., 2006, 226 pages.|
+|**UCLouvain - Centre Charles de Visscher pour le droit international européen**|W.V.O. QUINE, *Logique élémentaire*, Paris, J. Vrin, Deuxième édition corrigée., 2006, p. 36.|Quine, W.V.O., *Logique élémentaire*, Paris, J. Vrin, Deuxième édition corrigée., 2006.|
+|**Université de Bordeaux - Ecole doctorale de droit**|QUINE Willard Van Orman, *Logique élémentaire*, J. Vrin, 2006, p. 36.|QUINE Willard Van Orman, *Logique élémentaire*, Largeault Jean et Saint-Sernin Bertrand (préf.), Deuxième édition corrigée., Paris, J. Vrin, 2006, 226 p.|
+|**Université de Liège - Droit**|W.V.O. QUINE, *Logique élémentaire*, Bibliothèque des textes philosophiques, Paris, J. Vrin, 2006, p. 36.|QUINE, W.V.O., *Logique élémentaire*, Bibliothèque des textes philosophiques, Paris, J. Vrin, 2006.|
+
+Quel que soit le style choisi pour votre rédaction, **restez cohérent et ne changez pas en cours de route !**<!-- style="color: red" -->
+
+
+[^1]: Ici avec le style **Presses Universitaires de Paris-Nanterre (note, Français)**.
+[^2]: Ici avec le style **ISO 690 (author-date, Français)**.
 ## Quelques conseils méthodologiques
 
 ### Workflows en recherche documentaire juridique
