@@ -243,11 +243,11 @@ Sur cet exemple :
 
 {{3}} J'ai demandé de chercher les mots-clés " *loup* ", " *ours* ", " *lynx* ", mais pas nécessairement les trois termes ensembles.
 
-{{4}} Enfin j'ai demandé à exclure les résultats comportant le mot-clé " *mouton* ".[^*]
+{{4}} Enfin j'ai demandé à exclure les résultats comportant le mot-clé " *mouton* "[^1].
 
 **Attention** : ne surchargez pas trop les lignes " Tous ces termes " et " Cette expression exacte " au risque de vous retrouver avec un résultat totalement silencieux.
 
-[^*]: Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
+[^1]: Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
 
 ### ScienceDirect
 
@@ -275,7 +275,7 @@ Comme d'habitude, vous pouvez accéder à ScienceDirect via [le site des BU](htt
 Pour la méthode de recherche présentée ici, rendez-vous sur l'onglet " **Journals & Books** " à partir duquel vous allez pouvoir faire remonter la liste des revues référencées dans le domaine du droit (selon ScienceDirect, ce qui est large).
 ![](assets\ScienceDirect\ScienceDirect_journalsbooks.png)
 
-![](assets\ScienceDirect\ScienceDirect_law.png)Pour sabrer dans les milliers de revues et dizaines de milliers d'ouvrages, affinez votre recherche via les *facettes*[^*]. Cela se passe en deux temps :
+![](assets\ScienceDirect\ScienceDirect_law.png)Pour sabrer dans les milliers de revues et dizaines de milliers d'ouvrages, affinez votre recherche via les *facettes*[^1]. Cela se passe en deux temps :
 
 1. Dans " **Select subject area** " sélectionnez " **Social Sciences** " (le dernier sujet de la liste)
 
@@ -288,7 +288,7 @@ Si vous souhaitez ne voir que les titres auxquels vous avez accès, **cochez tou
 Pour aller encore plus loin dans le filtrage, vous pouvez ensuite chercher dans les titres des publications proposées.
 ![](assets\ScienceDirect\ScienceDirect_forensic.png)
 
-[^*]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
+[^1]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
 
 ##### L'accès au texte intégral sur ScienceDirect
 
@@ -323,7 +323,7 @@ Sur cette dernière, deux points à repérer :
 
 ----
 
-Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemblera à ceci, et voici les informations que vous trouverez[^*] :
+Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemblera à ceci, et voici les informations que vous trouverez[^1] :
 
         {{3-4}}
 ![](assets\ScienceDirect\ScienceDirect_structure_publication.png)
@@ -337,11 +337,9 @@ Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemb
         {{6-7}}
 ![](assets\ScienceDirect\ScienceDirect_publi_droit.png)
 
-[^*]: Il s'agit d'une mise en forme que vous rencontrerez souvent dans d'autres bases.
+[^1]: Il s'agit d'une mise en forme que vous rencontrerez souvent dans d'autres bases.
 
 ### Le Social Science Research Network (SSRN)
-
-***Intégration Genially pour le SSRN ? Possibilité de RELiser (en créditant la tutrice qui a réalisé le tuto)***<!-- style="color: red" -->
 
 Le [Social Science Research Network ou SSRN](https://www.ssrn.com/index.cfm/en/) est une plateforme en ligne lancée en 1994 qui permet aux chercheurs de partager des articles de travail, des prépublications et des recherches dans des domaines variés des sciences sociales (économie, finance, droit, sciences politiques, gestion).​
 
@@ -569,7 +567,7 @@ On peut tout de même distinguer au moins deux degrés de recherche avec LeDoctr
 
 ##### La recherche simple
 
-Pour éviter toute déception, limitez-vous pour la recherche simple, à deux mots-clés maximum, sans vous embarrasser de guillemets, parenthèses ou autres opérateurs de recherche. Pour le meilleur et pour le pire[^2], LeDoctrinal s'accorde mieux avec une recherche en langage libre qu'avec la syntaxe habituellement requise dans ce genre de base.
+Pour éviter toute déception, limitez-vous pour la recherche simple, à deux mots-clés maximum, sans vous embarrasser de guillemets, parenthèses ou autres opérateurs de recherche. Pour le meilleur et pour le pire[^1], LeDoctrinal s'accorde mieux avec une recherche en langage libre qu'avec la syntaxe habituellement requise dans ce genre de base.
 
 Mettons que recherchons de la doctrine autour de **l'avis consultatif de Cour internationale de justice sur la responsabilité juridique des Etats en matière de changement climatique**.
 
@@ -581,7 +579,7 @@ Lancez la recherche telle quelle, combien de résultats trouvez-vous ?
         {{2}}
 Lancez la recherche **avis consultatif cour internationale de justice**<!-- style="color: red" -->, combien de résultats trouvez-vous en doctrine ? (*en chiffres*) -> [[82]]
 
-[^2]: Le problème avec ce fonctionnement étant qu'il reste assez obscur pour l'utilisateur puisqu'il ne peut pas contrôler très exactement la manière dont la base de données interprète ses requêtes.
+[^1]: Le problème avec ce fonctionnement étant qu'il reste assez obscur pour l'utilisateur puisqu'il ne peut pas contrôler très exactement la manière dont la base de données interprète ses requêtes.
 
 ##### La recherche experte : fonctionnement
 
@@ -608,7 +606,7 @@ Lequel ?
 
 [[ ET ? | (OU ?) ]]
 
-**2.** Vous avez le choix entre plusieurs opérateurs : ou bien le mot-clé peut-être **contenu** dans une expression plus grande, ou bien le mot-clé doit apparaitre **exactement** comme vous l'avez écrit, ou bien LeDoctrinal va rechercher **en plus** du mot-clé renseigné d'autres mots-clés **proches**[^3].
+**2.** Vous avez le choix entre plusieurs opérateurs : ou bien le mot-clé peut-être **contenu** dans une expression plus grande, ou bien le mot-clé doit apparaitre **exactement** comme vous l'avez écrit, ou bien LeDoctrinal va rechercher **en plus** du mot-clé renseigné d'autres mots-clés **proches**[^1].
 
 Une utilisation maîtrisée de ces opérateurs est utile dans une stratégie de recherche exhaustive : pour une requête comportant les mêmes mots-clés, vous n'aurez pas le même nombre de résultats sur chacun des types de sources.  
 
@@ -616,7 +614,7 @@ Une utilisation maîtrisée de ces opérateurs est utile dans une stratégie de 
 
 ![](assets\LeDoctrinal\LeDoctrinal_rech_exp_2.png)
 
-[^3]: Ici, le doute subsiste quand à la nature de la proximité selon LeDoctrinal, est-ce une proximité orthographique ? Ou sémantique ? A vous de vous faire votre idée.
+[^1]: Ici, le doute subsiste quand à la nature de la proximité selon LeDoctrinal, est-ce une proximité orthographique ? Ou sémantique ? A vous de vous faire votre idée.
 
 ##### La recherche experte : exemples
 
@@ -626,28 +624,27 @@ Quelques exemples pour vous guider sur un usage efficace :
 Vous souhaitez interroger **la doctrine relative relative aux compétences et instruments juridiques de l'Union européenne en matière de gestion des forêts**.
 Il est important d'essayer de traduire cet objectif de recherche en une requête que la base est en capacité de comprendre.
 -->
-**Traduction possible**[^4] : vous demandez à LeDoctrinal de vous faire remonter toutes les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants).
+**Traduction possible**[^1] : vous demandez à LeDoctrinal de vous faire remonter toutes les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants).
 ![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3.png)
 Notez que pour Le Doctrinal, les deux possibilités ci-dessus sont strictement équivalentes.
 
         {{2-3}}
-Vous auriez maintenant besoin d'élargir la recherche précédente au **droit international**. --> **Traduction possible**[^5] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants) OU à la fois le mot-clé *droit international* et *forêt* (ou des termes approchants).
+Vous auriez maintenant besoin d'élargir la recherche précédente au **droit international**. --> **Traduction possible**[^2] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants) OU à la fois le mot-clé *droit international* et *forêt* (ou des termes approchants).
 ![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_2.png)
 
         {{3-4}}
-Vous auriez maintenant besoin d'associer les deux champs normatifs précédents au **milieu forestier** ou aux **zones humides** en général. --> **Traduction possible**[^6] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois les mots-clés *droit de l'union européenne* et *droit international*, tous deux nécessairement associés aux mots-clés *forêt* ou au mot-clé *zones humides*.
+Vous auriez maintenant besoin d'associer les deux champs normatifs précédents au **milieu forestier** ou aux **zones humides** en général. --> **Traduction possible**[^3] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois les mots-clés *droit de l'union européenne* et *droit international*, tous deux nécessairement associés aux mots-clés *forêt* ou au mot-clé *zones humides*.
 ![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_3.png)
-![](assets\LeDoctrinal\LeDoctrinal_rech_exp_4.png)
 
-[^4]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET forêt\***
+[^1]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET forêt\***
 
-[^5]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **(" droit de l'union européenne " OU " droit international ") ET forêt\***
+[^2]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **(" droit de l'union européenne " OU " droit international ") ET forêt\***
 
-[^6]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET " droit international " ET (forêt\* OU " zones humides ")**
+[^3]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET " droit international " ET (forêt\* OU " zones humides ")**
 
 ##### Les notices et leurs métadonnées
 
-Quand on utilise une base telle que LeDoctrinal, il est crucial de savoir à quel type d'information elle donne accès. Le coeur d'une base de données bibliographiques comme celle-ci, ce sont les **notices bibliographiques** qui contiennent les **métadonnées** qui *décrivent* un document.
+Quand on interroge une base telle que LeDoctrinal, il est crucial de savoir à quel type d'information elle donne accès. Le coeur d'une base de données bibliographiques comme celle-ci, ce sont les **notices bibliographiques** qui contiennent les **métadonnées** qui *décrivent* un document.
 
 Ces notices bibliographiques ont l'avantage d'être normées, de rassembler toutes les informations publiques nécessaires pour retrouver un document (physique ou numérique) et de donner quelques informations qualitatives sur le document en lui-même, sans pour autant vous donner accès au document.
 
@@ -753,7 +750,7 @@ L'université met à votre disposition le service de veille fourni par LexisNexi
 
 Attention, tout comme [Lexis 360 Intelligence](https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/home), vous aurez besoin de votre compte LexisNexis pour accéder à toutes les fonctionnalités du service, reportez-vous à [cette section](#9) pour plus d'informations.
 
-![](assets\Lexis_Veille\Lexis_veille_profil.png) Lors de votre première connexion à Lexis Veille, rendez-vous directement dans **Mon profil** pour personnaliser votre veille, l'envoi ou non d'une newsletter sur votre mail ainsi que sa fréquence[^*].
+![](assets\Lexis_Veille\Lexis_veille_profil.png) Lors de votre première connexion à Lexis Veille, rendez-vous directement dans **Mon profil** pour personnaliser votre veille, l'envoi ou non d'une newsletter sur votre mail ainsi que sa fréquence[^1].
 
 Vous aurez la possibilité de sélectionner parmis de très nombreuses matières celles qui vous semblent les plus pertinentes.
 
@@ -779,7 +776,7 @@ Dalloz Actualité ne propose pas de fonctionnalités aussi avancées que Lexis V
 
 ![](assets\Dalloz_actu\Dalloz_actu.png)
 
-[^*]: La newsletter n'est pas obligatoire, une fois votre profil sauvegardé dans Lexis Veille, il restera tel quel et le feed se mettra à jour.
+[^1]: La newsletter n'est pas obligatoire, une fois votre profil sauvegardé dans Lexis Veille, il restera tel quel et le feed se mettra à jour.
 
 ## Intégrer l'IA dans votre process de recherche documentaire
 
@@ -951,22 +948,23 @@ Ici, seul votre établissement, votre Graduate School ou même votre directeur.i
 
 {{2-3}}Mais ne soyez pas surpris de rencontrer ce genre de style dans vos lectures, sans note de bas de page[^2]. ![](assets\Citer\Style_biblio2.png)
 
-Les styles bibliographiques les plus couramment utilisés en droit sont les suivants :
+Les styles bibliographiques les plus couramment utilisés en droit sont les suivants[^3], vous les trouverez tous dans la [bibliothèque de style de Zotero](https://www.zotero.org/styles) :
 
 |Style|Notes de bas de page|Bibliographie|
 |------|--------|-------|
-|**InVisu**|Willard Van Orman QUINE, *Logique élémentaire*, Deuxième édition corrigée., Paris : J. Vrin, 2006 (Bibliothèque des textes philosophiques), p. 36.|QUINE Willard Van Orman, *Logique élémentaire*, Deuxième édition corrigée., Paris : J. Vrin, 2006 (Bibliothèque des textes philosophiques), 226 p.|
+|[**InVisu**](https://invisu.cnrs.fr/ressources/ressources-dossier-zotero/)|Willard Van Orman QUINE, *Logique élémentaire*, Deuxième édition corrigée., Paris : J. Vrin, 2006 (Bibliothèque des textes philosophiques), p. 36.|QUINE Willard Van Orman, *Logique élémentaire*, Deuxième édition corrigée., Paris : J. Vrin, 2006 (Bibliothèque des textes philosophiques), 226 p.|
 |**PU Paris-Nanterre**|QUINE Willard Van Orman, *Logique élémentaire*, Deuxième édition corrigée., Paris, J. Vrin, « Bibliothèque des textes philosophiques », 2006, 226 p, p. 36.|QUINE Willard Van Orman, *Logique élémentaire*, Deuxième édition corrigée., Paris, J. Vrin, « Bibliothèque des textes philosophiques », 2006, 226 p.|
 |**Sorbonne Student Law Review**|W.V.O. Quine, *Logique élémentaire*, Paris, J. Vrin, Bibliothèque des textes philosophiques, Deuxième édition corrigée., 2006, p. 36|QUINE W.V.O., *Logique élémentaire*, Paris, J. Vrin, Bibliothèque des textes philosophiques, Deuxième édition corrigée., 2006, 226 pages.|
 |**UCLouvain - Centre Charles de Visscher pour le droit international européen**|W.V.O. QUINE, *Logique élémentaire*, Paris, J. Vrin, Deuxième édition corrigée., 2006, p. 36.|Quine, W.V.O., *Logique élémentaire*, Paris, J. Vrin, Deuxième édition corrigée., 2006.|
 |**Université de Bordeaux - Ecole doctorale de droit**|QUINE Willard Van Orman, *Logique élémentaire*, J. Vrin, 2006, p. 36.|QUINE Willard Van Orman, *Logique élémentaire*, Largeault Jean et Saint-Sernin Bertrand (préf.), Deuxième édition corrigée., Paris, J. Vrin, 2006, 226 p.|
 |**Université de Liège - Droit**|W.V.O. QUINE, *Logique élémentaire*, Bibliothèque des textes philosophiques, Paris, J. Vrin, 2006, p. 36.|QUINE, W.V.O., *Logique élémentaire*, Bibliothèque des textes philosophiques, Paris, J. Vrin, 2006.|
 
-Quel que soit le style choisi pour votre rédaction, **restez cohérent et ne changez pas en cours de route !**<!-- style="color: red" -->
-
+> Quel que soit le style choisi pour votre rédaction, **restez cohérent et ne changez pas en cours de route !**<!-- style="color: red" -->
 
 [^1]: Ici avec le style **Presses Universitaires de Paris-Nanterre (note, Français)**.
 [^2]: Ici avec le style **ISO 690 (author-date, Français)**.
+[^3]: Cf. Toussaint Sylviane et Wang Ophélie, Bibliographie : citer une référence juridique, https://www.jurisguide.fr/fiches-pedagogiques/bibliographie-citer-une-reference-juridique , 17 novembre 2025,  consulté le 18 novembre 2025.
+
 ## Quelques conseils méthodologiques
 
 ### Workflows en recherche documentaire juridique
