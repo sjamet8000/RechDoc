@@ -9,6 +9,8 @@ version:  0.0.1
 
 repository: github.com/sjamet8000/RechDoc
 
+logo:     
+
 language: fr
 
 comment:  Ce cours est à destination des étudiants de master de droit
