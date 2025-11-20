@@ -30,10 +30,6 @@ Etudiant.es à l'Université Paris-Saclay, vous avez accès à de très nombreus
 
 *Si vous vous repérez déjà sans difficulté dans les méandres de l'environnement numériques de l'Université, vous pouvez vous rendre directement [à cette page](#8) pour commencer la formation proprement dite.*
 
-````````````````````````````````````````````````
-
-````````````````````````````````````````````````
-
 ### Atteindre les ressources en lignes sans encombre
 
 Informations primordiales
@@ -1038,6 +1034,7 @@ Les styles bibliographiques les plus couramment utilisés en droit sont les suiv
 [^2]: Ici avec le style **ISO 690 (author-date, Français)**.
 [^3]: Cf. Toussaint Sylviane et Wang Ophélie, Bibliographie : citer une référence juridique, https://www.jurisguide.fr/fiches-pedagogiques/bibliographie-citer-une-reference-juridique , 17 novembre 2025,  consulté le 18 novembre 2025.
 
+<!--
 ## Quelques conseils méthodologiques
 
 ### Workflows en recherche documentaire juridique
@@ -1060,5 +1057,3 @@ Si vous cherchez *"plantes cultivées"*, vous cherchez en fait :
 Par exemple, lorsque vous recherchez *plant\** au lieu de *plantes*, vous cherchez à la fois *plantes*, *planter*, *planté*, etc.
 
 Lorsque vous recherchez *cultiv\** au lieu de *cultivées*, vous recherchez à la fois *cultiver*, *cultivé*, *cultivée*, *cultivées*, etc.
-
-## HeinOnline
