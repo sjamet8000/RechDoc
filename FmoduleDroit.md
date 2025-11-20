@@ -9,8 +9,6 @@ version:  0.0.1
 
 repository: github.com/sjamet8000/RechDoc
 
-logo:     
-
 language: fr
 
 comment:  Ce cours est à destination des étudiants de master de droit
@@ -149,7 +147,6 @@ Brise-glace sur quelle ressources est quoi ? Archive ouverte ou accès non libre
   allowfullscreen
 ></iframe>
 
-
 Extension de l'exploitation des terres rares dans la transition écologique
 
 les labels en droit du patrimoine
@@ -250,6 +247,127 @@ Sur cet exemple :
 **Attention** : ne surchargez pas trop les lignes " Tous ces termes " et " Cette expression exacte " au risque de vous retrouver avec un résultat totalement silencieux.
 
 [^1]: Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
+
+### La recherche de données bibliographiques avec LeDoctrinal
+
+***Ajouter exercices***<!-- style="color: red" -->
+
+[LeDoctrinal](https://www-doctrinal-fr.ezproxy.universite-paris-saclay.fr/) est une base de **données bibliographiques** qui propose des notices bibliographiques d’articles de revues, de la jurisprudence française et européenne, des textes officiels, ainsi que des références bibliographiques de Mélanges.
+
+![](assets\LeDoctrinal\LeDoctrinal_acc.png)
+
+Base de données bibliographiques ?
+=====
+
+Contrairement à d'autres plateformes précédemment visitées, LeDoctrinal n'offre pas d'accès au texte intégral des références recherchées. Sa force réside dans la qualité des informations qu'elle rend accessible et qui décrivent les documents référencés.
+
+LeDoctrinal est donc une base qui permet de faire des **recherches thématiques** poussées dans un certain fond (en l'occurrence, la doctrine) contrairement à une plateforme éditoriale qui offre un accès à de la documentation.
+
+La première est *par définition* un outil de recherche documentaire, tandis que la seconde tient davantage de l'entrepôt, plus ou moins bien rangé.
+
+#### Rechercher dans LeDoctrinal
+
+Ici, la **recherche exploratoire** n'a pas grand sens, vous n'allez pas pouvoir flâner dans les rayonnages vituels en espérant tomber sur quelque chose d'intéressant et de pertinent, il va falloir chercher thématiquement et donc s'armer des mots-clés les plus pertinents et les plus efficaces.
+
+On peut tout de même distinguer au moins deux degrés de recherche avec LeDoctrinal : la **recherche simple** et la recherche dite " **experte** ".
+
+##### La recherche simple
+
+Pour éviter toute déception, limitez-vous pour la recherche simple, à deux mots-clés maximum, sans vous embarrasser de guillemets, parenthèses ou autres opérateurs de recherche. Pour le meilleur et pour le pire[^1], LeDoctrinal s'accorde mieux avec une recherche en langage libre qu'avec la syntaxe habituellement requise dans ce genre de base.
+
+Mettons que recherchons de la doctrine autour de **l'avis consultatif de Cour internationale de justice sur la responsabilité juridique des Etats en matière de changement climatique**.
+
+Lancez la recherche telle quelle, combien de résultats trouvez-vous ?
+(*en chiffre*) -> [[0]]
+
+{1}{*Telle quelle, la requête est trop longue, comporte trop de mots-clés pour que LeDoctrinal puisse retrouver la moindre référence, il faut simplifier.*![](assets\LeDoctrinal\LeDoctrinal_rech_simple.png)}
+
+        {{2}}
+Lancez la recherche **avis consultatif cour internationale de justice**<!-- style="color: red" -->, combien de résultats trouvez-vous en doctrine ? (*en chiffres*) -> [[82]]
+
+[^1]: Le problème avec ce fonctionnement étant qu'il reste assez obscur pour l'utilisateur puisqu'il ne peut pas contrôler très exactement la manière dont la base de données interprète ses requêtes.
+
+##### La recherche experte : fonctionnement
+
+Assez rigide elle aussi, elle vous permet tout de même de monter en puissance sur la précision de vos requêtes, à condition de bien comprendre son fonctionnement...
+
+![](assets\LeDoctrinal\LeDoctrinal_rech_exp.png)
+
+Boutons et champs :
+===
+
+**1.** Vous avez le choix entre deux opérateurs (booléens) : ET/OU. Attention à celui que vous choisissez, cela change tout :
+
+**fromage ET dessert** n'est pas équivalent à **fromage OU dessert**, dans le premier cas vous demandez l'un ET l'autre **en même temps** ; dans le second cas vous demandez a minima l'un OU l'autre, séparément ou les deux en même temps.
+
+Maîtriser l'usage de ces opérateurs est crucial si vous souhaitez utiliser la recherche experte. L'un des deux va restreindre la quantité de résultats...
+
+Lequel ?
+
+[[ OU ? | (ET ?) ]]
+
+... L'autre va au contraire l'augmenter.
+
+Lequel ?
+
+[[ ET ? | (OU ?) ]]
+
+**2.** Vous avez le choix entre plusieurs opérateurs : ou bien le mot-clé peut-être **contenu** dans une expression plus grande, ou bien le mot-clé doit apparaitre **exactement** comme vous l'avez écrit, ou bien LeDoctrinal va rechercher **en plus** du mot-clé renseigné d'autres mots-clés **proches**[^1].
+
+Une utilisation maîtrisée de ces opérateurs est utile dans une stratégie de recherche exhaustive : pour une requête comportant les mêmes mots-clés, vous n'aurez pas le même nombre de résultats sur chacun des types de sources.  
+
+**3.** Ici, renseignez **un** mot-clé pour éviter de surcharger LeDoctrinal. Notez aussi que la base garde en mémoire les précédents mots-clés que vous avez cherché.
+
+![](assets\LeDoctrinal\LeDoctrinal_rech_exp_2.png)
+
+[^1]: Ici, le doute subsiste quand à la nature de la proximité selon LeDoctrinal, est-ce une proximité orthographique ? Ou sémantique ? A vous de vous faire votre idée.
+
+##### La recherche experte : exemples
+
+Quelques exemples pour vous guider sur un usage efficace :
+
+        {{1-2}}
+Vous souhaitez interroger **la doctrine relative relative aux compétences et instruments juridiques de l'Union européenne en matière de gestion des forêts**.
+Il est important d'essayer de traduire cet objectif de recherche en une requête que la base est en capacité de comprendre.
+-->
+**Traduction possible**[^1] : vous demandez à LeDoctrinal de vous faire remonter toutes les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants).
+![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3.png)
+Notez que pour Le Doctrinal, les deux possibilités ci-dessus sont strictement équivalentes.
+
+        {{2-3}}
+Vous auriez maintenant besoin d'élargir la recherche précédente au **droit international**. --> **Traduction possible**[^2] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants) OU à la fois le mot-clé *droit international* et *forêt* (ou des termes approchants).
+![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_2.png)
+
+        {{3-4}}
+Vous auriez maintenant besoin d'associer les deux champs normatifs précédents au **milieu forestier** ou aux **zones humides** en général. --> **Traduction possible**[^3] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois les mots-clés *droit de l'union européenne* et *droit international*, tous deux nécessairement associés aux mots-clés *forêt* ou au mot-clé *zones humides*.
+![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_3.png)
+
+[^1]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET forêt\***
+
+[^2]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **(" droit de l'union européenne " OU " droit international ") ET forêt\***
+
+[^3]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET " droit international " ET (forêt\* OU " zones humides ")**
+
+##### Les notices et leurs métadonnées
+
+Quand on interroge une base telle que LeDoctrinal, il est crucial de savoir à quel type d'information elle donne accès. Le coeur d'une base de données bibliographiques comme celle-ci, ce sont les **notices bibliographiques** qui contiennent les **métadonnées** qui *décrivent* un document.
+
+Ces notices bibliographiques ont l'avantage d'être normées, de rassembler toutes les informations publiques nécessaires pour retrouver un document (physique ou numérique) et de donner quelques informations qualitatives sur le document en lui-même, sans pour autant vous donner accès au document.
+
+Avec LeDoctrinal, on peut distinguer deux types de métadonnées :
+
+1. Les métadonnées qui vont vous permettre de retrouver le texte intégral
+![](assets\LeDoctrinal\LeDoctrinal_notice_biblio_meta1.png)
+
+2. Les métadonnées qui vous donnent des informations sur le contenu du document
+![](assets\LeDoctrinal\LeDoctrinal_notice_biblio_meta2.png)
+
+Avec ces deux types d'information, vous pouvez vous faire une première idée de la pertinence d'un document, et savoir où il se trouve (dans quelle bibliothèque, ou dans quelle plateforme éditoriale).
+
+#### Exercices
+
+Recherche d'une même revue entre Mir@bel et LeDoctrinal
+- Actes Pratiques et Stratégie Patrimoniales
 
 ### ScienceDirect
 
@@ -543,127 +661,6 @@ Le sujet n'étant pas par définition un sujet propre aux réflexions juridiques
 {{4}}Vous remarquerez que vous ne pouvez pas sélectionner plusieurs *Subfields* en même temps. Cliquez sur le **+** à droite de la ligne des *Subfields* qui vient de s'ajouter pour ajouter d'autres *Subfields*. Répétez l'opération autant de fois que nécessaire. ![](assets\OpenAlex\openalex_exemple_2.png)
 
 {{5}}La zone 2 doit maintenant ressembler à cela, avec un nombre de références à évaluer largement réduit : ![](assets\OpenAlex\openalex_exemple_3.png)
-
-### La recherche de données bibliographiques avec LeDoctrinal
-
-***Ajouter exercices***<!-- style="color: red" -->
-
-[LeDoctrinal](https://www-doctrinal-fr.ezproxy.universite-paris-saclay.fr/) est une base de **données bibliographiques** qui propose des notices bibliographiques d’articles de revues, de la jurisprudence française et européenne, des textes officiels, ainsi que des références bibliographiques de Mélanges.
-
-![](assets\LeDoctrinal\LeDoctrinal_acc.png)
-
-Base de données bibliographiques ?
-=====
-
-Contrairement à d'autres plateformes précédemment visitées, LeDoctrinal n'offre pas d'accès au texte intégral des références recherchées. Sa force réside dans la qualité des informations qu'elle rend accessible et qui décrivent les documents référencés.
-
-LeDoctrinal est donc une base qui permet de faire des **recherches thématiques** poussées dans un certain fond (en l'occurrence, la doctrine) contrairement à une plateforme éditoriale qui offre un accès à de la documentation.
-
-La première est *par définition* un outil de recherche documentaire, tandis que la seconde tient davantage de l'entrepôt, plus ou moins bien rangé.
-
-#### Rechercher dans LeDoctrinal
-
-Ici, la **recherche exploratoire** n'a pas grand sens, vous n'allez pas pouvoir flâner dans les rayonnages vituels en espérant tomber sur quelque chose d'intéressant et de pertinent, il va falloir chercher thématiquement et donc s'armer des mots-clés les plus pertinents et les plus efficaces.
-
-On peut tout de même distinguer au moins deux degrés de recherche avec LeDoctrinal : la **recherche simple** et la recherche dite " **experte** ".
-
-##### La recherche simple
-
-Pour éviter toute déception, limitez-vous pour la recherche simple, à deux mots-clés maximum, sans vous embarrasser de guillemets, parenthèses ou autres opérateurs de recherche. Pour le meilleur et pour le pire[^1], LeDoctrinal s'accorde mieux avec une recherche en langage libre qu'avec la syntaxe habituellement requise dans ce genre de base.
-
-Mettons que recherchons de la doctrine autour de **l'avis consultatif de Cour internationale de justice sur la responsabilité juridique des Etats en matière de changement climatique**.
-
-Lancez la recherche telle quelle, combien de résultats trouvez-vous ?
-(*en chiffre*) -> [[0]]
-
-{1}{*Telle quelle, la requête est trop longue, comporte trop de mots-clés pour que LeDoctrinal puisse retrouver la moindre référence, il faut simplifier.*![](assets\LeDoctrinal\LeDoctrinal_rech_simple.png)}
-
-        {{2}}
-Lancez la recherche **avis consultatif cour internationale de justice**<!-- style="color: red" -->, combien de résultats trouvez-vous en doctrine ? (*en chiffres*) -> [[82]]
-
-[^1]: Le problème avec ce fonctionnement étant qu'il reste assez obscur pour l'utilisateur puisqu'il ne peut pas contrôler très exactement la manière dont la base de données interprète ses requêtes.
-
-##### La recherche experte : fonctionnement
-
-Assez rigide elle aussi, elle vous permet tout de même de monter en puissance sur la précision de vos requêtes, à condition de bien comprendre son fonctionnement...
-
-![](assets\LeDoctrinal\LeDoctrinal_rech_exp.png)
-
-Boutons et champs :
-===
-
-**1.** Vous avez le choix entre deux opérateurs (booléens) : ET/OU. Attention à celui que vous choisissez, cela change tout :
-
-**fromage ET dessert** n'est pas équivalent à **fromage OU dessert**, dans le premier cas vous demandez l'un ET l'autre **en même temps** ; dans le second cas vous demandez a minima l'un OU l'autre, séparément ou les deux en même temps.
-
-Maîtriser l'usage de ces opérateurs est crucial si vous souhaitez utiliser la recherche experte. L'un des deux va restreindre la quantité de résultats...
-
-Lequel ?
-
-[[ OU ? | (ET ?) ]]
-
-... L'autre va au contraire l'augmenter.
-
-Lequel ?
-
-[[ ET ? | (OU ?) ]]
-
-**2.** Vous avez le choix entre plusieurs opérateurs : ou bien le mot-clé peut-être **contenu** dans une expression plus grande, ou bien le mot-clé doit apparaitre **exactement** comme vous l'avez écrit, ou bien LeDoctrinal va rechercher **en plus** du mot-clé renseigné d'autres mots-clés **proches**[^1].
-
-Une utilisation maîtrisée de ces opérateurs est utile dans une stratégie de recherche exhaustive : pour une requête comportant les mêmes mots-clés, vous n'aurez pas le même nombre de résultats sur chacun des types de sources.  
-
-**3.** Ici, renseignez **un** mot-clé pour éviter de surcharger LeDoctrinal. Notez aussi que la base garde en mémoire les précédents mots-clés que vous avez cherché.
-
-![](assets\LeDoctrinal\LeDoctrinal_rech_exp_2.png)
-
-[^1]: Ici, le doute subsiste quand à la nature de la proximité selon LeDoctrinal, est-ce une proximité orthographique ? Ou sémantique ? A vous de vous faire votre idée.
-
-##### La recherche experte : exemples
-
-Quelques exemples pour vous guider sur un usage efficace :
-
-        {{1-2}}
-Vous souhaitez interroger **la doctrine relative relative aux compétences et instruments juridiques de l'Union européenne en matière de gestion des forêts**.
-Il est important d'essayer de traduire cet objectif de recherche en une requête que la base est en capacité de comprendre.
--->
-**Traduction possible**[^1] : vous demandez à LeDoctrinal de vous faire remonter toutes les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants).
-![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3.png)
-Notez que pour Le Doctrinal, les deux possibilités ci-dessus sont strictement équivalentes.
-
-        {{2-3}}
-Vous auriez maintenant besoin d'élargir la recherche précédente au **droit international**. --> **Traduction possible**[^2] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants) OU à la fois le mot-clé *droit international* et *forêt* (ou des termes approchants).
-![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_2.png)
-
-        {{3-4}}
-Vous auriez maintenant besoin d'associer les deux champs normatifs précédents au **milieu forestier** ou aux **zones humides** en général. --> **Traduction possible**[^3] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois les mots-clés *droit de l'union européenne* et *droit international*, tous deux nécessairement associés aux mots-clés *forêt* ou au mot-clé *zones humides*.
-![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_3.png)
-
-[^1]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET forêt\***
-
-[^2]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **(" droit de l'union européenne " OU " droit international ") ET forêt\***
-
-[^3]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET " droit international " ET (forêt\* OU " zones humides ")**
-
-##### Les notices et leurs métadonnées
-
-Quand on interroge une base telle que LeDoctrinal, il est crucial de savoir à quel type d'information elle donne accès. Le coeur d'une base de données bibliographiques comme celle-ci, ce sont les **notices bibliographiques** qui contiennent les **métadonnées** qui *décrivent* un document.
-
-Ces notices bibliographiques ont l'avantage d'être normées, de rassembler toutes les informations publiques nécessaires pour retrouver un document (physique ou numérique) et de donner quelques informations qualitatives sur le document en lui-même, sans pour autant vous donner accès au document.
-
-Avec LeDoctrinal, on peut distinguer deux types de métadonnées :
-
-1. Les métadonnées qui vont vous permettre de retrouver le texte intégral
-![](assets\LeDoctrinal\LeDoctrinal_notice_biblio_meta1.png)
-
-2. Les métadonnées qui vous donnent des informations sur le contenu du document
-![](assets\LeDoctrinal\LeDoctrinal_notice_biblio_meta2.png)
-
-Avec ces deux types d'information, vous pouvez vous faire une première idée de la pertinence d'un document, et savoir où il se trouve (dans quelle bibliothèque, ou dans quelle plateforme éditoriale).
-
-#### Exercices
-
-Recherche d'une même revue entre Mir@bel et LeDoctrinal
-- Actes Pratiques et Stratégie Patrimoniales
 
 ### Europresse
 
