@@ -30,6 +30,10 @@ Etudiant.es à l'Université Paris-Saclay, vous avez accès à de très nombreus
 
 *Si vous vous repérez déjà sans difficulté dans les méandres de l'environnement numériques de l'Université, vous pouvez vous rendre directement [à cette page](#8) pour commencer la formation proprement dite.*
 
+````````````````````````````````````````````````
+
+````````````````````````````````````````````````
+
 ### Atteindre les ressources en lignes sans encombre
 
 Informations primordiales
@@ -147,11 +151,33 @@ Brise-glace sur quelle ressources est quoi ? Archive ouverte ou accès non libre
   allowfullscreen
 ></iframe>
 
-Extension de l'exploitation des terres rares dans la transition écologique
+### La recherche documentaire juridique : les bonnes pratiques
 
-les labels en droit du patrimoine
+``````````````````````````````````````````````````
+__| |______________________________________________| |__
+__   ______________________________________________   __
+  | |                                              | |  
+  | |                                              | |  
+  | |                                              | |  
+  | |           _             _     _      _       | |  
+  | |          _\ \          /\ \ /_/\    /\ \     | |  
+  | |         /\__ \        /  \ \\ \ \   \ \_\    | |  
+  | |        / /_ \_\      / /\ \ \\ \ \__/ / /    | |  
+  | |       / / /\/_/     / / /\ \_\\ \__ \/_/     | |  
+  | |      / / /         / /_/_ \/_/ \/_/\__/\     | |  
+  | |     / / /         / /____/\     _/\/__\ \    | |  
+  | |    / / / ____    / /\____\/    / _/_/\ \ \   | |  
+  | |   / /_/_/ ___/\ / / /______   / / /   \ \ \  | |  
+  | |  /_______/\__\// / /_______\ / / /    /_/ /  | |  
+  | |  \_______\/    \/__________/ \/_/     \_\/   | |  
+  | |                                              | |  
+  | |                                              | |  
+__| |______________________________________________| |__
+__   ______________________________________________   __
+  | |                                              | |  
+``````````````````````````````````````````````````
 
-### Se connecter à Lexis 360 Intelligence sans encombre
+#### Se connecter à Lexis 360 Intelligence sans encombre
 Certaines plateformes imposent la création d'un compte en plus de la connexion via le CAS, Lexis 360 Intelligence en fait partie.
 
 Si vous arrivez d'un autre établissement fournissant un accès à cette plateforme, vous allez devoir recréer un compte avec votre nouvelle adresse universitaire, voici la marche à suivre :
@@ -177,7 +203,7 @@ Si vous oubliez votre nom d'utilisateur et/ou votre mot de passe[^*], suivez les
 
 [^*]: Ce qui n'arrivera pas si vous notez scrupuleusement ces infos quelque par, dans votre bibliothèque [Zotero](https://www.zotero.org/) par exemple.
 
-### Stradalex
+#### Stradalex
 
 ***panorama du contenu à faire***<!-- style="color: red" -->
 
@@ -191,7 +217,7 @@ Stradalex propose deux types de recherche :
 
 2. La recherche thématique (ou par mots-clé)
 
-#### La recherche exploratoire
+##### La recherche exploratoire
 C'est-à-dire une recherche où vous naviguez dans l'arborescence de la base.
 
 ![](assets\Stradalex\Strada_rechex.png)
@@ -207,7 +233,7 @@ Sélectionnez le type de source que vous souhaitez consulter. Strada Lex donne a
         {{2}}
 **Inconvénient** : si vous savez déjà ce que vous cherchez, si vous êtes un.e habitué.e de la C.C.L.R., que vous souhaitez simplement consulter l'Art. 22 du Règl. (UE) 2016/300, vous allez perdre du temps, passez plutôt directement à...
 
-#### La recherche thématique (ou par mots-clés)
+##### La recherche thématique (ou par mots-clés)
 En passant directement par la barre de recherche et en tapant les mots-clés souhaitez **(2)**, vous pouvez rechercher, dans l'intégralité de la base (*Toutes les sources*), ou **(1)** dans une section seulement (ici sur l'exemple : *Réglementation consolidée*).
 Quelques filtres (masqués par défaut) vous permetteront d'affiner votre recherche **(3)**.
 
@@ -224,7 +250,7 @@ Notez que :
 
 {{4}}![](assets\Stradalex\Stradalex_recherche_thematique_5.png)... et les identifiants d'actes officiels.
 
-#### La recherche avancée
+##### La recherche avancée
 
 Vous pouvez atteindre la recherche avancée en cliquant sur la roue crantée sur la droit de la barre de recherche :
 
@@ -248,9 +274,7 @@ Sur cet exemple :
 
 [^1]: Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
 
-### La recherche de données bibliographiques avec LeDoctrinal
-
-***Ajouter exercices***<!-- style="color: red" -->
+#### La recherche de données bibliographiques avec LeDoctrinal
 
 [LeDoctrinal](https://www-doctrinal-fr.ezproxy.universite-paris-saclay.fr/) est une base de **données bibliographiques** qui propose des notices bibliographiques d’articles de revues, de la jurisprudence française et européenne, des textes officiels, ainsi que des références bibliographiques de Mélanges.
 
@@ -265,13 +289,13 @@ LeDoctrinal est donc une base qui permet de faire des **recherches thématiques*
 
 La première est *par définition* un outil de recherche documentaire, tandis que la seconde tient davantage de l'entrepôt, plus ou moins bien rangé.
 
-#### Rechercher dans LeDoctrinal
+##### Rechercher dans LeDoctrinal
 
 Ici, la **recherche exploratoire** n'a pas grand sens, vous n'allez pas pouvoir flâner dans les rayonnages vituels en espérant tomber sur quelque chose d'intéressant et de pertinent, il va falloir chercher thématiquement et donc s'armer des mots-clés les plus pertinents et les plus efficaces.
 
 On peut tout de même distinguer au moins deux degrés de recherche avec LeDoctrinal : la **recherche simple** et la recherche dite " **experte** ".
 
-##### La recherche simple
+###### La recherche simple
 
 Pour éviter toute déception, limitez-vous pour la recherche simple, à deux mots-clés maximum, sans vous embarrasser de guillemets, parenthèses ou autres opérateurs de recherche. Pour le meilleur et pour le pire[^1], LeDoctrinal s'accorde mieux avec une recherche en langage libre qu'avec la syntaxe habituellement requise dans ce genre de base.
 
@@ -287,7 +311,7 @@ Lancez la recherche **avis consultatif cour internationale de justice**<!-- styl
 
 [^1]: Le problème avec ce fonctionnement étant qu'il reste assez obscur pour l'utilisateur puisqu'il ne peut pas contrôler très exactement la manière dont la base de données interprète ses requêtes.
 
-##### La recherche experte : fonctionnement
+###### La recherche experte : fonctionnement
 
 Assez rigide elle aussi, elle vous permet tout de même de monter en puissance sur la précision de vos requêtes, à condition de bien comprendre son fonctionnement...
 
@@ -322,7 +346,7 @@ Une utilisation maîtrisée de ces opérateurs est utile dans une stratégie de 
 
 [^1]: Ici, le doute subsiste quand à la nature de la proximité selon LeDoctrinal, est-ce une proximité orthographique ? Ou sémantique ? A vous de vous faire votre idée.
 
-##### La recherche experte : exemples
+###### La recherche experte : exemples
 
 Quelques exemples pour vous guider sur un usage efficace :
 
@@ -348,7 +372,7 @@ Vous auriez maintenant besoin d'associer les deux champs normatifs précédents 
 
 [^3]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET " droit international " ET (forêt\* OU " zones humides ")**
 
-##### Les notices et leurs métadonnées
+###### Les notices et leurs métadonnées
 
 Quand on interroge une base telle que LeDoctrinal, il est crucial de savoir à quel type d'information elle donne accès. Le coeur d'une base de données bibliographiques comme celle-ci, ce sont les **notices bibliographiques** qui contiennent les **métadonnées** qui *décrivent* un document.
 
@@ -364,16 +388,16 @@ Avec LeDoctrinal, on peut distinguer deux types de métadonnées :
 
 Avec ces deux types d'information, vous pouvez vous faire une première idée de la pertinence d'un document, et savoir où il se trouve (dans quelle bibliothèque, ou dans quelle plateforme éditoriale).
 
-#### Exercices
+##### Exercices
 
 Recherche d'une même revue entre Mir@bel et LeDoctrinal
 - Actes Pratiques et Stratégie Patrimoniales
 
-### ScienceDirect
+#### ScienceDirect
 
 ![](assets\ScienceDirect\ScienceDirect_logo.png)[ScienceDirect](https://www-sciencedirect-com.ezproxy.universite-paris-saclay.fr/browse/journals-and-books) est une base payante à laquelle l'université est abonnée. Elle donne accès au texte intégral d’articles de revues, chapitres d’ouvrages et collections thématiques. Sa richesse disciplinaire en fait une source majeure pour la recherche en sciences, santé, technologies et sciences sociales.
 
-#### Les revues et ouvrages juridiques dans ScienceDirect
+##### Les revues et ouvrages juridiques dans ScienceDirect
 La recherche thématique n'étant pas le fort de ScienceDirect, il vous est conseillé, dans cette introduction, d'opter pour une recherche exploratoire, d'autant que l'offre pléthorique de la plateforme de Relx (anciennement Elsevier) n'a pas la lisibilité des plateformes plus traditionnelles en littérature juridique.
 
 Néanmoins, ScienceDirect couvre des branches et des domaines juridiques que d'autres bases ne couvrent pas ou peu, comme :
@@ -410,7 +434,7 @@ Pour aller encore plus loin dans le filtrage, vous pouvez ensuite chercher dans 
 
 [^1]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
 
-##### L'accès au texte intégral sur ScienceDirect
+###### L'accès au texte intégral sur ScienceDirect
 
 Si vous avez suivi les étapes de filtrages des publications à la page précédente, seules celles auxquelles vous avez accès en totalité, ou presque, s'affichent.
 
@@ -432,7 +456,7 @@ Et pour le reste :
 
 - une mention *Abstract only* ou *No access*![](assets\ScienceDirect\ScienceDirect_pasacces.png)![](assets\ScienceDirect\ScienceDirect_pasacces2.png)
 
-##### Naviguer dans une publication
+###### Naviguer dans une publication
 
 Pour atteindre les articles d'une publication, cliquez simplement sur le nom de celle-ci pour afficher la page d'accueil. ![](assets\ScienceDirect\ScienceDirect_publication.png)
 Sur cette dernière, deux points à repérer :
@@ -459,288 +483,7 @@ Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemb
 
 [^1]: Il s'agit d'une mise en forme que vous rencontrerez souvent dans d'autres bases.
 
-### Le Social Science Research Network (SSRN)
-
-Le [Social Science Research Network ou SSRN](https://www.ssrn.com/index.cfm/en/) est une plateforme en ligne lancée en 1994 qui permet aux chercheurs de partager des articles de travail, des prépublications et des recherches dans des domaines variés des sciences sociales (économie, finance, droit, sciences politiques, gestion).​
-
-Les utilisateurs peuvent y télécharger, consulter et commenter des documents académiques avant leur publication officielle. SSRN offre également des outils pour suivre l'impact des recherches et facilite les échanges entre chercheurs.
-
-<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genially.com/resources/loader-default-rebranding.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="66016f5da358020014d353a5" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genially.com/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
-
-### HAL
-
-![](assets\HAL\Logo_HAL.png) [HAL (Hyper Articles en Ligne)](https://hal.science/) est une archive ouverte nationale développée par le CCSD (Centre pour la Communication Scientifique Directe, CNRS). Elle permet le dépôt, la diffusion et la consultation de travaux de recherche produits par des chercheurs, enseignants-chercheurs et étudiants français ou étrangers.
-
-La navigation au sein de cet immense entrepôt peut ne pas être très intuitive, voici quelques pistes pour vous aider à faire connaissance.
-
-#### Rechercher dans les ressources en droit
-
-Une manière particulièrement simple de faire vos recherches dans les fonds de ressources en droit est d'interroger par **Domaines** et **Sous-domaines**.
-
-> ![](assets\HAL\HAL_acc.png)**Attention** : La barre de recherche de HAL se situe en milieu de page et peut ne pas être visible en fonction de la résolution de votre écran.
-
-{{1}} Sous la barre de recherche, cliquez directement sur **Sciences de l'Homme et de la Société**![](assets\HAL\HAL_SHS_acc.png)
-
-{{2}} Les résultats correspondants au domaine s'affichent, mais ils sont encore bien trop nombreux. Pour les préciser encore un peu, regardez du côté de la barre de recherche qui affiche **domain_t:shs**<!-- style="color: red" --> :![](assets\HAL\HAL_domain.png)
-
-{{3}} Il vous suffit d'y ajouter **.droit**<!-- style="color: red" --> pour afficher tous les dépôts répertoriés dans ce domaine. Vous pouvez systématiquement faire débuter votre requête par **domain_t:shs.droit**<!-- style="color: red" --> suivi d'un ou plusieurs mots-clés. ![](assets\HAL\HAL_astuce_recherche.png)
-
-{{4}} **Question** : Testez la requête ci-dessus dans [HAL](https://hal.science/). Quel.le auteur.ice est particulièrement présent.e dans les résultats obtenus (*ne notez que son nom de famille, respectez la casse*) ?
-[[Fontanel]]
-***
-Il s'agit de Fontanel.
-***
-
-{{5}} **Question** : Quel est le type de document le plus présent parmi les résultats obtenus ?
-[[Article dans une revue|Thèse|(Communication dans un congrès)|Poster de conférence]]
-
-#### Rechercher dans les portails institutionnels
-
-Autre intérêt de HAL : les portails institutionnels. Ces derniers vous permettent de suivre les publications de votre université, et mieux encore de votre Graduate School. C'est l'un des moyens les plus commodes de se rendre compte de la recherche en train de se faire dans votre domaine.
-
-Pour accéder aux différents portails institutionnels vous pouvez faire une recherche dans votre moteur favori (*nom de l'université* + hal) ou passer par la page d'accueil et rechercher dans la liste des portails.
-![](assets\HAL\HAL_SHS.png)
-
-Le [**portail de l'Université Paris-Saclay**](https://universite-paris-saclay.hal.science/) vous donnera accès aux collections des différentes Graduate Schools, et particulièrement à celle de [**Droit**](https://universite-paris-saclay.hal.science/GS-DROIT), mais n'oubliez pas les collections suivantes qui peuvent vous concerner en fonction de votre sujet de recherche :
-
-- [GS Humanités Sciences du Patrimoine](https://universite-paris-saclay.hal.science/GS-HUMANITIES-HERITAGE)
-- [GS Economics & Management](https://universite-paris-saclay.hal.science/GS-ECONOMICS-MANAGEMENT)
-- [GS Sociologie et Science politique](https://universite-paris-saclay.hal.science/GS-SOCIOLOGIE)
-- [GS Informatique et Sciences du Numérique](https://universite-paris-saclay.hal.science/GS-COMPUTER-SCIENCE)
-- [GS Géosciences, Climat, Environnement, Planètes](https://universite-paris-saclay.hal.science/GS-GEOSCIENCES)
-
-Les portails des différentes Graduate Schools sont tous construits de la manière suivante :
-
-<iframe
-  src="https://sjamet8000.github.io/RechDoc/activites/GSDroit.html"
-  width="100%"
-  height="600"
-  style="border:none;"
-  allowfullscreen
-></iframe>
-
-#### Le portail HAL SHS
-
-Outre la plateforme principale, il existe un [portail HAL dédié aux sciences humaines et sociales](https://shs.hal.science/), dans lequel il vous sera plus aisé de retrouver des ressources en droit.
-
-Tapez *HAL SHS* dans votre moteur de recherche favori pour y accéder, ou rendez-vous tout en bas de la page d'accueil du site principal pour trouver les accès aux portails plus spécialisés.
-![](assets\HAL\HAL_SHS.png)
-
-À partir du portail HAL SHS, vous pourrez déjà effectuer une recherche plus précise, mais vous gagnerez à préciser encore votre exploration, en passant par l'onglet **Parcourir** puis **Par Discipline**.
-![](assets\HAL\HAL_SHS2.png)
-
-Un diagramme en anneau s'affiche, cliquez dessus pour afficher d'autres options et choisissez **Voir les sous-domaines**. Par chance, le droit reste le domaine le plus représenté en SHS dans HAL, vous ne pourrez donc pas le rater.
-
-Sur le deuxième diagramme en anneau, cliquez dans la zone du Droit puis sur **Voir les résultats de recherche**.
-![](assets\HAL\HAL_SHS3.png)
-
-#### Propositions d'exercices
-
-***Ici, deux possibilités non exclusives : intégration directe des exercices dans Liascript et/ou alimentation banque de question eCampus pour intégration directe eCampus***<!-- style="color: red" -->
-
-- Vous souhaitez faire remonter des références au sujet des labels en droit du patrimoine, en utilisant l'astuce présentée [ici](#19), quelle requête proposez-vous (*cliquez sur le check pour comparer votre réponse aux réponses possibles*) ?
-[[domain_t:shs.droit label patrimoine]]
-***
-En utilisant l'astuce de recherche, la requête la plus simple serait **domain_t:shs.droit label patrimoine**<!-- style="color: red" --> qui renvoit une quinzaine de résultats.
-
-Sans utiliser l'astuce de recherche, on obtient environ 200 résultats, sans garantie qu'ils soient tous pertinents.
-***
-
-- À partir de la requête précédente, regardez les résultats. Quel.le chercheur.se paraît ressortir le plus (*ne notez que son nom de famille, respectez la casse*) ?
-[[Tanchoux]]
-***
-C'est Philippe Tanchoux qui semble avoir le plus déposé dans HAL sur la question.
-***
-
-- Quelle est son université de rattachement (*respectez la casse*) ?
-[[Université d'Orléans]]
-
-- Combien de dépôts fait par le centre de recherche auquel il est rattaché trouve-t-on dans HAL ?
-[[0|entre 1 et 500|(entre 501 et 2500)| entre 2501 et 3500]]
-
-### Mir@bel ou comment trouver l'introuvable
-
-![](assets\Mirabel\Mirabel_logo.png) [**Mir\@bel**](https://reseau-mirabel.info/) est une plateforme collaborative qui permet de repérer et d’accéder aux revues en sciences humaines et sociales disponibles en ligne, qu’elles soient en accès ouvert, partiel ou restreint. Elle a été développée par un réseau de bibliothèques universitaires et de structures de recherche françaises.
-
-Mir@bel permet de trouver où accéder aux revues disponibles en ligne, en vous renseignant :
-
-- sur l'accès de la revue : en accès libre, sous embargo, ou réservée à un éditeur payant (comme [Dalloz](https://www.dalloz.fr/), [LexisNexis](https://www.lexisnexis.com/en-us), [Lextenso](https://www.lextenso.com/), etc.) ;
-
-- sur les plateformes de diffusion ([Lexis 360 Intelligence](https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/home), [Dalloz Etudiants](https://www-dalloz-fr.ezproxy.universite-paris-saclay.fr/etudiants), [Lamyline](https://www-lamyline-fr.ezproxy.universite-paris-saclay.fr/Content/Search.aspx?params=H4sIAAAAAAAEAMssdiwoKMovS02xNTIwMjU0MDIxNDW0VHNxDHG0rTQoj4py8zIvCi-qyPV0dPKqKverzAMArbNkrDMAAAA=WKE), etc.) ;
-
-- et parfois même sur les numéros disponibles en texte intégral.
-
-Le droit reste un des domaines parmis les mieux représentés de la base, avec un réseau de bibliothèques très investies dans la bonne tenue des données, il s'agit donc d'un outil à intégrer dans votre processus de recherche.
-
-#### Démonstration de puissance
-
-On cherche à mettre la main sur un article de la revue *Actes Pratiques et Stratégie Patrimoniale* sur les stratégie patrimoniales privées autour des fondations.
-
-Problème :
-
-{{1-2}}Vous recherchez dans le catalogue Focus, ça n'est pas concluant... ![](assets\Mirabel\Mirabel_demo_focus.png)
-
-{{2-3}}... vous testez dans Lexis 360 Intelligence sans beaucoup plus de résultat... ![](assets\Mirabel\Mirabel_demo_lexis.png)
-
-{{3-4}}... sur Dalloz, toujours rien... ![](assets\Mirabel\Mirabel_demo_dalloz.png)
-
-{{4-5}}... de guerre lasse vous tentez Google Scholar malgré votre aversion pour les GAFAM... et là, miracle !... Mais hélas non, il ne s'agit que de citations sans rapport avec le papier que vous recherchez et qui ne vous diront rien sur l'accès à la revue en elle-même, sinon qu'elle existe. ![](assets\Mirabel\Mirabel_demo_googlescholar.png)
-
-{{5}}Seule solution : rendez-vous sur Mir@bel, entrez le nom de la revue...
-![](assets\Mirabel\Mirabel_recherche.png)
-
-      {{6}}... et miracle !
-      <iframe
-        src="https://sjamet8000.github.io/RechDoc/activites/notice_revue_mirabel.html"
-        width="100%"
-        height="600"
-        style="border:none;"
-        allowfullscreen
-      ></iframe>
-
-### OpenAlex
-
-![](assets\OpenAlex\openalex_logo.png)[OpenAlex](https://openalex.org/) est un catalogue ouvert du système mondial de la recherche scientifique, développé par l’organisation à but non lucratif OurResearch[^1].
-
-La base se structure autour des travaux scientifiques (ou *works* : articles, livres, chapitres, thèses, bases de données), elle en indexe, à ce jour plus de 260 millions[^2]. Elle couvre aussi un très large éventail de revues en Open Access[^3].
-
-Il n'est pas encore possible de savoir à quel point le droit et les sciences auxiliaires du droit sont couvertes par OpenAlex, en revanche, un biais de couverture géographique est à prévoir avec une forte représentation de travaux états-uniens et anglais.
-
-[^1]: Cf. https://docs.openalex.org/
-
-[^2]: Cf. https://api.openalex.org/works?page=1&sort=cited_by_count:desc&per_page=10
-
-[^3]: Cf. https://doi.org/10.48550/arXiv.2411.03325
-
-#### Rechercher dans OpenAlex
-
-OpenAlex est une base avec une forte orientation bibliométrique, cet aspect là ne sera pas évoqué dans ce petit guide. Nous traiterons cette base comme une **base de données bibliographiques**.
-
-D'autre part, la base est pluridisciplinaire, vous ne trouverez donc pas les mêmes logiques de recherche que dans des bases spécifiquement juridiques.
-
-Mettons que vous souhaitez faire remonter le plus de références possibles sur la question de l'**extraction et de la production des terres rares**, avec un angle **juridique** et **politique**.
-
-La base étant anglophone, vos mots-clés doivent l'être aussi.
-
-Voici une requête possible :
-
-**'rare earth' (mining OR extraction OR production)**<!-- style="color: red" -->[^1]
-
-Lancez la requête dans [OpenAlex](https://openalex.org/), combien de résultats obtenez-vous (sélectionnez la réponse qui convient le mieux) ?
-
-[[Entre 1000 et 5000|Entre 5000 et 10 000|Entre 10 000 et 15 000|(Plus de 15 000)]]
-********
-OpenAlex étant une base pluridisciplinaire, qui a vocation à proposer une alternative aux monstres tels que le [Web Of Science](https://www-webofscience-com.ezproxy.universite-paris-saclay.fr/wos/woscc/basic-search) ou [Scopus](https://www-scopus-com.ezproxy.universite-paris-saclay.fr/pages/home?display=basic#basic), le nombre de résultats que vous obtenez peut être humainement indigeste. Il est crucial de jouer sur les différents filtres pour augmenter leur pertinence et ne pas vous faire perdre trop de temps.
-***********
-
-Voici la structure d'une page de résultats d'OpenAlex :
-<iframe
-  src="https://sjamet8000.github.io/RechDoc/activites/page_results_OpenAlex.html"
-  width="100%"
-  height="600"
-  style="border:none;"
-  allowfullscreen
-></iframe>
-
-
-[^1]: Requête que nous pourrions traduire par " fais remonter *tous* les résultats contenant **rare earth**<!-- style="color: red" --> et les résultats qui contiennent *au moins* l'un des trois mots-clés suivants : **mining**<!-- style="color: red" -->, **extraction**<!-- style="color: red" -->, **production**<!-- style="color: red" --> "
-
-#### Un exemple
-
-Vous avez lancé la recherche **'rare earth' (mining OR extraction OR production)**<!-- style="color: red" -->, et obtenu un peu plus de 15 000 résultats.
-Vous souhaitez naturellement afiner et ne conserver que ceux qui seront les plus pertinents.
-
-Le sujet n'étant pas par définition un sujet propre aux réflexions juridiques, vous allez devoir ruser. Voici une manière possible de procéder :
-
-{{1}}Ne vous laissez pas séduire par la zone des *Stats* (la zone 4), n'y touchez pas.
-
-{{2}}Positionnez-vous dans la zone 2. Pour le moment, une seule ligne apparaît : celle de votre requête. Nous allons l'enrichir en cliquant sur le **+**. ![](assets\OpenAlex\openalex_exemple_1.png)
-
-{{3}}Une petite liste de filtres s'affiche, mais cliquez sur **More** pour afficher la totalité. Sélectionnez *Subfields*. Vous pouvez ensuite parcourir la liste des *Sous-domaines* et sélectionner les plus pertinent. Voici ceux que nous vous proposons pour l'exemple. ![](assets\OpenAlex\openalex_subfields.png)
-
-{{4}}Vous remarquerez que vous ne pouvez pas sélectionner plusieurs *Subfields* en même temps. Cliquez sur le **+** à droite de la ligne des *Subfields* qui vient de s'ajouter pour ajouter d'autres *Subfields*. Répétez l'opération autant de fois que nécessaire. ![](assets\OpenAlex\openalex_exemple_2.png)
-
-{{5}}La zone 2 doit maintenant ressembler à cela, avec un nombre de références à évaluer largement réduit : ![](assets\OpenAlex\openalex_exemple_3.png)
-
-### Europresse
-
-La base [Europresse](https://nouveau-europresse-com.ezproxy.universite-paris-saclay.fr/Search/Reading) est un service qui regroupe et met à disposition des articles de presse du monde entier dans une base de données accessible en ligne.
-
-Il s'agit d'une base payante, il est donc nécessaire de passer par [le site web des BU](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources/ressources-24h/24) ou par le catalogue [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?institution=33UDPS&vid=33UDPS_VU1&tab=default_tab&search_scope=default_scope&mode=Basic&displayMode=full&bulkSize=50&highlight=true&dum=true&query=any,contains,europresse&displayField=all&pcAvailabilityMode=false&choix_index=tout) pour y accéder sans encombre.
-
-![](assets\Europresse\Europresse_acc.png)
-
-La plateforme comporte une grande variété de types de contenus, mais nous allons nous concentrer sur la presse, avec trois exemples d'utilisation pour apprendre à connaître la plateforme.
-
-Pour les exemples qui vont suivre, nous utiliserons la version dite **classique** d'Europresse avec quelques options intéressantes. Celle-ci n'étant pas activée par défaut cliquez, en haut à droite de la page sur **Etudiant** puis **Version classique**.
-![](assets\Europresse\Europressevclassique.png)
-
-Le passage à la **version classique** fait apparaitre de nouvelles options en plus de la recherche simple.
-![](assets\Europresse\Europressevclass_option.png)
-
-#### La recherche thématique simple
-
-La recherche thématique sur Europresse ne vous surprendra pas, elle ressemble à toutes les autres.
-
-Attention tout de même : par défaut, Europresse vous proposera des résultats piochés dans *Tout le contenu* et dans les *30 derniers jours*, pensez à modifier ce scope si nécessaire.
-
-Vous pouvez par exemple isoler les titres de la presse nationale française, ou des titres de toute l'Europe.
-
-![](assets\Europresse\Europresse_rech_simple.png)
-
-        {{1}}
-Voici, pour la recherche " Lecornu " la page de résultats qu'on obtenait le 17/10/2025 :
-<iframe
-  src="https://sjamet8000.github.io/RechDoc/activites/europresse.html"
-  width="100%"
-  height="600"
-  style="border:none;"
-  allowfullscreen
-></iframe>
-
-        {{2}}
-Cliquez sur le titre d'un article pour que le corps du texte se substitue au tableau de bord. Notez qu'à l'instar de la page des résultats, le mot-clé recherché est surligné en jaune.
-![](assets\Europresse\Europresse_article.png)
-
-#### Consulter les articles d'un titre spécifique
-
-Il est possible de restreindre sa recherche à des titres sélectionnés par vos soins. Rendez-vous dans la **Recherche express** (option présente dans la [v. classique d'Europresse](#31)) :
-![](assets\Europresse\Europresse_rech_express.png)
-
-![](assets\Europresse\Europresse_express.png) Positionnez-vous dans **Source** et cliquez sur n'importe quel titre puis tapez rapidement les premières lettres du titre que vous souhaitez interroger, vous devriez vous en rapprocher suffisamment pour le retrouver dans la liste.
-
-![Liste des titres couverts par Europresse, ici, la Gazette des commune a été sélectionnée](assets\Europresse\Europresse_gazette.png)Par exemple, en tapant " gazette " on retrouve sans difficulté *La Gazette des communes* (vous aurez peut-être à faire défiler quelques titres).
-
-Si vous souhaitez savoir comment le sujet de la dissolution de l'AN (ou du risque de dissolution) a été traité par ce titre, il ne vous reste plus qu'à remplir les champs idoines.
-
-![](assets\Europresse\Europresse_gazette2.png)
-
-Vous remarquerez que la période de pic médiatique n'est pas surprenante.
-![](assets\Europresse\Europresse_gazette3.png)
-
-#### Autre mode de consultation : l'espace Publications PDF
-
-Si vous avez conservé (ou développé) l'habitude de lire votre titre favori dans sa version physique, sachez qu'Europresse propose une expérience qui s'en rapproche avec la consultation des versions physiques en version PDF.
-
-L'espace Publications PDF se situe dans le menu racine de la plateforme.
-![](assets\Europresse\Europresse_PDF.png)
-
-Pour une raison non encore élucidée, l'espace [Publications PDF](https://nouveau-europresse-com.ezproxy.universite-paris-saclay.fr/webpages/Pdf/SearchForm.aspx) n'a pas suivi le rajeunissement de la plateforme et son fonctionnement (courant octobre 2025) n'est pas optimal.
-
-Voici, malgré tout comment vous en sortir :
-
-Sur la partie gauche de la page, vous retrouverez la liste des publications référencées par Europresse. Ici, même fonctionnement que pour la Recherche express, faites défiler les titres jusqu'à trouver celui que vous souhaitez consulter, ou taper les premières lettres de son nom.
-
-![](assets\Europresse\Europresse_PDF_rech.png) Une fois le titre sélectionné, choisissez une date et *oubliez* immédiatement l'utilisation des options **Dernière édition disponible au cours des 6 derniers mois** ainsi que la **recherche d'une date en particulier**. Les tests réalisés courant octobre 2025 n'ont pas été concluants.
-
-Sélectionnez une période en respectant la limite d'un an maximum comme indiqué dans le formulaire.
-
-![Liste des résultats pour une recherche des éditions du Monde Diplomatique entre le 01/01/2025 et le 20/10/2025](assets\Europresse\Europresse_PDF_resu.png) Les résultats s'affichent sur la partie droite de votre écran sous la forme de titres cliquables. Attention, ces derniers ouvrent un nouvelle fenêtre de votre navigateur. **Attention**, donc, aux autorisations d'ouverture de pop up !
-
-La fenêtre de consultation est assez basique, avec en son centre **(1)** la version PDF du titre que vous souhaitez consulter et dans sa partie gauche **(2)** la navigation dans les pages. À noter tout de même qu'il vous est possible de télécharger la page consultée **(3)**.
-![Visualisation PDF de la Une de l'édition du 01/10/2025 du Monde Diplomatique](assets\Europresse\Europresse_consult.png)
-
-### La veille juridique
+#### La veille juridique
 
 Lexis Veille
 ========
@@ -777,8 +520,339 @@ Dalloz Actualité ne propose pas de fonctionnalités aussi avancées que Lexis V
 
 [^1]: La newsletter n'est pas obligatoire, une fois votre profil sauvegardé dans Lexis Veille, il restera tel quel et le feed se mettra à jour.
 
+### Quelques bases en Open Access
+``````````````````````````````````````````
+.---------------------------------------------------------------------------.
+|                                                                           |
+|                                                                           |
+|   ________   ________   _______    ________                               |
+|  |\   __  \ |\   __  \ |\  ___ \  |\   ___  \                             |
+|  \ \  \|\  \\ \  \|\  \\ \   __/| \ \  \\ \  \                            |
+|   \ \  \\\  \\ \   ____\\ \  \_|/__\ \  \\ \  \                           |
+|    \ \  \\\  \\ \  \___| \ \  \_|\ \\ \  \\ \  \                          |
+|     \ \_______\\ \__\     \ \_______\\ \__\\ \__\                         |
+|   ___________________   __________________| \|________    ________        |
+|  |\   __  \ |\   ____\ |\   ____\ |\  ___ \  |\   ____\  |\   ____\       |
+|  \ \  \|\  \\ \  \___| \ \  \___| \ \   __/| \ \  \___|_ \ \  \___|_      |
+|   \ \   __  \\ \  \     \ \  \     \ \  \_|/__\ \_____  \ \ \_____  \     |
+|    \ \  \ \  \\ \  \____ \ \  \____ \ \  \_|\ \\|____|\  \ \|____|\  \    |
+|     \ \__\ \__\\ \_______\\ \_______\\ \_______\ ____\_\  \  ____\_\  \   |
+|      \|__|\|__| \|_______| \|_______| \|_______||\_________\|\_________\  |
+|                                                 \|_________|\|_________|  |
+|                                                                           |
+|                                                                           |
+'---------------------------------------------------------------------------'
+``````````````````````````````````````````
+
+#### Le Social Science Research Network (SSRN)
+
+Le [Social Science Research Network ou SSRN](https://www.ssrn.com/index.cfm/en/) est une plateforme en ligne lancée en 1994 qui permet aux chercheurs de partager des articles de travail, des prépublications et des recherches dans des domaines variés des sciences sociales (économie, finance, droit, sciences politiques, gestion).​
+
+Les utilisateurs peuvent y télécharger, consulter et commenter des documents académiques avant leur publication officielle. SSRN offre également des outils pour suivre l'impact des recherches et facilite les échanges entre chercheurs.
+
+<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genially.com/resources/loader-default-rebranding.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="66016f5da358020014d353a5" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genially.com/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
+
+#### HAL
+
+![](assets\HAL\Logo_HAL.png) [HAL (Hyper Articles en Ligne)](https://hal.science/) est une archive ouverte nationale développée par le CCSD (Centre pour la Communication Scientifique Directe, CNRS). Elle permet le dépôt, la diffusion et la consultation de travaux de recherche produits par des chercheurs, enseignants-chercheurs et étudiants français ou étrangers.
+
+La navigation au sein de cet immense entrepôt peut ne pas être très intuitive, voici quelques pistes pour vous aider à faire connaissance.
+
+##### Rechercher dans les ressources en droit
+
+Une manière particulièrement simple de faire vos recherches dans les fonds de ressources en droit est d'interroger par **Domaines** et **Sous-domaines**.
+
+> ![](assets\HAL\HAL_acc.png)**Attention** : La barre de recherche de HAL se situe en milieu de page et peut ne pas être visible en fonction de la résolution de votre écran.
+
+{{1}} Sous la barre de recherche, cliquez directement sur **Sciences de l'Homme et de la Société**![](assets\HAL\HAL_SHS_acc.png)
+
+{{2}} Les résultats correspondants au domaine s'affichent, mais ils sont encore bien trop nombreux. Pour les préciser encore un peu, regardez du côté de la barre de recherche qui affiche **domain_t:shs**<!-- style="color: red" --> :![](assets\HAL\HAL_domain.png)
+
+{{3}} Il vous suffit d'y ajouter **.droit**<!-- style="color: red" --> pour afficher tous les dépôts répertoriés dans ce domaine. Vous pouvez systématiquement faire débuter votre requête par **domain_t:shs.droit**<!-- style="color: red" --> suivi d'un ou plusieurs mots-clés. ![](assets\HAL\HAL_astuce_recherche.png)
+
+{{4}} **Question** : Testez la requête ci-dessus dans [HAL](https://hal.science/). Quel.le auteur.ice est particulièrement présent.e dans les résultats obtenus (*ne notez que son nom de famille, respectez la casse*) ?
+[[Fontanel]]
+***
+Il s'agit de Fontanel.
+***
+
+{{5}} **Question** : Quel est le type de document le plus présent parmi les résultats obtenus ?
+[[Article dans une revue|Thèse|(Communication dans un congrès)|Poster de conférence]]
+
+##### Rechercher dans les portails institutionnels
+
+Autre intérêt de HAL : les portails institutionnels. Ces derniers vous permettent de suivre les publications de votre université, et mieux encore de votre Graduate School. C'est l'un des moyens les plus commodes de se rendre compte de la recherche en train de se faire dans votre domaine.
+
+Pour accéder aux différents portails institutionnels vous pouvez faire une recherche dans votre moteur favori (*nom de l'université* + hal) ou passer par la page d'accueil et rechercher dans la liste des portails.
+![](assets\HAL\HAL_SHS.png)
+
+Le [**portail de l'Université Paris-Saclay**](https://universite-paris-saclay.hal.science/) vous donnera accès aux collections des différentes Graduate Schools, et particulièrement à celle de [**Droit**](https://universite-paris-saclay.hal.science/GS-DROIT), mais n'oubliez pas les collections suivantes qui peuvent vous concerner en fonction de votre sujet de recherche :
+
+- [GS Humanités Sciences du Patrimoine](https://universite-paris-saclay.hal.science/GS-HUMANITIES-HERITAGE)
+- [GS Economics & Management](https://universite-paris-saclay.hal.science/GS-ECONOMICS-MANAGEMENT)
+- [GS Sociologie et Science politique](https://universite-paris-saclay.hal.science/GS-SOCIOLOGIE)
+- [GS Informatique et Sciences du Numérique](https://universite-paris-saclay.hal.science/GS-COMPUTER-SCIENCE)
+- [GS Géosciences, Climat, Environnement, Planètes](https://universite-paris-saclay.hal.science/GS-GEOSCIENCES)
+
+Les portails des différentes Graduate Schools sont tous construits de la manière suivante :
+
+<iframe
+  src="https://sjamet8000.github.io/RechDoc/activites/GSDroit.html"
+  width="100%"
+  height="600"
+  style="border:none;"
+  allowfullscreen
+></iframe>
+
+##### Le portail HAL SHS
+
+Outre la plateforme principale, il existe un [portail HAL dédié aux sciences humaines et sociales](https://shs.hal.science/), dans lequel il vous sera plus aisé de retrouver des ressources en droit.
+
+Tapez *HAL SHS* dans votre moteur de recherche favori pour y accéder, ou rendez-vous tout en bas de la page d'accueil du site principal pour trouver les accès aux portails plus spécialisés.
+![](assets\HAL\HAL_SHS.png)
+
+À partir du portail HAL SHS, vous pourrez déjà effectuer une recherche plus précise, mais vous gagnerez à préciser encore votre exploration, en passant par l'onglet **Parcourir** puis **Par Discipline**.
+![](assets\HAL\HAL_SHS2.png)
+
+Un diagramme en anneau s'affiche, cliquez dessus pour afficher d'autres options et choisissez **Voir les sous-domaines**. Par chance, le droit reste le domaine le plus représenté en SHS dans HAL, vous ne pourrez donc pas le rater.
+
+Sur le deuxième diagramme en anneau, cliquez dans la zone du Droit puis sur **Voir les résultats de recherche**.
+![](assets\HAL\HAL_SHS3.png)
+
+##### Propositions d'exercices
+
+***Ici, deux possibilités non exclusives : intégration directe des exercices dans Liascript et/ou alimentation banque de question eCampus pour intégration directe eCampus***<!-- style="color: red" -->
+
+- Vous souhaitez faire remonter des références au sujet des labels en droit du patrimoine, en utilisant l'astuce présentée [ici](#19), quelle requête proposez-vous (*cliquez sur le check pour comparer votre réponse aux réponses possibles*) ?
+[[domain_t:shs.droit label patrimoine]]
+***
+En utilisant l'astuce de recherche, la requête la plus simple serait **domain_t:shs.droit label patrimoine**<!-- style="color: red" --> qui renvoit une quinzaine de résultats.
+
+Sans utiliser l'astuce de recherche, on obtient environ 200 résultats, sans garantie qu'ils soient tous pertinents.
+***
+
+- À partir de la requête précédente, regardez les résultats. Quel.le chercheur.se paraît ressortir le plus (*ne notez que son nom de famille, respectez la casse*) ?
+[[Tanchoux]]
+***
+C'est Philippe Tanchoux qui semble avoir le plus déposé dans HAL sur la question.
+***
+
+- Quelle est son université de rattachement (*respectez la casse*) ?
+[[Université d'Orléans]]
+
+- Combien de dépôts fait par le centre de recherche auquel il est rattaché trouve-t-on dans HAL ?
+[[0|entre 1 et 500|(entre 501 et 2500)| entre 2501 et 3500]]
+
+#### Mir@bel ou comment trouver l'introuvable
+
+![](assets\Mirabel\Mirabel_logo.png) [**Mir\@bel**](https://reseau-mirabel.info/) est une plateforme collaborative qui permet de repérer et d’accéder aux revues en sciences humaines et sociales disponibles en ligne, qu’elles soient en accès ouvert, partiel ou restreint. Elle a été développée par un réseau de bibliothèques universitaires et de structures de recherche françaises.
+
+Mir@bel permet de trouver où accéder aux revues disponibles en ligne, en vous renseignant :
+
+- sur l'accès de la revue : en accès libre, sous embargo, ou réservée à un éditeur payant (comme [Dalloz](https://www.dalloz.fr/), [LexisNexis](https://www.lexisnexis.com/en-us), [Lextenso](https://www.lextenso.com/), etc.) ;
+
+- sur les plateformes de diffusion ([Lexis 360 Intelligence](https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/home), [Dalloz Etudiants](https://www-dalloz-fr.ezproxy.universite-paris-saclay.fr/etudiants), [Lamyline](https://www-lamyline-fr.ezproxy.universite-paris-saclay.fr/Content/Search.aspx?params=H4sIAAAAAAAEAMssdiwoKMovS02xNTIwMjU0MDIxNDW0VHNxDHG0rTQoj4py8zIvCi-qyPV0dPKqKverzAMArbNkrDMAAAA=WKE), etc.) ;
+
+- et parfois même sur les numéros disponibles en texte intégral.
+
+Le droit reste un des domaines parmis les mieux représentés de la base, avec un réseau de bibliothèques très investies dans la bonne tenue des données, il s'agit donc d'un outil à intégrer dans votre processus de recherche.
+
+##### Démonstration de puissance
+
+On cherche à mettre la main sur un article de la revue *Actes Pratiques et Stratégie Patrimoniale* sur les stratégie patrimoniales privées autour des fondations.
+
+Problème :
+
+{{1-2}}Vous recherchez dans le catalogue Focus, ça n'est pas concluant... ![](assets\Mirabel\Mirabel_demo_focus.png)
+
+{{2-3}}... vous testez dans Lexis 360 Intelligence sans beaucoup plus de résultat... ![](assets\Mirabel\Mirabel_demo_lexis.png)
+
+{{3-4}}... sur Dalloz, toujours rien... ![](assets\Mirabel\Mirabel_demo_dalloz.png)
+
+{{4-5}}... de guerre lasse vous tentez Google Scholar malgré votre aversion pour les GAFAM... et là, miracle !... Mais hélas non, il ne s'agit que de citations sans rapport avec le papier que vous recherchez et qui ne vous diront rien sur l'accès à la revue en elle-même, sinon qu'elle existe. ![](assets\Mirabel\Mirabel_demo_googlescholar.png)
+
+{{5}}Seule solution : rendez-vous sur Mir@bel, entrez le nom de la revue...
+![](assets\Mirabel\Mirabel_recherche.png)
+
+      {{6}}... et miracle !
+      <iframe
+        src="https://sjamet8000.github.io/RechDoc/activites/notice_revue_mirabel.html"
+        width="100%"
+        height="600"
+        style="border:none;"
+        allowfullscreen
+      ></iframe>
+
+#### OpenAlex
+
+![](assets\OpenAlex\openalex_logo.png)[OpenAlex](https://openalex.org/) est un catalogue ouvert du système mondial de la recherche scientifique, développé par l’organisation à but non lucratif OurResearch[^1].
+
+La base se structure autour des travaux scientifiques (ou *works* : articles, livres, chapitres, thèses, bases de données), elle en indexe, à ce jour plus de 260 millions[^2]. Elle couvre aussi un très large éventail de revues en Open Access[^3].
+
+Il n'est pas encore possible de savoir à quel point le droit et les sciences auxiliaires du droit sont couvertes par OpenAlex, en revanche, un biais de couverture géographique est à prévoir avec une forte représentation de travaux états-uniens et anglais.
+
+[^1]: Cf. https://docs.openalex.org/
+
+[^2]: Cf. https://api.openalex.org/works?page=1&sort=cited_by_count:desc&per_page=10
+
+[^3]: Cf. https://doi.org/10.48550/arXiv.2411.03325
+
+##### Rechercher dans OpenAlex
+
+OpenAlex est une base avec une forte orientation bibliométrique, cet aspect là ne sera pas évoqué dans ce petit guide. Nous traiterons cette base comme une **base de données bibliographiques**.
+
+D'autre part, la base est pluridisciplinaire, vous ne trouverez donc pas les mêmes logiques de recherche que dans des bases spécifiquement juridiques.
+
+Mettons que vous souhaitez faire remonter le plus de références possibles sur la question de l'**extraction et de la production des terres rares**, avec un angle **juridique** et **politique**.
+
+La base étant anglophone, vos mots-clés doivent l'être aussi.
+
+Voici une requête possible :
+
+**'rare earth' (mining OR extraction OR production)**<!-- style="color: red" -->[^1]
+
+Lancez la requête dans [OpenAlex](https://openalex.org/), combien de résultats obtenez-vous (sélectionnez la réponse qui convient le mieux) ?
+
+[[Entre 1000 et 5000|Entre 5000 et 10 000|Entre 10 000 et 15 000|(Plus de 15 000)]]
+********
+OpenAlex étant une base pluridisciplinaire, qui a vocation à proposer une alternative aux monstres tels que le [Web Of Science](https://www-webofscience-com.ezproxy.universite-paris-saclay.fr/wos/woscc/basic-search) ou [Scopus](https://www-scopus-com.ezproxy.universite-paris-saclay.fr/pages/home?display=basic#basic), le nombre de résultats que vous obtenez peut être humainement indigeste. Il est crucial de jouer sur les différents filtres pour augmenter leur pertinence et ne pas vous faire perdre trop de temps.
+***********
+
+Voici la structure d'une page de résultats d'OpenAlex :
+<iframe
+  src="https://sjamet8000.github.io/RechDoc/activites/page_results_OpenAlex.html"
+  width="100%"
+  height="600"
+  style="border:none;"
+  allowfullscreen
+></iframe>
+
+[^1]: Requête que nous pourrions traduire par " fais remonter *tous* les résultats contenant **rare earth**<!-- style="color: red" --> et les résultats qui contiennent *au moins* l'un des trois mots-clés suivants : **mining**<!-- style="color: red" -->, **extraction**<!-- style="color: red" -->, **production**<!-- style="color: red" --> "
+
+##### Un exemple
+
+Vous avez lancé la recherche **'rare earth' (mining OR extraction OR production)**<!-- style="color: red" -->, et obtenu un peu plus de 15 000 résultats.
+
+![](assets\OpenAlex\domain_field_subfield.png)En effet une recherche simple fait remonter trop de résultats, il est donc nécessaire d'adopter une démarche méthodique pour vous en sortir. Cela implique de jouer sur l'organisation thématique de la base, que l'on peut résumer par cette pyramide.
+
+Vous souhaitez naturellement affiner et ne conserver que ceux qui seront les plus pertinents.
+
+> Ne vous laissez pas séduire par la zone des *Stats* (la zone 4), **n'y touchez pas**.
+
+Positionnez-vous dans la zone 2. Pour le moment, une seule ligne apparaît : celle de votre requête. Nous allons l'enrichir en cliquant sur le **+**. ![](assets\OpenAlex\openalex_exemple_1.png)
+
+Pour orienter thématiquement votre recherche dans vous perdre dans l'élaboration d'une requête complexe, procédez comme suit :
+
+![](assets\OpenAlex\openalex_wf_2.png)1. Activez le filtre **Domain** et sélectionnez le plus pertinent (dans notre cas, on veut orienter nos résultats de façon à isoler un traitement juridique de la question des terres rares, on va donc se diriger vers le domaine **Social Sciences**) ;
+
+![](assets\OpenAlex\openalex_wf_3.png)2. Activez ensuite le filtre **Field**, plus précis que **Domain** (là encore, on est conduit à choisir Social Sciences comme **field** le plus pertinent) ;
+
+![](assets\OpenAlex\openalex_wf_4.png)3. Enfin, activez le filtre **Subfield**, les termes **Law** ou **Political Science and International Relations** ou autres peuvent être tout à fait pertinents.
+
+Nous avons ainsi réduit progressivement le nombre de résultats à quelque chose d'exploitable, avec une confiance raisonnable dans la pertinence de ce qui nous est proposé.
+
+Notez qu'il est possible de filtrer directement via les **Subfield**, mais ils sont nombreux et vous risquez de vous y perdre. Dans un premier temps, je vous conseille de procéder progressivement.
+
+### Rechercher dans la presse en ligne
+
+``````````````````````````````````````````````
+
+``````````````````````````````````````````````
+
+#### Europresse
+
+La base [Europresse](https://nouveau-europresse-com.ezproxy.universite-paris-saclay.fr/Search/Reading) est un service qui regroupe et met à disposition des articles de presse du monde entier dans une base de données accessible en ligne.
+
+Il s'agit d'une base payante, il est donc nécessaire de passer par [le site web des BU](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources/ressources-24h/24) ou par le catalogue [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?institution=33UDPS&vid=33UDPS_VU1&tab=default_tab&search_scope=default_scope&mode=Basic&displayMode=full&bulkSize=50&highlight=true&dum=true&query=any,contains,europresse&displayField=all&pcAvailabilityMode=false&choix_index=tout) pour y accéder sans encombre.
+
+![](assets\Europresse\Europresse_acc.png)
+
+La plateforme comporte une grande variété de types de contenus, mais nous allons nous concentrer sur la presse, avec trois exemples d'utilisation pour apprendre à connaître la plateforme.
+
+Pour les exemples qui vont suivre, nous utiliserons la version dite **classique** d'Europresse avec quelques options intéressantes. Celle-ci n'étant pas activée par défaut cliquez, en haut à droite de la page sur **Etudiant** puis **Version classique**.
+![](assets\Europresse\Europressevclassique.png)
+
+Le passage à la **version classique** fait apparaitre de nouvelles options en plus de la recherche simple.
+![](assets\Europresse\Europressevclass_option.png)
+
+##### La recherche thématique simple
+
+La recherche thématique sur Europresse ne vous surprendra pas, elle ressemble à toutes les autres.
+
+Attention tout de même : par défaut, Europresse vous proposera des résultats piochés dans *Tout le contenu* et dans les *30 derniers jours*, pensez à modifier ce scope si nécessaire.
+
+Vous pouvez par exemple isoler les titres de la presse nationale française, ou des titres de toute l'Europe.
+
+![](assets\Europresse\Europresse_rech_simple.png)
+
+        {{1}}
+Voici, pour la recherche " Lecornu " la page de résultats qu'on obtenait le 17/10/2025 :
+<iframe
+  src="https://sjamet8000.github.io/RechDoc/activites/europresse.html"
+  width="100%"
+  height="600"
+  style="border:none;"
+  allowfullscreen
+></iframe>
+
+        {{2}}
+Cliquez sur le titre d'un article pour que le corps du texte se substitue au tableau de bord. Notez qu'à l'instar de la page des résultats, le mot-clé recherché est surligné en jaune.
+![](assets\Europresse\Europresse_article.png)
+
+##### Consulter les articles d'un titre spécifique
+
+Il est possible de restreindre sa recherche à des titres sélectionnés par vos soins. Rendez-vous dans la **Recherche express** (option présente dans la [v. classique d'Europresse](#31)) :
+![](assets\Europresse\Europresse_rech_express.png)
+
+![](assets\Europresse\Europresse_express.png) Positionnez-vous dans **Source** et cliquez sur n'importe quel titre puis tapez rapidement les premières lettres du titre que vous souhaitez interroger, vous devriez vous en rapprocher suffisamment pour le retrouver dans la liste.
+
+![Liste des titres couverts par Europresse, ici, la Gazette des commune a été sélectionnée](assets\Europresse\Europresse_gazette.png)Par exemple, en tapant " gazette " on retrouve sans difficulté *La Gazette des communes* (vous aurez peut-être à faire défiler quelques titres).
+
+Si vous souhaitez savoir comment le sujet de la dissolution de l'AN (ou du risque de dissolution) a été traité par ce titre, il ne vous reste plus qu'à remplir les champs idoines.
+
+![](assets\Europresse\Europresse_gazette2.png)
+
+Vous remarquerez que la période de pic médiatique n'est pas surprenante.
+![](assets\Europresse\Europresse_gazette3.png)
+
+##### Autre mode de consultation : l'espace Publications PDF
+
+Si vous avez conservé (ou développé) l'habitude de lire votre titre favori dans sa version physique, sachez qu'Europresse propose une expérience qui s'en rapproche avec la consultation des versions physiques en version PDF.
+
+L'espace Publications PDF se situe dans le menu racine de la plateforme.
+![](assets\Europresse\Europresse_PDF.png)
+
+Pour une raison non encore élucidée, l'espace [Publications PDF](https://nouveau-europresse-com.ezproxy.universite-paris-saclay.fr/webpages/Pdf/SearchForm.aspx) n'a pas suivi le rajeunissement de la plateforme et son fonctionnement (courant octobre 2025) n'est pas optimal.
+
+Voici, malgré tout comment vous en sortir :
+
+Sur la partie gauche de la page, vous retrouverez la liste des publications référencées par Europresse. Ici, même fonctionnement que pour la Recherche express, faites défiler les titres jusqu'à trouver celui que vous souhaitez consulter, ou taper les premières lettres de son nom.
+
+![](assets\Europresse\Europresse_PDF_rech.png) Une fois le titre sélectionné, choisissez une date et *oubliez* immédiatement l'utilisation des options **Dernière édition disponible au cours des 6 derniers mois** ainsi que la **recherche d'une date en particulier**. Les tests réalisés courant octobre 2025 n'ont pas été concluants.
+
+Sélectionnez une période en respectant la limite d'un an maximum comme indiqué dans le formulaire.
+
+![Liste des résultats pour une recherche des éditions du Monde Diplomatique entre le 01/01/2025 et le 20/10/2025](assets\Europresse\Europresse_PDF_resu.png) Les résultats s'affichent sur la partie droite de votre écran sous la forme de titres cliquables. Attention, ces derniers ouvrent un nouvelle fenêtre de votre navigateur. **Attention**, donc, aux autorisations d'ouverture de pop up !
+
+La fenêtre de consultation est assez basique, avec en son centre **(1)** la version PDF du titre que vous souhaitez consulter et dans sa partie gauche **(2)** la navigation dans les pages. À noter tout de même qu'il vous est possible de télécharger la page consultée **(3)**.
+![Visualisation PDF de la Une de l'édition du 01/10/2025 du Monde Diplomatique](assets\Europresse\Europresse_consult.png)
+
 ## Intégrer l'IA dans votre process de recherche documentaire
 
+``````````````````````````````````````````````````````````
+_______________                        |*\_/*|________
+|  ___________  |     .-.     .-.      ||_/-\_|______  |
+| |           | |    .****. .****.     | |           | |
+| |   0   0   | |    .*****.*****.     | |   0   0   | |
+| |     -     | |     .*********.      | |     -     | |
+| |   \___/   | |      .*******.       | |   \___/   | |
+| |___     ___| |       .*****.        | |___________| |
+|_____|\_/|_____|        .***.         |_______________|
+ _|__|/ \|_|_.............*.............._|________|_
+/ ********** \                          / ********** \
+/  ************  \                      /  ************  \
+--------------------                    --------------------
+``````````````````````````````````````````````````````````
 Si vous utilisez un service d'IA générative (IAg), ce qui est autorisé, vous devez l'utiliser pour vous assister dans des tâches précises et ponctuelle, intégrée dans une méthodologie bien ficelée.
 
 Vous pouvez demander efficacement à une IAg de :
