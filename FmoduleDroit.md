@@ -1129,7 +1129,7 @@ Pour un travail conséquent -- comme un mémoire --, il peut être intéressant 
 
 |Cas d'utilisation|Citation|Mention|
 |-----------------|-----------|----------|
-|Copier-coller|Citer|Mettre en annexe la conversation/mentionner l'utilisation dans un tableau récapitulatif/tenir un carnet de prompts|
+|Copier-coller|Citer|Mettre en annexe la conversation/mentionner l'utilisation dans un tableau récapitulatif[^3]/tenir un carnet de prompts|
 |Paraphraser, reformuler|Citer|Mettre en annexe la conversation/mentionner l'utilisation dans un tableau récapitulatif/tenir un carnet de prompts|
 |Synthétiser la production de plusieurs IAg|Citer|mentionner l'utilisation dans un tableau récapitulatif/tenir un carnet de prompts|
 |Générer un plan, avoir un retour sur son propre travail|pas de citation|mention dans un tableau récapitulatif/tenir un carnet de prompts|
@@ -1138,3 +1138,5 @@ Pour un travail conséquent -- comme un mémoire --, il peut être intéressant 
 [^1]: Cf. l'initiative de l'UQAC : Pictogrammes de déclaration des niveaux d’utilisation de l’intelligence artificielle générative (IAg), https://www.uqac.ca/ressourcespedago/iag/,  consulté le 21 novembre 2025.
 
 [^2]: Cf. Université de Genève Bibliothèque, Référencer le recours aux IA générative Guide pratique pour les étudiants de l’UNIGE, https://www.unige.ch/biblio/files/4517/3444/6647/referencer_IAG_v1.2_WEB.pdf , 2024,  consulté le 21 novembre 2025.
+
+[^3]: |**Outils d'IAg utilisés pour le travail**|Type d'utilisation|**Prompts utilisé ou liens vers les conversations**|
