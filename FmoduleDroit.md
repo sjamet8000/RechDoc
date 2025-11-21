@@ -907,6 +907,121 @@ Sélectionnez une période en respectant la limite d'un an maximum comme indiqu�
 La fenêtre de consultation est assez basique, avec en son centre **(1)** la version PDF du titre que vous souhaitez consulter et dans sa partie gauche **(2)** la navigation dans les pages. À noter tout de même qu'il vous est possible de télécharger la page consultée **(3)**.
 ![Visualisation PDF de la Une de l'édition du 01/10/2025 du Monde Diplomatique](assets\Europresse\Europresse_consult.png)
 
+##### Exercices
+
+``````````````````````````````````````````````````````````````
+ .--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--.
+/ .. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \
+\ \/\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ \/ /
+ \/ /`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'\/ /
+ / /\                                                                                                                                    / /\
+/ /\ \                                                                                                                                  / /\ \
+\ \/ /     ______  __  _______      _______..___________.    __       __  __    __   _______  __    __  .______       _______           \ \/ /
+ \/ /     /      |(_ )|   ____|    /       ||           |   |  |     (_ )|  |  |  | |   ____||  |  |  | |   _  \     |   ____|           \/ /
+ / /\    |  ,----' |/ |  |__      |   (----``---|  |----`   |  |      |/ |  |__|  | |  |__   |  |  |  | |  |_)  |    |  |__              / /\
+/ /\ \   |  |         |   __|      \   \        |  |        |  |         |   __   | |   __|  |  |  |  | |      /     |   __|            / /\ \
+\ \/ /   |  `----.    |  |____ .----)   |       |  |        |  `----.    |  |  |  | |  |____ |  `--'  | |  |\  \----.|  |____           \ \/ /
+ \/ /     \______|    |_______||_______/        |__|        |_______|    |__|  |__| |_______| \______/  | _| `._____||_______|           \/ /
+ / /\                                                                                                                                    / /\
+/ /\ \    _______   __    __                                                                                                            / /\ \
+\ \/ /   |       \ |  |  |  |                                                                                                           \ \/ /
+ \/ /    |  .--.  ||  |  |  |                                                                                                            \/ /
+ / /\    |  |  |  ||  |  |  |                                                                                                            / /\
+/ /\ \   |  '--'  ||  `--'  |  __  __  __                                                                                               / /\ \
+\ \/ /   |_______/  \______/  (__)(__)(__)                                                                                              \ \/ /
+ \/ /                                                                                                                                    \/ /
+ / /\      ______       __    __   __   ________                                                                                         / /\
+/ /\ \    /  __  \     |  |  |  | |  | |       /                                                                                        / /\ \
+\ \/ /   |  |  |  |    |  |  |  | |  | `---/  /                                                                                         \ \/ /
+ \/ /    |  |  |  |    |  |  |  | |  |    /  /                                                                                           \/ /
+ / /\    |  `--'  '--. |  `--'  | |  |   /  /----.                                                                                       / /\
+/ /\ \    \_____\_____\ \______/  |__|  /________|                                                                                      / /\ \
+\ \/ /                                                                                                                                  \ \/ /
+ \/ /     _______  __    __  .______        ______   .______   .______       _______      _______.     _______. _______     __   __      \/ /
+ / /\    |   ____||  |  |  | |   _  \      /  __  \  |   _  \  |   _  \     |   ____|    /       |    /       ||   ____|   |  | |  |     / /\
+/ /\ \   |  |__   |  |  |  | |  |_)  |    |  |  |  | |  |_)  | |  |_)  |    |  |__      |   (----`   |   (----`|  |__      |  | |  |    / /\ \
+\ \/ /   |   __|  |  |  |  | |      /     |  |  |  | |   ___/  |      /     |   __|      \   \        \   \    |   __|     |  | |  |    \ \/ /
+ \/ /    |  |____ |  `--'  | |  |\  \----.|  `--'  | |  |      |  |\  \----.|  |____ .----)   |   .----)   |   |  |____    |__| |__|     \/ /
+ / /\    |_______| \______/  | _| `._____| \______/  | _|      | _| `._____||_______||_______/    |_______/    |_______|   (__) (__)     / /\
+/ /\ \                                                                                                                                  / /\ \
+\ \/ /                                                                                                                                  \ \/ /
+ \/ /                                                                                                                                    \/ /
+ / /\.--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--./ /\
+/ /\ \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \/\ \
+\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `' /
+ `--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'
+
+```````````````````````````````````````````````````````````````
+**QUESTION 1**
+
+Effectuez une recherche simple sur les " lanthanides ", dans toutes les archives et dans la presse nationale française.
+
+Quelle est la date de la toute première occurrence de ce terme dans la presse nationale française ?
+
+(notez la date ainsi : jj/mm/aaaa)
+
+[[(06/09/2001)]]
+************************
+Bravo ! C'est exactement ça !
+
+Pour parvenir à la bonne réponse, il fallait tout simplement rechercher le mot-clé "lanthanides" (le piège étant qu'il fallait conserver le terme au pluriel), et sélectionner Dans toutes les archives et France - Presse nationale.
+
+Pour retrouver la toute première occurrence de ce termes, on pouvait aussi bien reclasser les résultats par Date du document - Du plus ancien et/ou regarder dans le Tableau de bord, rubrique Évolution.
+************************
+
+-----------
+
+**QUESTION 2**
+
+Consultez l'article contenant la première occurrence de "lanthanides". Quelle expression semble être presque équivalente à ce terme ?
+
+[[terres ferreuses|unobtainium|particules fines|(terres rares)]]
+***********************
+Il semble qu'une expression équivalente du terme "lanthanides" soit "terres rares".
+***********************
+
+-----------------
+
+**QUESTION 3**
+
+Quel titre de la presse nationale française a le plus publié sur le sujet des lanthanides ?
+
+[[Le Figaro|(La Tribune)|Les Echos|La Croix]]
+***********************
+Il s'agit de La Tribune, un hebdomadaire économique et financier. La réponse était visible dans le tableau de bord.
+***********************
+
+--------------
+
+**QUESTION 4**
+
+Effectuez une recherche sur le code minier dans **La Gazette des communes**.
+
+Parmi les actualités proposées ci-dessous, laquelle semble être la plus souvent abordée ?
+
+[[(La réforme du code minier)|La suspension du code minier|L'incorporation du code minier dans un nouveau code de l'environnement|L'abrogation du code minier]]
+************************
+Pour faire une recherche dans un seul titre, il est nécessaire de passer par la recherche expresse (visible dans la version classique d'Europresse), de sélectionner le contenu France (ou Sources en français), et de chercher Gazette des communes, la (ou de taper rapidement "gazette" pour la retrouver facilement).
+
+On pouvait ensuite entrer les termes *code minier* dans la première boite de dialogue avant de lancer la recherche qui nous donne une soixantaine de résultats.
+
+En parcourant ces derniers il est assez facile de remarquer la présence de la réforme du code minier, sujet récurrent entre 2011 et 2023.
+************************
+
+--------------------------
+
+**QUESTION 5**
+
+Quel est le titre de l'article page 34 paru dans le premier numéro de La Gazette des commune de l'année 2025 ?
+
+[[(Aménagement Mutualisé, réversible... le bâtiment a plusieurs vies)]]
+******************
+Question un peu piégeuse, puisqu'il fallait aller chercher l'édition PDF (édition physique) de La Gazette des communes, faire remonter tous les titres parus depuis le 1er janvier 2025, sélectionner l'édition du 6 janvier de cette même année, et enfin accéder au numéro dans son intégralité...
+
+Ouf !
+********************
+
+
 ## Intégrer l'IA dans votre process de recherche documentaire
 
 ``````````````````````````````````````````````````````````
