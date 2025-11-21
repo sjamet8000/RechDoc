@@ -664,11 +664,31 @@ Un diagramme en anneau s'affiche, cliquez dessus pour afficher d'autres options 
 Sur le deuxième diagramme en anneau, cliquez dans la zone du Droit puis sur **Voir les résultats de recherche**.
 ![](assets\HAL\HAL_SHS3.png)
 
-##### Propositions d'exercices
+##### Exercices
 
-***Ici, deux possibilités non exclusives : intégration directe des exercices dans Liascript et/ou alimentation banque de question eCampus pour intégration directe eCampus***<!-- style="color: red" -->
+``````````````````````````````````````````````
 
-- Vous souhaitez faire remonter des références au sujet des labels en droit du patrimoine, en utilisant l'astuce présentée [ici](#19), quelle requête proposez-vous (*cliquez sur le check pour comparer votre réponse aux réponses possibles*) ?
+
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\
+|                                                                                                         |
+\                                                                                                         /
+-    ________       ___  ___      ___      ________          ___  ___      ________      ___              -
+/   |\   __  \     |\  \|\  \    |\  \    |\_____  \        |\  \|\  \    |\   __  \    |\  \             \
+|   \ \  \|\  \    \ \  \\\  \   \ \  \    \|___/  /|       \ \  \\\  \   \ \  \|\  \   \ \  \            |
+\    \ \  \\\  \    \ \  \\\  \   \ \  \       /  / /        \ \   __  \   \ \   __  \   \ \  \           /
+-     \ \  \\\  \    \ \  \\\  \   \ \  \     /  /_/__        \ \  \ \  \   \ \  \ \  \   \ \  \____      -
+/      \ \_____  \    \ \_______\   \ \__\   |\________\       \ \__\ \__\   \ \__\ \__\   \ \_______\    \
+|       \|___| \__\    \|_______|    \|__|    \|_______|        \|__|\|__|    \|__|\|__|    \|_______|    |
+\             \|__|                                                                                       /
+-                                                                                                         -
+/                                                                                                         \
+|                                                                                                         |
+\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/
+``````````````````````````````````````````````
+
+**QUESTION 1**
+
+- Vous souhaitez faire remonter des références au sujet des labels en droit du patrimoine, en utilisant l'astuce présentée [ici](#30), quelle requête proposez-vous (*cliquez sur le check pour comparer votre réponse aux réponses possibles*) ?
 [[domain_t:shs.droit label patrimoine]]
 ***
 En utilisant l'astuce de recherche, la requête la plus simple serait **domain_t:shs.droit label patrimoine**<!-- style="color: red" --> qui renvoit une quinzaine de résultats.
@@ -676,14 +696,26 @@ En utilisant l'astuce de recherche, la requête la plus simple serait **domain_t
 Sans utiliser l'astuce de recherche, on obtient environ 200 résultats, sans garantie qu'ils soient tous pertinents.
 ***
 
+---
+
+**QUESTION 2**
+
 - À partir de la requête précédente, regardez les résultats. Quel.le chercheur.se paraît ressortir le plus (*ne notez que son nom de famille, respectez la casse*) ?
 [[Tanchoux]]
 ***
 C'est Philippe Tanchoux qui semble avoir le plus déposé dans HAL sur la question.
 ***
 
+---
+
+**QUESTION 3**
+
 - Quelle est son université de rattachement (*respectez la casse*) ?
 [[Université d'Orléans]]
+
+---
+
+**QUESTION 4**
 
 - Combien de dépôts fait par le centre de recherche auquel il est rattaché trouve-t-on dans HAL ?
 [[0|entre 1 et 500|(entre 501 et 2500)| entre 2501 et 3500]]
