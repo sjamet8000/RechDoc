@@ -796,7 +796,7 @@ Pour orienter thématiquement votre recherche dans vous perdre dans l'élaborati
 
 Nous avons ainsi réduit progressivement le nombre de résultats à quelque chose d'exploitable, avec une confiance raisonnable dans la pertinence de ce qui nous est proposé.
 
-Notez qu'il est possible de filtrer directement via les **Subfield**, mais ils sont nombreux et vous risquez de vous y perdre. Dans un premier temps, je vous conseille de procéder progressivement.
+Notez qu'il est possible de filtrer directement via les **Subfield**s, mais ils sont nombreux et vous risquez de vous y perdre. Dans un premier temps, je vous conseille de procéder progressivement.
 
 ### Rechercher dans la presse en ligne
 
@@ -910,7 +910,7 @@ La fenêtre de consultation est assez basique, avec en son centre **(1)** la ver
 ## Intégrer l'IA dans votre process de recherche documentaire
 
 ``````````````````````````````````````````````````````````
- _______________                        |*\_/*|________
+_______________                        |*\_/*|________
 |  ___________  |     .-.     .-.      ||_/-\_|______  |
 | |           | |    .****. .****.     | |           | |
 | |   0   0   | |    .*****.*****.     | |   0   0   | |
@@ -919,7 +919,7 @@ La fenêtre de consultation est assez basique, avec en son centre **(1)** la ver
 | |___     ___| |       .*****.        | |___________| |
 |_____|\_/|_____|        .***.         |_______________|
  _|__|/ \|_|_.............*.............._|________|_
- / ********** \                          / ********** \
+/ ********** \                          / ********** \
 /  ************  \                      /  ************  \
 --------------------                    --------------------
 ``````````````````````````````````````````````````````````
