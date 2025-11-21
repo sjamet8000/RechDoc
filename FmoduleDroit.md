@@ -419,10 +419,24 @@ Avec LeDoctrinal, on peut distinguer deux types de métadonnées :
 
 Avec ces deux types d'information, vous pouvez vous faire une première idée de la pertinence d'un document, et savoir où il se trouve (dans quelle bibliothèque, ou dans quelle plateforme éditoriale).
 
-##### Exercices
+#### Bonus : Les guillemets et la troncature
 
-Recherche d'une même revue entre Mir@bel et LeDoctrinal
-- Actes Pratiques et Stratégie Patrimoniales
+Vous avez pu remarquer qu'en modifiant très légèrement les mots-clés, on parvient à des résultats sensiblement différents.
+
+- **Les guillemets " "** : ils permettent de rechercher un groupe de mots.
+Si vous cherchez *plantes cultivées* vous cherchez en fait :
+
+**Tous les résultats contenant le mot *plantes* + tous les résultats contenant le mot *cultivées***
+
+Si vous cherchez *"plantes cultivées"*, vous cherchez en fait :
+
+**Tous les résultats contenant le mot *plantes* directement suivi du mot *cultivées***
+
+- **La troncature \*** = elle sert en quelque sorte de joker quand elle remplace une lettre.
+
+Par exemple, lorsque vous recherchez *plant\** au lieu de *plantes*, vous cherchez à la fois *plantes*, *planter*, *planté*, etc.
+
+Lorsque vous recherchez *cultiv\** au lieu de *cultivées*, vous recherchez à la fois *cultiver*, *cultivé*, *cultivée*, *cultivées*, etc.
 
 #### ScienceDirect
 
@@ -1094,26 +1108,18 @@ Les styles bibliographiques les plus couramment utilisés en droit sont les suiv
 [^2]: Ici avec le style **ISO 690 (author-date, Français)**.
 [^3]: Cf. Toussaint Sylviane et Wang Ophélie, Bibliographie : citer une référence juridique, https://www.jurisguide.fr/fiches-pedagogiques/bibliographie-citer-une-reference-juridique , 17 novembre 2025,  consulté le 18 novembre 2025.
 
-<!--
-## Quelques conseils méthodologiques
+### Déclarer et citer l'utilisation d'une IAg
 
-### Workflows en recherche documentaire juridique
+En tant qu'auteur.ice, vous êtes responsable du contenu produit par une IA générative (texte, image, vidéo, etc.), il est donc de bon ton de déclarer tout usage d'une IAg, et de citer l'outil employé.
 
-### Les guillemets et la troncature
+Plusieurs initiatives[^1] proposent des pictogrammes à insérer dans votre travail. Quoi que vous utilisiez, vous trouverez généralement ce genre de pictogramme :
 
-Vous avez pu remarquer qu'en modifiant très légèrement les mots-clés, on parvient à des résultats sensiblement différents.
+![](assets\Citer\IAg_aucune_compact_low.png) **Aucune utilisation** : pour certifier que vous n'avez pas utilisé d'IAg (pour les cas qui peuvent être suspects comme l'utilisation d'images originales)
 
-- **Les guillemets " "** : ils permettent de rechercher un groupe de mots.
-Si vous cherchez *plantes cultivées* vous cherchez en fait :
+![](assets\Citer\IAg_limitee_compact_low.png) **Assistance limitée** : vous avez utilisé une IAg pour des corrections mineures, ou pour des suggestions que vous avez ensuite retravaillées, vous avez ajouté des éléments mineurs sur une image (un titre, un commentaire...)
 
-**Tous les résultats contenant le mot *plantes* + tous les résultats contenant le mot *cultivées***
+![](assets\Citer\IAg_partagee_compact_low.png) **Assistance partagée** : vous avez en partie réutilisé du contenu textuel généré par une IAg, ou une IAg a reformulé du contenu textuel, les éléments visuels ont été principalement produits par une IAg.
 
-Si vous cherchez *"plantes cultivées"*, vous cherchez en fait :
+![](assets\Citer\IAg_majeure_compact_low.png) **Assistance majeure** : les contenus utilisés sont principalement produits par une IAg, ou sont le fruit d'un travail automatisé. Intervention humaine minimale (relecture, corrections mineures)
 
-**Tous les résultats contenant le mot *plantes* directement suivi du mot *cultivées***
-
-- **La troncature \*** = elle sert en quelque sorte de joker quand elle remplace une lettre.
-
-Par exemple, lorsque vous recherchez *plant\** au lieu de *plantes*, vous cherchez à la fois *plantes*, *planter*, *planté*, etc.
-
-Lorsque vous recherchez *cultiv\** au lieu de *cultivées*, vous recherchez à la fois *cultiver*, *cultivé*, *cultivée*, *cultivées*, etc.
+[^1]: Cf. l'initiative de l'UQAC : Pictogrammes de déclaration des niveaux d’utilisation de l’intelligence artificielle générative (IAg), https://www.uqac.ca/ressourcespedago/iag/,  consulté le 21 novembre 2025.
