@@ -830,6 +830,23 @@ Nous avons ainsi réduit progressivement le nombre de résultats à quelque chos
 
 Notez qu'il est possible de filtrer directement via les **Subfield**s, mais ils sont nombreux et vous risquez de vous y perdre. Dans un premier temps, je vous conseille de procéder progressivement.
 
+#### Exercices
+
+**QUESTION 1**
+
+Jusqu'en 2024 compris, combien de travaux de Benoît Blottin sont référencés dans Open Alex ?
+
+[[26]]
+****************
+Ici, pas de piège, si vous entrez **Benoît Blottin** dans la barre de recherche principale, OpenAlex vous remonte directement les 26 références dont il est (co-)auteur.
+
+Concernant la limitation de la période de temps, il peut être nécessaire d'ajouter le filtre Years (en cliquant sur le gros + en dessous de votre recherche) et d'entrer 2015-2024.
+****************
+
+**QUESTION 2**
+
+Benoît Blottin a aussi publié dans le domaines des sciences de la santé. Trouvez le titre de l'une des références présentes dans OpenAlex.
+
 ### Rechercher dans la presse en ligne
 
 ``````````````````````````````````````````````````````````````````````````````````````
@@ -1005,7 +1022,11 @@ Pour retrouver la toute première occurrence de ce termes, on pouvait aussi bien
 
 Consultez l'article contenant la première occurrence de "lanthanides". Quelle expression semble être presque équivalente à ce terme ?
 
-[[terres ferreuses|unobtainium|particules fines|(terres rares)]]
+<!-- data-randomize -->
+- [( )] terres ferreuses
+- [( )] unobtainium
+- [( )] particules fines
+- [(X)] terres rares
 ***********************
 Il semble qu'une expression équivalente du terme "lanthanides" soit "terres rares".
 ***********************
@@ -1016,7 +1037,11 @@ Il semble qu'une expression équivalente du terme "lanthanides" soit "terres rar
 
 Quel titre de la presse nationale française a le plus publié sur le sujet des lanthanides ?
 
-[[Le Figaro|(La Tribune)|Les Echos|La Croix]]
+<!-- data-randomize -->
+- [( )] Le Figaro
+- [(X)] La Tribune
+- [( )] Les Echos
+- [( )] La Croix
 ***********************
 Il s'agit de **La Tribune**, un hebdomadaire économique et financier. La réponse était visible dans le tableau de bord.
 ***********************
@@ -1029,7 +1054,11 @@ Effectuez une recherche sur le code minier dans **La Gazette des communes**.
 
 Parmi les actualités proposées ci-dessous, laquelle semble être la plus souvent abordée ?
 
-[[(La réforme du code minier)|La suspension du code minier|L'incorporation du code minier dans un nouveau code de l'environnement|L'abrogation du code minier]]
+<!-- data-randomize -->
+- [( )] L'abrogation du code minier
+- [(X)] La réforme du code minier
+- [( )] La suspension du code minier
+- [( )] L'incorporation du code minier dans un nouveau code de l'environnement
 ************************
 Pour faire une recherche dans un seul titre, il est nécessaire de passer par la recherche expresse (visible dans la version classique d'Europresse), de sélectionner le contenu France (ou Sources en français), et de chercher **Gazette des communes, la** (ou de taper rapidement "gazette" pour la retrouver facilement).
 
