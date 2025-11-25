@@ -18,7 +18,6 @@ Une ressource Liascript est présentée comme un diaporama interactif :
 - en **haut à droite** : une série de boutons pour :
 
   - modifier le mode de présentation
-![](assets\README\mode_pres.png)
   - modifier les couleurs de base de l'interface, la taille du texte, etc.
   - modifier la langue si une traduction est disponible
   - partager la ressource avec un QR Code

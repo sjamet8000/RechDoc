@@ -184,29 +184,9 @@ Brise-glace sur quelle ressources est quoi ? Archive ouverte ou accès non libre
 
 ### La recherche documentaire juridique : les bonnes pratiques
 
-``````````````````````````````````````````````````
-__| |______________________________________________| |__
-__   ______________________________________________   __
-  | |                                              | |  
-  | |                                              | |  
-  | |                                              | |  
-  | |           _             _     _      _       | |  
-  | |          _\ \          /\ \ /_/\    /\ \     | |  
-  | |         /\__ \        /  \ \\ \ \   \ \_\    | |  
-  | |        / /_ \_\      / /\ \ \\ \ \__/ / /    | |  
-  | |       / / /\/_/     / / /\ \_\\ \__ \/_/     | |  
-  | |      / / /         / /_/_ \/_/ \/_/\__/\     | |  
-  | |     / / /         / /____/\     _/\/__\ \    | |  
-  | |    / / / ____    / /\____\/    / _/_/\ \ \   | |  
-  | |   / /_/_/ ___/\ / / /______   / / /   \ \ \  | |  
-  | |  /_______/\__\// / /_______\ / / /    /_/ /  | |  
-  | |  \_______\/    \/__________/ \/_/     \_\/   | |  
-  | |                                              | |  
-  | |                                              | |  
-__| |______________________________________________| |__
-__   ______________________________________________   __
-  | |                                              | |  
-``````````````````````````````````````````````````
+![Page d'accueil des ressources électroniques en droit](assets\Acces_RE\RE_Droit.png)
+
+Pour un accès direct à la page d'accueil des ressources en droit : [**cliquez ici**](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-droit).
 
 #### Se connecter à Lexis 360 Intelligence sans encombre
 Certaines plateformes imposent la création d'un compte en plus de la connexion via le CAS, Lexis 360 Intelligence en fait partie.
@@ -214,7 +194,7 @@ Certaines plateformes imposent la création d'un compte en plus de la connexion 
 Si vous arrivez d'un autre établissement fournissant un accès à cette plateforme, vous allez devoir recréer un compte avec votre nouvelle adresse universitaire, voici la marche à suivre :
 
         {{1}}
-Accédez à la [page de connexion de Lexis](https://signin-lexisnexis-com.ezproxy.universite-paris-saclay.fr/lnaccess/app/signin?back=https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/legan-callback&aci=lint) depuis le [site des BU](https://www.bibliotheques.universite-paris-saclay.fr/) ou depuis le [catalogue Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?vid=33UDPS_VU1&lang=fr_FR)
+Accédez à la [page de connexion de Lexis](https://signin-lexisnexis-com.ezproxy.universite-paris-saclay.fr/lnaccess/app/signin?back=https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/legan-callback&aci=lint) depuis le [site des BU](https://www.bibliotheques.universite-paris-saclay.fr/).
 
 {{2}}![](assets\LexisNexis\Lexisnexis_nouveaucompte.png)Sous **Première visite ?** Cliquez sur **Créer votre compte**.
 
@@ -234,15 +214,12 @@ Si vous oubliez votre nom d'utilisateur et/ou votre mot de passe[^*], suivez les
 
 [^*]: Ce qui n'arrivera pas si vous notez scrupuleusement ces infos quelque par, dans votre bibliothèque [Zotero](https://www.zotero.org/) par exemple.
 
-#### Stradalex
+#### Strada Lex Europe
+[Strada Lex Europe](https://www-stradalex-eu.ezproxy.universite-paris-saclay.fr/fr) est une base indispensable si vous devez étendre vos recherches au-delà des frontières nationales. En effet, Strada Lex est incontournable droit européen et couvre largement les sujets tels que la protection de l'environnement, la protection des données personnelles ou encore le droit des technologies de l'information, le droit intellectuel, entre autres domaines.
+![Page d'accueil de la base Strada Lex](assets\Stradalex\Strada_acc.png)
+Pour tout ce qui concerne le droit de l'Union Européenne, Strada Lex est reliée à la base [EUR-Lex](https://eur-lex.europa.eu/homepage.html?lang=fr), le Légifrance de l'UE, attendez-vous donc à naviguer de l'une à l'autre.
 
-***panorama du contenu à faire***<!-- style="color: red" -->
-
-[Stradalex](https://www-stradalex-eu.ezproxy.universite-paris-saclay.fr/fr) est une base incontournable si vous devez étendre vos recherches au-delà des frontières nationales. En effet, Stradalex est très forte en droit européen et couvre largement les sujets tels que la protection de l'environnement, la protection des données personnelles ou encore le droit des technologies de l'information, le droit intellectuel, entre autres domaines.
-![Page d'accueil de la base Stradalex](assets\Stradalex\Strada_acc.png)
-Pour tout ce qui concerne le droit de l'Union Européenne, Stradalex est intimement liée à la base [EUR-Lex](https://eur-lex.europa.eu/homepage.html?lang=fr), le Légifrance de l'UE, attendez-vous donc à naviguer de l'une à l'autre.
-
-Stradalex propose deux types de recherche :
+Strada Lex propose deux types de recherche :
 
 1. La recherche exploratoire
 
@@ -268,7 +245,7 @@ Sélectionnez le type de source que vous souhaitez consulter. Strada Lex donne a
 En passant directement par la barre de recherche et en tapant les mots-clés souhaitez **(2)**, vous pouvez rechercher, dans l'intégralité de la base (*Toutes les sources*), ou **(1)** dans une section seulement (ici sur l'exemple : *Réglementation consolidée*).
 Quelques filtres (masqués par défaut) vous permetteront d'affiner votre recherche **(3)**.
 
-![Un exemple de la recherche thématique dans Stradalex](assets\Stradalex\Stradalex_recherche_thematique.png)
+![Un exemple de la recherche thématique dans Strada Lex](assets\Stradalex\Stradalex_recherche_thematique.png)
 
 Notez que :
 -----
@@ -277,7 +254,7 @@ Notez que :
 
 {{2}}![](assets\Stradalex\Stradalex_recherche_thematique_3.png)Si la base " ne reconnaît pas " un mot-clé que vous lui proposez (i.e. elle ne trouve aucune référence comportant ce mot-clé), elle vous le fait savoir aussi :
 
-{{3}}![](assets\Stradalex\Stradalex_recherche_thematique_4.png)Stradalex reconnaît d'autres formes de données telles que les noms abrégés des revues...
+{{3}}![](assets\Stradalex\Stradalex_recherche_thematique_4.png)Strada Lex reconnaît d'autres formes de données telles que les noms abrégés des revues...
 
 {{4}}![](assets\Stradalex\Stradalex_recherche_thematique_5.png)... et les identifiants d'actes officiels.
 
@@ -293,7 +270,7 @@ Sur cet exemple :
 
 ![](assets\Stradalex\Strada_rech_av.png)
 
-{{1}} J'ai demandé à la base de me chercher les mots-clés " *protection* " ainsi que " *forêt* " : les deux doivent obligatoirement apparaitre dans les références que Stradalex fait remonter.
+{{1}} J'ai demandé à la base de me chercher les mots-clés " *protection* " ainsi que " *forêt* " : les deux doivent obligatoirement apparaitre dans les références que Strada Lex fait remonter.
 
 {{2}} J'ai aussi demandé de chercher l'expression exacte " *zone humide* " : elle doit apparaitre telle qu'elle dans les références remontées.
 
@@ -314,7 +291,10 @@ Sur cet exemple :
 Base de données bibliographiques ?
 =====
 
-Contrairement à d'autres plateformes précédemment visitées, LeDoctrinal n'offre pas d'accès au texte intégral des références recherchées. Sa force réside dans la qualité des informations qu'elle rend accessible et qui décrivent les documents référencés.
+Certaines références incluent un accès direct avec les documents (en fonction des accords entre LeDoctrinal et certains éditeurs) comme vous pourrez le constater dès la page de résultats et sur les notices concernées.
+![](assets\LeDoctrinal\LeDoctrinal_acces_editeur.png)
+
+Néanmoins, La force de cette plateforme réside dans la qualité des informations qu'elle rend accessible et qui décrivent les documents référencés.
 
 LeDoctrinal est donc une base qui permet de faire des **recherches thématiques** poussées dans un certain fond (en l'occurrence, la doctrine) contrairement à une plateforme éditoriale qui offre un accès à de la documentation.
 
@@ -440,7 +420,7 @@ Lorsque vous recherchez *cultiv\** au lieu de *cultivées*, vous recherchez à l
 
 #### ScienceDirect
 
-![](assets\ScienceDirect\ScienceDirect_logo.png)[ScienceDirect](https://www-sciencedirect-com.ezproxy.universite-paris-saclay.fr/browse/journals-and-books) est une base payante à laquelle l'université est abonnée. Elle donne accès au texte intégral d’articles de revues, chapitres d’ouvrages et collections thématiques. Sa richesse disciplinaire en fait une source majeure pour la recherche en sciences, santé, technologies et sciences sociales.
+![](assets\ScienceDirect\ScienceDirect_logo.png)[ScienceDirect](https://www-sciencedirect-com.ezproxy.universite-paris-saclay.fr/browse/journals-and-books) est une base payante à laquelle l'université est abonnée. Elle donne accès au texte intégral d’articles de revues, chapitres d’ouvrages et collections thématiques,  majoritairement en **langue anglaise**. Sa richesse disciplinaire en fait une source majeure pour la recherche en sciences, santé, technologies et sciences sociales.
 
 ##### Les revues et ouvrages juridiques dans ScienceDirect
 La recherche thématique n'étant pas le fort de ScienceDirect, il vous est conseillé, dans cette introduction, d'opter pour une recherche exploratoire, d'autant que l'offre pléthorique de la plateforme de Relx (anciennement Elsevier) n'a pas la lisibilité des plateformes plus traditionnelles en littérature juridique.
@@ -849,34 +829,9 @@ Benoît Blottin a aussi publié dans le domaines des sciences de la santé. Trou
 
 ### Rechercher dans la presse en ligne
 
-``````````````````````````````````````````````````````````````````````````````````````
-.-----------------------------------------------------------------------------------.
-|                                                                                   |
-|               ___           ___           ___           ___                       |
-|              /  /\         /__/\         /  /\         /  /\                      |
-|             /  /:/_        \  \:\       /  /::\       /  /::\                     |
-|            /  /:/ /\        \  \:\     /  /:/\:\     /  /:/\:\                    |
-|           /  /:/ /:/_   ___  \  \:\   /  /:/~/:/    /  /:/  \:\                   |
-|          /__/:/ /:/ /\ /__/\  \__\:\ /__/:/ /:/___ /__/:/ \__\:\                  |
-|          \  \:\/:/ /:/ \  \:\ /  /:/ \  \:\/:::::/ \  \:\ /  /:/                  |
-|           \  \::/ /:/   \  \:\  /:/   \  \::/~~~~   \  \:\  /:/                   |
-|            \  \:\/:/     \  \:\/:/     \  \:\        \  \:\/:/                    |
-|             \  \::/       \  \::/       \  \:\        \  \::/                     |
-|              \__\/         \__\/         \__\/         \__\/                      |
-|      ___         ___           ___           ___           ___           ___      |
-|     /  /\       /  /\         /  /\         /  /\         /  /\         /  /\     |
-|    /  /::\     /  /::\       /  /:/_       /  /:/_       /  /:/_       /  /:/_    |
-|   /  /:/\:\   /  /:/\:\     /  /:/ /\     /  /:/ /\     /  /:/ /\     /  /:/ /\   |
-|  /  /:/~/:/  /  /:/~/:/    /  /:/ /:/_   /  /:/ /::\   /  /:/ /::\   /  /:/ /:/_  |
-| /__/:/ /:/  /__/:/ /:/___ /__/:/ /:/ /\ /__/:/ /:/\:\ /__/:/ /:/\:\ /__/:/ /:/ /\ |
-| \  \:\/:/   \  \:\/:::::/ \  \:\/:/ /:/ \  \:\/:/~/:/ \  \:\/:/~/:/ \  \:\/:/ /:/ |
-|  \  \::/     \  \::/~~~~   \  \::/ /:/   \  \::/ /:/   \  \::/ /:/   \  \::/ /:/  |
-|   \  \:\      \  \:\        \  \:\/:/     \__\/ /:/     \__\/ /:/     \  \:\/:/   |
-|    \  \:\      \  \:\        \  \::/        /__/:/        /__/:/       \  \::/    |
-|     \__\/       \__\/         \__\/         \__\/         \__\/         \__\/     |
-|                                                                                   |
-'-----------------------------------------------------------------------------------'
-``````````````````````````````````````````````````````````````````````````````````````
+![](assets\Europresse\Europresse_acc2.png)
+
+Pour un accès direct à la page d'accueil de la presse en ligne : [**cliquez ici**](https://www.bibliotheques.universite-paris-saclay.fr/presse-en-ligne)
 
 #### Europresse
 
@@ -1083,27 +1038,12 @@ Ouf !
 
 ## Intégrer l'IA dans votre process de recherche documentaire
 
-``````````````````````````````````````````````````````````
-_______________                        |*\_/*|________
-|  ___________  |     .-.     .-.      ||_/-\_|______  |
-| |           | |    .****. .****.     | |           | |
-| |   0   0   | |    .*****.*****.     | |   0   0   | |
-| |     -     | |     .*********.      | |     -     | |
-| |   \___/   | |      .*******.       | |   \___/   | |
-| |___     ___| |       .*****.        | |___________| |
-|_____|\_/|_____|        .***.         |_______________|
- _|__|/ \|_|_.............*.............._|________|_
-/ ********** \                          / ********** \
-/  ************  \                      /  ************  \
---------------------                    --------------------
-``````````````````````````````````````````````````````````
 Si vous utilisez un service d'IA générative (IAg), ce qui est autorisé, vous devez l'utiliser pour vous assister dans des tâches précises et ponctuelle, intégrée dans une méthodologie bien ficelée.
 
 Vous pouvez demander efficacement à une IAg de :
 
 - vous aider dans votre recherche de vocabulaire
 - vous aider à définir des termes
-- vous aider à reformuler votre pensée ou une pensée existante
 - vous aider à structurer et styliser un document
 
  **Il n'est pas recommandé**<!-- style="color: red" --> de déléguer à une IAg :
@@ -1112,6 +1052,10 @@ Vous pouvez demander efficacement à une IAg de :
 - la synthèse d'idées très différentes l'une de l'autre
 - l'imagination d'idées originales
 ![](assets\IA\IA_oui_non.png)
+
+### Principes élémentaires de fonctionnement des IAg
+
+![](assets\IA\IAg_fonct.png)
 
 ### Elaborer le prompt le plus efficace possible
 
