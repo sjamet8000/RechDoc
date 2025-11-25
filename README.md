@@ -28,7 +28,7 @@ Une ressource Liascript est présentée comme un diaporama interactif :
   - ouvrir l'onglet "informations" de la ressource
 
 
-![[Pasted image 20251121155153.png]]
+![assets\README\mode_pres.png]
 
 ### Naviguer entre les sections
 
@@ -60,9 +60,9 @@ En bas à gauche ou au centre de l’écran, vous pouvez cliquer :
 
 Vous pouvez le voir sur l'interface de navigation de la ressource (les petites flèches) qui indiquent le n° de la slide et entre parenthèse le nombre de cliques à faire pour faire apparaitre tous le contenu :
 
-![[Pasted image 20251121155856.png|300]]
+[Pasted image 20251121155856.png|300]
 
-![[Pasted image 20251121160038.png|300]]
+[Pasted image 20251121160038.png|300]
 
 #### Répondre à un quiz / question interactive
 
