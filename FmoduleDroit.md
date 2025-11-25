@@ -292,6 +292,7 @@ Base de données bibliographiques ?
 =====
 
 Certaines références incluent un accès direct avec les documents (en fonction des accords entre LeDoctrinal et certains éditeurs) comme vous pourrez le constater dès la page de résultats et sur les notices concernées.
+
 ![](assets\LeDoctrinal\LeDoctrinal_acces_editeur.png)
 
 Néanmoins, La force de cette plateforme réside dans la qualité des informations qu'elle rend accessible et qui décrivent les documents référencés.
@@ -1034,7 +1035,6 @@ Question un peu piégeuse, puisqu'il fallait aller chercher l'édition PDF (édi
 
 Ouf !
 ********************
-
 
 ## Intégrer l'IA dans votre process de recherche documentaire
 
