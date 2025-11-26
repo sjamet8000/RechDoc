@@ -9,6 +9,8 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/sjamet8000
 
 ### Comprendre l'interface de Liascript
 
+Blablabbal test ???
+
 Une ressource Liascript est présentée comme un diaporama interactif :
 
 - à **gauche** : un menu escamotable listant les chapitres et sous-parties
