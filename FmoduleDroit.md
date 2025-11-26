@@ -340,7 +340,7 @@ Maîtriser l'usage de ces opérateurs est crucial si vous souhaitez utiliser la 
 
 Lequel ?
 
-[[ OU ? | (ET ?) ]]
+[[OU ?|(ET ?)|SAUF ?]]
 
 ... L'autre va au contraire l'augmenter.
 
