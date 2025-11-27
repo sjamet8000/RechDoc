@@ -547,6 +547,7 @@ Dalloz Actualité ne propose pas de fonctionnalités aussi avancées que Lexis V
 [^1]: La newsletter n'est pas obligatoire, une fois votre profil sauvegardé dans Lexis Veille, il restera tel quel et le feed se mettra à jour.
 
 ### Quelques bases en Open Access
+
 ``````````````````````````````````````````
 .---------------------------------------------------------------------------.
 |                                                                           |
