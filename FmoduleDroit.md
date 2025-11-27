@@ -94,7 +94,9 @@ Si vous venez d'arriver à l'Université Paris-Saclay, vous n'avez peut-être pa
 ![Page d'accueil du site web des bibliothèques de l'Université Paris-Saclay](assets\Acces_RE\CAS.png)Vous connaissez déjà très certainement la page d'**Authentification Centralisée** (aussi connue sous son petit nom **CAS**) par laquelle vous devez passer pour vous connecter aux différents services proposés par l'université.
 
         {{1}}
-![Page de sélection de votre établissement](assets\Acces_RE\wayf.png)En revanche, vous n'êtes peut-être pas encore tombé.e sur la page de sélection de votre établissement[^1](Sans faire de design institutionnel, sachez que de nombreux services, en particulier les ressources électroniques, sont mutualisés et proposés par plusieurs établissements dont Paris-Saclay, ce qui nécessite pour vous de spécifier, lorsque vous demandez un accès à ce genre de service, votre établissement de rattachement.). Veillez donc à bien sélectionner " **Université Paris-Saclay (Périmètre employeur) et IOGS** ".
+![Page de sélection de votre établissement](assets\Acces_RE\wayf.png)En revanche, vous n'êtes peut-être pas encore tombé.e sur la page de sélection de votre établissement[^1]. Veillez donc à bien sélectionner " **Université Paris-Saclay (Périmètre employeur) et IOGS** ".
+
+[^1]: Sans faire de design institutionnel, sachez que de nombreux services, en particulier les ressources électroniques, sont mutualisés et proposés par plusieurs établissements dont Paris-Saclay, ce qui nécessite pour vous de spécifier, lorsque vous demandez un accès à ce genre de service, votre établissement de rattachement.
 
 #### Via le site web des BU
 
@@ -110,7 +112,7 @@ Les ressources sont classées par grands domaines scientifiques. Les ressources 
 
 #### Via le catalogue des BU
 
-Un autre moyen tout aussi efficace vous permettra d'atteindre les ressources en ligne, mais pas seulement, le catalogue des bibliothèques, [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?vid=33UDPS_VU1&lang=fr_FR)[^*].
+Un autre moyen tout aussi efficace vous permettra d'atteindre les ressources en ligne, mais pas seulement, le catalogue des bibliothèques, [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?vid=33UDPS_VU1&lang=fr_FR)[^2].
 
 ![](assets\Acces_RE\Logo_Focus.png)
 
@@ -124,14 +126,14 @@ Si vous souhaitez vous rendre sur la base Dalloz Enseignant, entrez " Dalloz " d
 ![Exemple d'une recherche "Dalloz" dans le catalogue Focus](assets\Acces_RE\Focus_Dalloz.png)
 
         {{2}}
-![Facettes et zoom sur les types de disponibilités](assets\Acces_RE\Focus_Acces_ligne.png)Si vous faites une recherche autour du droit de l'environnement, entrez " droit de l'environnement " entre guillemets dans la barre de recherche puis cochez " **Accès en ligne** " à gauche de votre écran, dans la zone des *facettes*[^*]. N'oubliez pas de valider en cliquant sur **Appliquer les filtres**. De cette manière, vous pourrez faire une recherche thématique sur toutes les bases de données auxquelles l'Université est abonnée.
+![Facettes et zoom sur les types de disponibilités](assets\Acces_RE\Focus_Acces_ligne.png)Si vous faites une recherche autour du droit de l'environnement, entrez " droit de l'environnement " entre guillemets dans la barre de recherche puis cochez " **Accès en ligne** " à gauche de votre écran, dans la zone des *facettes*[^3]. N'oubliez pas de valider en cliquant sur **Appliquer les filtres**. De cette manière, vous pourrez faire une recherche thématique sur toutes les bases de données auxquelles l'Université est abonnée.
 
         {{3}}
 ![](assets\Acces_RE\Focus_erevue.png)Vous pouvez aussi faire une recherche directement dans les titres des revues ou des ebooks en cliquant sur [e-books et e-revues](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/jsearch?vid=33UDPS_VU1&lang=fr_FR) en haut de page.
 
-[^*]: ![Un schéma basique des interfaces de bases de données](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
+[^3]: ![Un schéma basique des interfaces de bases de données](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
 
-[^*]: Attention aux logos ! Pour chercher dans les fonds de l'Université, veillez à bien voir les logos de l'Université Paris-Saclay, de CentralSupélec et de l'ENS Paris-Saclay !
+[^2]: Attention aux logos ! Pour chercher dans les fonds de l'Université, veillez à bien voir les logos de l'Université Paris-Saclay, de CentralSupélec et de l'ENS Paris-Saclay !
 
 ### Un panorama des ressources en droit, économie, management
 
@@ -210,9 +212,9 @@ Vérifiez bien que vous avez reçu un message, sur votre adresse universitaire, 
 {{6}}![Capture de la zone de connexion de Lexis 360 Intelligence](assets\LexisNexis\Lexisnexis_connexion.png) Pendant vos visites, connectez-vous en renseignant votre identifiant (i.e. votre nom d'utilisateur) et votre mot de passe. Ne cliquez pas sur **Accès - Universités et grandes écoles**.
 
         {{7}}
-Si vous oubliez votre nom d'utilisateur et/ou votre mot de passe[^*], suivez les indications après avoir cliqué sur **Identifiant ou mot de passe oublié ?**. Dans tous les cas, LexisNexis passera par votre **adresse mail universitaire** pour vous envoyer les informations de récupération avec les adresses *customersupport@lexisnexis.com* et *noreply@lexisnexis.com*. Vous pourrez attendre jusqu'à 5 minutes pour recevoir les messages, vérifiez bien qu'ils ne sont pas tombés dans vos indésirables.
+Si vous oubliez votre nom d'utilisateur et/ou votre mot de passe[^4], suivez les indications après avoir cliqué sur **Identifiant ou mot de passe oublié ?**. Dans tous les cas, LexisNexis passera par votre **adresse mail universitaire** pour vous envoyer les informations de récupération avec les adresses *customersupport@lexisnexis.com* et *noreply@lexisnexis.com*. Vous pourrez attendre jusqu'à 5 minutes pour recevoir les messages, vérifiez bien qu'ils ne sont pas tombés dans vos indésirables.
 
-[^*]: Ce qui n'arrivera pas si vous notez scrupuleusement ces infos quelque par, dans votre bibliothèque [Zotero](https://www.zotero.org/) par exemple.
+[^4]: Ce qui n'arrivera pas si vous notez scrupuleusement ces infos quelque par, dans votre bibliothèque [Zotero](https://www.zotero.org/) par exemple.
 
 #### Strada Lex Europe
 
@@ -248,8 +250,7 @@ Quelques filtres (masqués par défaut) vous permetteront d'affiner votre recher
 
 ![Un exemple de la recherche thématique dans Strada Lex](assets\Stradalex\Stradalex_recherche_thematique.png)
 
-Notez que :
------
+**Notez que**
 
 {{1}}![Mot-clé "intelligence artificielle" reconnu par la base](assets\Stradalex\Stradalex_recherche_thematique_2.png) Si la base " reconnaît " un mot-clé que vous lui proposez (i.e. il y a au moins une référence quelque part chez elle qui comporte ce mot-clé), elle vous le fait savoir :
 
@@ -277,11 +278,11 @@ Sur cet exemple :
 
 {{3}} J'ai demandé de chercher les mots-clés " *loup* ", " *ours* ", " *lynx* ", mais pas nécessairement les trois termes ensembles.
 
-{{4}} Enfin j'ai demandé à exclure les résultats comportant le mot-clé " *mouton* "[^1].
+{{4}} Enfin j'ai demandé à exclure les résultats comportant le mot-clé " *mouton* "[^5].
 
 **Attention** : ne surchargez pas trop les lignes " Tous ces termes " et " Cette expression exacte " au risque de vous retrouver avec un résultat totalement silencieux.
 
-[^1]: Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
+[^5]: Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
 
 #### La recherche de données bibliographiques avec LeDoctrinal
 
@@ -289,8 +290,7 @@ Sur cet exemple :
 
 ![Page d'accueil de LeDoctrinal](assets\LeDoctrinal\LeDoctrinal_acc.png)
 
-Base de données bibliographiques ?
-=====
+**Base de données bibliographiques ?**
 
 Certaines références incluent un accès direct avec les documents (en fonction des accords entre LeDoctrinal et certains éditeurs) comme vous pourrez le constater dès la page de résultats et sur les notices concernées.
 
@@ -310,7 +310,7 @@ On peut tout de même distinguer au moins deux degrés de recherche avec LeDoctr
 
 ###### La recherche simple
 
-Pour éviter toute déception, limitez-vous pour la recherche simple, à deux mots-clés maximum, sans vous embarrasser de guillemets, parenthèses ou autres opérateurs de recherche. Pour le meilleur et pour le pire[^1], LeDoctrinal s'accorde mieux avec une recherche en langage libre qu'avec la syntaxe habituellement requise dans ce genre de base.
+Pour éviter toute déception, limitez-vous pour la recherche simple, à deux mots-clés maximum, sans vous embarrasser de guillemets, parenthèses ou autres opérateurs de recherche. Pour le meilleur et pour le pire[^6], LeDoctrinal s'accorde mieux avec une recherche en langage libre qu'avec la syntaxe habituellement requise dans ce genre de base.
 
 Mettons que recherchons de la doctrine autour de **l'avis consultatif de Cour internationale de justice sur la responsabilité juridique des Etats en matière de changement climatique**.
 
@@ -322,7 +322,7 @@ Lancez la recherche telle quelle, combien de résultats trouvez-vous ?
         {{2}}
 Lancez la recherche **avis consultatif cour internationale de justice**<!-- style="color: red" -->, combien de résultats trouvez-vous en doctrine ? (*en chiffres*) -> [[82]]
 
-[^1]: Le problème avec ce fonctionnement étant qu'il reste assez obscur pour l'utilisateur puisqu'il ne peut pas contrôler très exactement la manière dont la base de données interprète ses requêtes.
+[^6]: Le problème avec ce fonctionnement étant qu'il reste assez obscur pour l'utilisateur puisqu'il ne peut pas contrôler très exactement la manière dont la base de données interprète ses requêtes.
 
 ###### La recherche experte : fonctionnement
 
@@ -330,8 +330,8 @@ Assez rigide elle aussi, elle vous permet tout de même de monter en puissance s
 
 ![Interface de recherche avancée de LeDoctrinal](assets\LeDoctrinal\LeDoctrinal_rech_exp.png)
 
-Boutons et champs :
-===
+**Boutons et champs**
+
 
 **1.** Vous avez le choix entre deux opérateurs (booléens) : ET/OU. Attention à celui que vous choisissez, cela change tout :
 
@@ -349,7 +349,7 @@ Lequel ?
 
 [[ ET ? | (OU ?) ]]
 
-**2.** Vous avez le choix entre plusieurs opérateurs : ou bien le mot-clé peut-être **contenu** dans une expression plus grande, ou bien le mot-clé doit apparaitre **exactement** comme vous l'avez écrit, ou bien LeDoctrinal va rechercher **en plus** du mot-clé renseigné d'autres mots-clés **proches**[^1].
+**2.** Vous avez le choix entre plusieurs opérateurs : ou bien le mot-clé peut-être **contenu** dans une expression plus grande, ou bien le mot-clé doit apparaitre **exactement** comme vous l'avez écrit, ou bien LeDoctrinal va rechercher **en plus** du mot-clé renseigné d'autres mots-clés **proches**[^7].
 
 Une utilisation maîtrisée de ces opérateurs est utile dans une stratégie de recherche exhaustive : pour une requête comportant les mêmes mots-clés, vous n'aurez pas le même nombre de résultats sur chacun des types de sources.  
 
@@ -357,7 +357,7 @@ Une utilisation maîtrisée de ces opérateurs est utile dans une stratégie de 
 
 ![Exemple d'utilisation de la recherche avancée de LeDoctrinal](assets\LeDoctrinal\LeDoctrinal_rech_exp_2.png)
 
-[^1]: Ici, le doute subsiste quand à la nature de la proximité selon LeDoctrinal, est-ce une proximité orthographique ? Ou sémantique ? A vous de vous faire votre idée.
+[^7]: Ici, le doute subsiste quand à la nature de la proximité selon LeDoctrinal, est-ce une proximité orthographique ? Ou sémantique ? A vous de vous faire votre idée.
 
 ###### La recherche experte : exemples
 
@@ -367,23 +367,23 @@ Quelques exemples pour vous guider sur un usage efficace :
 Vous souhaitez interroger **la doctrine relative relative aux compétences et instruments juridiques de l'Union européenne en matière de gestion des forêts**.
 Il est important d'essayer de traduire cet objectif de recherche en une requête que la base est en capacité de comprendre.
 -->
-**Traduction possible**[^1] : vous demandez à LeDoctrinal de vous faire remonter toutes les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants).
+**Traduction possible**[^8] : vous demandez à LeDoctrinal de vous faire remonter toutes les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants).
 ![Fonctionnement de la recherche avancée de LeDoctrinal et des opérateurs booléens intégrés](assets\LeDoctrinal\LeDoctrinal_rech_exp_3.png)
 Notez que pour Le Doctrinal, les deux possibilités ci-dessus sont strictement équivalentes.
 
         {{2-3}}
-Vous auriez maintenant besoin d'élargir la recherche précédente au **droit international**. --> **Traduction possible**[^2] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants) OU à la fois le mot-clé *droit international* et *forêt* (ou des termes approchants).
+Vous auriez maintenant besoin d'élargir la recherche précédente au **droit international**. --> **Traduction possible**[^9] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants) OU à la fois le mot-clé *droit international* et *forêt* (ou des termes approchants).
 ![Fonctionnement de la recherche avancée de LeDoctrinal et des opérateurs booléens intégrés](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_2.png)
 
         {{3-4}}
-Vous auriez maintenant besoin d'associer les deux champs normatifs précédents au **milieu forestier** ou aux **zones humides** en général. --> **Traduction possible**[^3] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois les mots-clés *droit de l'union européenne* et *droit international*, tous deux nécessairement associés aux mots-clés *forêt* ou au mot-clé *zones humides*.
+Vous auriez maintenant besoin d'associer les deux champs normatifs précédents au **milieu forestier** ou aux **zones humides** en général. --> **Traduction possible**[^10] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois les mots-clés *droit de l'union européenne* et *droit international*, tous deux nécessairement associés aux mots-clés *forêt* ou au mot-clé *zones humides*.
 ![Fonctionnement de la recherche avancée de LeDoctrinal et des opérateurs booléens intégrés](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_3.png)
 
-[^1]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET forêt\***
+[^8]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET forêt\***
 
-[^2]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **(" droit de l'union européenne " OU " droit international ") ET forêt\***
+[^9]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **(" droit de l'union européenne " OU " droit international ") ET forêt\***
 
-[^3]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET " droit international " ET (forêt\* OU " zones humides ")**
+[^10]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET " droit international " ET (forêt\* OU " zones humides ")**
 
 ###### Les notices et leurs métadonnées
 
@@ -446,7 +446,7 @@ Comme d'habitude, vous pouvez accéder à ScienceDirect via [le site des BU](htt
 Pour la méthode de recherche présentée ici, rendez-vous sur l'onglet " **Journals & Books** " à partir duquel vous allez pouvoir faire remonter la liste des revues référencées dans le domaine du droit (selon ScienceDirect, ce qui est large).
 ![Accès à la liste des revues et ebooks dans ScienceDirect](assets\ScienceDirect\ScienceDirect_journalsbooks.png)
 
-![Accès aux revues et ebook en droit avec le sujet "Law"](assets\ScienceDirect\ScienceDirect_law.png)Pour sabrer dans les milliers de revues et dizaines de milliers d'ouvrages, affinez votre recherche via les *facettes*[^1]. Cela se passe en deux temps :
+![Accès aux revues et ebook en droit avec le sujet "Law"](assets\ScienceDirect\ScienceDirect_law.png)Pour sabrer dans les milliers de revues et dizaines de milliers d'ouvrages, affinez votre recherche via les *facettes*[^11]. Cela se passe en deux temps :
 
 1. Dans " **Select subject area** " sélectionnez " **Social Sciences** " (le dernier sujet de la liste)
 
@@ -459,7 +459,7 @@ Si vous souhaitez ne voir que les titres auxquels vous avez accès, **cochez tou
 Pour aller encore plus loin dans le filtrage, vous pouvez ensuite chercher dans les titres des publications proposées.
 ![Exemple de recherche du mot-clé "forensic" dans les revues de droit](assets\ScienceDirect\ScienceDirect_forensic.png)
 
-[^1]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
+[^11]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
 
 ###### L'accès au texte intégral sur ScienceDirect
 
@@ -494,7 +494,7 @@ Sur cette dernière, deux points à repérer :
 
 ----
 
-Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemblera à ceci, et voici les informations que vous trouverez[^1] :
+Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemblera à ceci, et voici les informations que vous trouverez[^12] :
 
         {{3-4}}
 ![](assets\ScienceDirect\ScienceDirect_structure_publication.png)
@@ -508,18 +508,17 @@ Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemb
         {{6-7}}
 ![](assets\ScienceDirect\ScienceDirect_publi_droit.png)
 
-[^1]: Il s'agit d'une mise en forme que vous rencontrerez souvent dans d'autres bases.
+[^12]: Il s'agit d'une mise en forme que vous rencontrerez souvent dans d'autres bases.
 
 #### La veille juridique
 
-Lexis Veille
-========
+**Lexis Veille**
 
 L'université met à votre disposition le service de veille fourni par LexisNexis, [Lexis Veille](https://www-lexisveille-fr.ezproxy.universite-paris-saclay.fr/).
 
 Attention, tout comme [Lexis 360 Intelligence](https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/home), vous aurez besoin de votre compte LexisNexis pour accéder à toutes les fonctionnalités du service, reportez-vous à [cette section](#9) pour plus d'informations.
 
-![](assets\Lexis_Veille\Lexis_veille_profil.png) Lors de votre première connexion à Lexis Veille, rendez-vous directement dans **Mon profil** pour personnaliser votre veille, l'envoi ou non d'une newsletter sur votre mail ainsi que sa fréquence[^1].
+![](assets\Lexis_Veille\Lexis_veille_profil.png) Lors de votre première connexion à Lexis Veille, rendez-vous directement dans **Mon profil** pour personnaliser votre veille, l'envoi ou non d'une newsletter sur votre mail ainsi que sa fréquence[^13].
 
 Vous aurez la possibilité de sélectionner parmis de très nombreuses matières celles qui vous semblent les plus pertinentes.
 
@@ -536,8 +535,7 @@ Je cherche par exemple des informations sur l'extraction des minéraux critiques
 
 Faites plusieurs essais pour avoir une chance de vous retrouver avec un produit de veille le plus précis et exhaustif possible.
 
-Dalloz Actualité
-==========
+**Dalloz Actualité**
 
 Dalloz Actualité est une newsletter que vous pouvez consulter sur [dalloz-actualite.fr](https://www.dalloz-actualite.fr/) ou recevoir en newsletter sur la boîte mail de votre choix.
 
@@ -545,7 +543,7 @@ Dalloz Actualité ne propose pas de fonctionnalités aussi avancées que Lexis V
 
 ![](assets\Dalloz_actu\Dalloz_actu.png)
 
-[^1]: La newsletter n'est pas obligatoire, une fois votre profil sauvegardé dans Lexis Veille, il restera tel quel et le feed se mettra à jour.
+[^13]: La newsletter n'est pas obligatoire, une fois votre profil sauvegardé dans Lexis Veille, il restera tel quel et le feed se mettra à jour.
 
 ### Quelques bases en Open Access
 
@@ -745,17 +743,17 @@ Problème :
 
 #### OpenAlex
 
-![](assets\OpenAlex\openalex_logo.png)[OpenAlex](https://openalex.org/) est un catalogue ouvert du système mondial de la recherche scientifique, développé par l’organisation à but non lucratif OurResearch[^1].
+![](assets\OpenAlex\openalex_logo.png)[OpenAlex](https://openalex.org/) est un catalogue ouvert du système mondial de la recherche scientifique, développé par l’organisation à but non lucratif OurResearch[^14].
 
-La base se structure autour des travaux scientifiques (ou *works* : articles, livres, chapitres, thèses, bases de données), elle en indexe, à ce jour plus de 260 millions[^2]. Elle couvre aussi un très large éventail de revues en Open Access[^3].
+La base se structure autour des travaux scientifiques (ou *works* : articles, livres, chapitres, thèses, bases de données), elle en indexe, à ce jour plus de 260 millions[^15]. Elle couvre aussi un très large éventail de revues en Open Access[^16].
 
 Il n'est pas encore possible de savoir à quel point le droit et les sciences auxiliaires du droit sont couvertes par OpenAlex, en revanche, un biais de couverture géographique est à prévoir avec une forte représentation de travaux états-uniens et anglais.
 
-[^1]: Cf. https://docs.openalex.org/
+[^14]: Cf. https://docs.openalex.org/
 
-[^2]: Cf. https://api.openalex.org/works?page=1&sort=cited_by_count:desc&per_page=10
+[^15]: Cf. https://api.openalex.org/works?page=1&sort=cited_by_count:desc&per_page=10
 
-[^3]: Cf. https://doi.org/10.48550/arXiv.2411.03325
+[^16]: Cf. https://doi.org/10.48550/arXiv.2411.03325
 
 ##### Rechercher dans OpenAlex
 
@@ -769,7 +767,7 @@ La base étant anglophone, vos mots-clés doivent l'être aussi.
 
 Voici une requête possible :
 
-**'rare earth' (mining OR extraction OR production)**<!-- style="color: red" -->[^1]
+**'rare earth' (mining OR extraction OR production)**<!-- style="color: red" -->[^17]
 
 Lancez la requête dans [OpenAlex](https://openalex.org/), combien de résultats obtenez-vous (sélectionnez la réponse qui convient le mieux) ?
 
@@ -787,7 +785,7 @@ Voici la structure d'une page de résultats d'OpenAlex :
   allowfullscreen
 ></iframe>
 
-[^1]: Requête que nous pourrions traduire par " fais remonter *tous* les résultats contenant **rare earth**<!-- style="color: red" --> et les résultats qui contiennent *au moins* l'un des trois mots-clés suivants : **mining**<!-- style="color: red" -->, **extraction**<!-- style="color: red" -->, **production**<!-- style="color: red" --> "
+[^17]: Requête que nous pourrions traduire par " fais remonter *tous* les résultats contenant **rare earth**<!-- style="color: red" --> et les résultats qui contiennent *au moins* l'un des trois mots-clés suivants : **mining**<!-- style="color: red" -->, **extraction**<!-- style="color: red" -->, **production**<!-- style="color: red" --> "
 
 ##### Un exemple
 
@@ -916,49 +914,6 @@ La fenêtre de consultation est assez basique, avec en son centre **(1)** la ver
 
 ##### Exercices
 
-``````````````````````````````````````````````````````````````
- .--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--.
-/ .. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \
-\ \/\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ \/ /
- \/ /`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'\/ /
- / /\                                                                                                                                    / /\
-/ /\ \                                                                                                                                  / /\ \
-\ \/ /     ______  __  _______      _______..___________.    __       __  __    __   _______  __    __  .______       _______           \ \/ /
- \/ /     /      |(_ )|   ____|    /       ||           |   |  |     (_ )|  |  |  | |   ____||  |  |  | |   _  \     |   ____|           \/ /
- / /\    |  ,----' |/ |  |__      |   (----``---|  |----`   |  |      |/ |  |__|  | |  |__   |  |  |  | |  |_)  |    |  |__              / /\
-/ /\ \   |  |         |   __|      \   \        |  |        |  |         |   __   | |   __|  |  |  |  | |      /     |   __|            / /\ \
-\ \/ /   |  `----.    |  |____ .----)   |       |  |        |  `----.    |  |  |  | |  |____ |  `--'  | |  |\  \----.|  |____           \ \/ /
- \/ /     \______|    |_______||_______/        |__|        |_______|    |__|  |__| |_______| \______/  | _| `._____||_______|           \/ /
- / /\                                                                                                                                    / /\
-/ /\ \    _______   __    __                                                                                                            / /\ \
-\ \/ /   |       \ |  |  |  |                                                                                                           \ \/ /
- \/ /    |  .--.  ||  |  |  |                                                                                                            \/ /
- / /\    |  |  |  ||  |  |  |                                                                                                            / /\
-/ /\ \   |  '--'  ||  `--'  |  __  __  __                                                                                               / /\ \
-\ \/ /   |_______/  \______/  (__)(__)(__)                                                                                              \ \/ /
- \/ /                                                                                                                                    \/ /
- / /\      ______       __    __   __   ________                                                                                         / /\
-/ /\ \    /  __  \     |  |  |  | |  | |       /                                                                                        / /\ \
-\ \/ /   |  |  |  |    |  |  |  | |  | `---/  /                                                                                         \ \/ /
- \/ /    |  |  |  |    |  |  |  | |  |    /  /                                                                                           \/ /
- / /\    |  `--'  '--. |  `--'  | |  |   /  /----.                                                                                       / /\
-/ /\ \    \_____\_____\ \______/  |__|  /________|                                                                                      / /\ \
-\ \/ /                                                                                                                                  \ \/ /
- \/ /     _______  __    __  .______        ______   .______   .______       _______      _______.     _______. _______     __   __      \/ /
- / /\    |   ____||  |  |  | |   _  \      /  __  \  |   _  \  |   _  \     |   ____|    /       |    /       ||   ____|   |  | |  |     / /\
-/ /\ \   |  |__   |  |  |  | |  |_)  |    |  |  |  | |  |_)  | |  |_)  |    |  |__      |   (----`   |   (----`|  |__      |  | |  |    / /\ \
-\ \/ /   |   __|  |  |  |  | |      /     |  |  |  | |   ___/  |      /     |   __|      \   \        \   \    |   __|     |  | |  |    \ \/ /
- \/ /    |  |____ |  `--'  | |  |\  \----.|  `--'  | |  |      |  |\  \----.|  |____ .----)   |   .----)   |   |  |____    |__| |__|     \/ /
- / /\    |_______| \______/  | _| `._____| \______/  | _|      | _| `._____||_______||_______/    |_______/    |_______|   (__) (__)     / /\
-/ /\ \                                                                                                                                  / /\ \
-\ \/ /                                                                                                                                  \ \/ /
- \/ /                                                                                                                                    \/ /
- / /\.--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--./ /\
-/ /\ \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \/\ \
-\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `' /
- `--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'
-
-```````````````````````````````````````````````````````````````
 **QUESTION 1**
 
 Effectuez une recherche simple sur les " lanthanides ", dans toutes les archives et dans la presse nationale française.
@@ -1061,7 +1016,76 @@ Vous pouvez demander efficacement à une IAg de :
 
 ### Un panorama des outils disponibles pour la recherche documentaire
 
+Quand on pense intelligence artificielle générative, c'est, le plus souvent aux chatbots qu'on fait référence. Mais il existe une très grand diversité d'outils que l'on peut répartir en trois grandes catégories pour ce qui concerne la recherche documentaire.
 
+<lia-keep>
+<table aria-label="Tableau à trois colonnes principales avec sous-colonnes" 
+       style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; font-size:0.95em;">
+  <thead>
+    <tr style="background:#f0f0f0; font-weight:600;">
+      <th rowspan="2" style="border:1px solid #ccc; padding:8px; width:25%;">Chatbots</th>
+      <th colspan="2" style="border:1px solid #ccc; padding:8px; width:37.5%;">Outils de recherche</th>
+      <th colspan="2" style="border:1px solid #ccc; padding:8px; width:37.5%;">Assistants</th>
+    </tr>
+    <tr style="background:#f8f8f8; font-weight:600;">
+      <th style="border:1px solid #ccc; padding:8px;">Moteurs de recherche</th>
+      <th style="border:1px solid #ccc; padding:8px;">Bases bibliographiques</th>
+      <th style="border:1px solid #ccc; padding:8px;">Outils de productivité</th>
+      <th style="border:1px solid #ccc; padding:8px;">Assistants de recherche</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://chatgpt.com/" style="color: #1971c2; text-decoration: none;">ChatGPT</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;">Google AI overviews</td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://www.elsevier.com/products/scopus/scopus-ai" style="color: #1971c2; text-decoration: none;">Scopus AI</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://www.deepl.com/fr/write" style="color: #1971c2; text-decoration: none;">DeepL Write</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://jenni.ai/fr/" style="color: #1971c2; text-decoration: none;">Jenni</a></td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://claude.ai" style="color: #1971c2; text-decoration: none;">Claude</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://www.perplexity.ai/" style="color: #1971c2; text-decoration: none;">Perplexity</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://consensus.app/" style="color: #1971c2; text-decoration: none;">Consensus</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://www.grammarly.com/" style="color: #1971c2; text-decoration: none;">Grammarly</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://keenious.com/landing" style="color: #1971c2; text-decoration: none;">Keenious</a></td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://gemini.google.com/app?hl=fr" style="color: #1971c2; text-decoration: none;">Gemini</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://chatgpt.com/?hints=search&openaicom_referred=true" style="color: #1971c2; text-decoration: none;">ChatGPT Search</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://scispace.com/fr" style="color: #1971c2; text-decoration: none;">SciSpace</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://quillbot.com/fr/" style="color: #1971c2; text-decoration: none;">Quillbot</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://scispace.com/ai-writer" style="color: #1971c2; text-decoration: none;">SciSpace AI writer</a></td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://chat.mistral.ai/chat?q=" style="color: #1971c2; text-decoration: none;">Le Chat Mistral</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://search.brave.com/" style="color: #1971c2; text-decoration: none;">Search Brave AI</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/web-of-science-research-assistant/" style="color: #1971c2; text-decoration: none;">WoS Research Assistant</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://github.com/lifan0127/ai-research-assistant?tab=readme-ov-file" style="color: #1971c2; text-decoration: none;">ARIA Zotero</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://www.undermind.ai/" style="color: #1971c2; text-decoration: none;">Undermind</a></td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://copilot.microsoft.com/" style="color: #1971c2; text-decoration: none;">Copilot</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://scholar.google.fr/scholar_labs/search?hl=fr&pli=1" style="color: #1971c2; text-decoration: none;">Google Scholar Labs</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://elicit.com/" style="color: #1971c2; text-decoration: none;">Elicit</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://notebooklm.google.com/?icid=home_maincta&original_referer=https:%2F%2Fnotebooklm.google%23&pli=1" style="color: #1971c2; text-decoration: none;">Notebook LM</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://www.genei.io/" style="color: #1971c2; text-decoration: none;">genei</a></td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://chat.deepseek.com/" style="color: #1971c2; text-decoration: none;">DeepSeek</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://www.semanticscholar.org/" style="color: #1971c2; text-decoration: none;">Semantic Scholar</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;">Les catalogues de bibliothèque</td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://www.wordtune.com/" style="color: #1971c2; text-decoration: none;">Wordtune</a></td>
+      <td style="border:1px solid #ccc; padding:8px; vertical-align:top;"><a href="https://www.scholarcy.com/" style="color: #1971c2; text-decoration: none;">Scholarcy</a></td>
+    </tr>
+  </tbody>
+</table>
+</lia-keep>
 
 ### Elaborer le prompt le plus efficace possible
 
@@ -1083,6 +1107,69 @@ Le prompt doit être construit de manière précise, en tenant compte des capaci
 ### Rester vigilant
 
 !?[UNIGE - Hors Classe #5 -- Intelligence artificielle générative](https://youtu.be/YbuB_TU9ETE?si=RQ3qJOe_pZ-7AbQU)
+
+### Trois repères méthodologiques pour un usage fiable de l’IA générative
+
+L’IA ne remplace ni le raisonnement, ni l’expertise que vous développez au fil de votre formation et de vos recherches. Elle propose des pistes, parfois utiles, souvent discutables ; c’est donc à l’utilisateur d’encadrer, vérifier et documenter ce qu’il obtient. 
+
+Sans méthode claire, les erreurs et les biais se propagent facilement, au détriment de la qualité du travail juridique. Les trois exigences qui suivent offrent un cadre solide pour utiliser ces outils de manière éclairée et professionnelle.
+
+**Une démarche scientifique** : Les IA produisent du texte, pas du savoir. C’est à vous d’apporter la méthode.
+
+        {{1}}
+``````````````````````````````````````````````````````````
+              
+                 "**RISQUES**"                                      "**REPONSES**"
+
+
+.--------------------------------------------.         .----->> Vérification systématique
+|                                            |         |        des contenus vérifiables
+|         Faux positifs convaincants         |         |         
+|             Sources inventées              *---------.----->> Documenter avec ses sources     
+|  Explications plausibles mais incorrectes  |         |         et pas celles de l'agent
+|                                            |         |
+.____________________________________________.         .----->> Distinguer la plausibilité
+                                                                      de la vérité
+                      
+``````````````````````````````````````````````````````````
+
+**Des travaux responsables** : Les IA génératives ne sont pas des outils de délégation totale.
+
+        {{2}}
+``````````````````````````````````````````````````````````
+              
+                 "**RISQUES**"                                      "**REPONSES**"
+
+
+.--------------------------------------------.         .----->> Un carnet de bord /
+|                                            |         |        Un journal de recherche
+|      Des résultats non reproductibles      |         |        
+|           Dépendance à un outil            *---------.     
+|           Absence de traçabilité           |         |
+|                                            |         |        Expliciter de qui relève
+.____________________________________________.         .----->> de la part humaine de ce
+                                                                qui relève de la part générée
+                      
+``````````````````````````````````````````````````````````
+
+
+**Des usages éthiques** : Varier les outils, c’est réduire les angles morts.
+
+        {{3}}
+``````````````````````````````````````````````````````````
+              
+                 "**RISQUES**"                                  "**REPONSES**"
+
+.--------------------------------------------.  
+|                                            |          
+|           Des biais de corpus              |            
+|       Des perspectives invisibilisées      *--------------->> Varier les outils     
+|    Des hallucinations de représentations   |         
+|                                            |
+.____________________________________________.                     
+                      
+                      
+``````````````````````````````````````````````````````````
 
 ## La citation dans le cadre d'un travail de recherche
 
@@ -1168,7 +1255,7 @@ Par exemple, pour la norme [ISO 690](https://fr.wikipedia.org/wiki/ISO_690), vou
                        .--->> Numéro
 ```````````````````````````````````````````````````````````
       {{4-5}}
-`````````````````````````````````````````````````````````
+`````````````````````````````````````````````````````
                .--->> Auteur.ices (si mentionné.es)
                |
                .--->> Titre de la page
@@ -1182,7 +1269,7 @@ Par exemple, pour la norme [ISO 690](https://fr.wikipedia.org/wiki/ISO_690), vou
                .--->> URL
                |
                .--->> Date de consultation
-``````````````````````````````````````````````````````````
+`````````````````````````````````````````````````````
 
 {{5}}La norme ISO 690 ne définit pas de modèle de citation (ou de méthode de citation ou style bibliographique) particulier, elle ne normalise pas la mise en forme. Elle ne fait que prescrire les éléments qui doivent entrer dans une citation. L'interprétation de la norme diffère entre les différentes traditions de rédactions, entre les éditeurs, entre les institutions d'enseignement supérieur, etc.
 
@@ -1210,15 +1297,15 @@ Le styles bibliographiques vont déterminer de manière précise à quoi vont re
 
 Ici, seul votre établissement, votre Graduate School ou même votre directeur.ice de mémoire est en capacité de vous prescrire un style bibliographique précis, n'hésitez surtout pas à vous renseigner avant d'entamer la rédaction !
 
-{{1-2}}De manière générale, voilà à quoi doit ressembler une citation correcte dans un texte. On y trouve les quatre éléments suivants[^1] :
+{{1-2}}De manière générale, voilà à quoi doit ressembler une citation correcte dans un texte. On y trouve les quatre éléments suivants[^18] :
 ![](assets\Citer\Style_biblio1.png)
 
-{{2-3}}Mais ne soyez pas surpris de rencontrer ce genre de style dans vos lectures, sans note de bas de page[^2]. ![](assets\Citer\Style_biblio2.png)
+{{2-3}}Mais ne soyez pas surpris de rencontrer ce genre de style dans vos lectures, sans note de bas de page[^19]. ![](assets\Citer\Style_biblio2.png)
 
-Les styles bibliographiques les plus couramment utilisés en droit sont les suivants[^3], vous les trouverez tous dans la [bibliothèque de style de Zotero](https://www.zotero.org/styles) :
+Les styles bibliographiques les plus couramment utilisés en droit sont les suivants[^20], vous les trouverez tous dans la [bibliothèque de style de Zotero](https://www.zotero.org/styles) :
 
 |Style|Notes de bas de page|Bibliographie|
-|------|--------|-------|
+|-----|--------------------|-------------|
 |[**InVisu**](https://invisu.cnrs.fr/ressources/ressources-dossier-zotero/)|Willard Van Orman QUINE, *Logique élémentaire*, Deuxième édition corrigée., Paris : J. Vrin, 2006 (Bibliothèque des textes philosophiques), p. 36.|QUINE Willard Van Orman, *Logique élémentaire*, Deuxième édition corrigée., Paris : J. Vrin, 2006 (Bibliothèque des textes philosophiques), 226 p.|
 |**PU Paris-Nanterre**|QUINE Willard Van Orman, *Logique élémentaire*, Deuxième édition corrigée., Paris, J. Vrin, « Bibliothèque des textes philosophiques », 2006, 226 p, p. 36.|QUINE Willard Van Orman, *Logique élémentaire*, Deuxième édition corrigée., Paris, J. Vrin, « Bibliothèque des textes philosophiques », 2006, 226 p.|
 |**Sorbonne Student Law Review**|W.V.O. Quine, *Logique élémentaire*, Paris, J. Vrin, Bibliothèque des textes philosophiques, Deuxième édition corrigée., 2006, p. 36|QUINE W.V.O., *Logique élémentaire*, Paris, J. Vrin, Bibliothèque des textes philosophiques, Deuxième édition corrigée., 2006, 226 pages.|
@@ -1228,15 +1315,15 @@ Les styles bibliographiques les plus couramment utilisés en droit sont les suiv
 
 > Quel que soit le style choisi pour votre rédaction, **restez cohérent et ne changez pas en cours de route !**<!-- style="color: red" -->
 
-[^1]: Ici avec le style **Presses Universitaires de Paris-Nanterre (note, Français)**.
-[^2]: Ici avec le style **ISO 690 (author-date, Français)**.
-[^3]: Cf. Toussaint Sylviane et Wang Ophélie, Bibliographie : citer une référence juridique, https://www.jurisguide.fr/fiches-pedagogiques/bibliographie-citer-une-reference-juridique , 17 novembre 2025,  consulté le 18 novembre 2025.
+[^18]: Ici avec le style **Presses Universitaires de Paris-Nanterre (note, Français)**.
+[^19]: Ici avec le style **ISO 690 (author-date, Français)**.
+[^20]: Cf. Toussaint Sylviane et Wang Ophélie, Bibliographie : citer une référence juridique, https://www.jurisguide.fr/fiches-pedagogiques/bibliographie-citer-une-reference-juridique , 17 novembre 2025,  consulté le 18 novembre 2025.
 
 ### Déclarer et citer l'utilisation d'une IAg
 
 En tant qu'auteur.ice, vous êtes responsable du contenu produit par une IA générative (texte, image, vidéo, etc.), il est donc de bon ton de déclarer tout usage d'une IAg, et de citer l'outil employé.
 
-Plusieurs initiatives[^1] proposent des pictogrammes à insérer dans votre travail. Quoi que vous utilisiez, vous trouverez généralement ce genre de pictogramme :
+Plusieurs initiatives[^21] proposent des pictogrammes à insérer dans votre travail. Quoi que vous utilisiez, vous trouverez généralement ce genre de pictogramme :
 
 ![](assets\Citer\IAg_aucune_compact_low.png) **Aucune utilisation** : pour certifier que vous n'avez pas utilisé d'IAg (pour les cas qui peuvent être suspects comme l'utilisation d'images originales)
 
@@ -1246,21 +1333,21 @@ Plusieurs initiatives[^1] proposent des pictogrammes à insérer dans votre trav
 
 ![](assets\Citer\IAg_majeure_compact_low.png) **Assistance majeure** : les contenus utilisés sont principalement produits par une IAg, ou sont le fruit d'un travail automatisé. Intervention humaine minimale (relecture, corrections mineures)
 
-Pour un travail conséquent -- comme un mémoire --, il peut être intéressant de détailler les cas d'utilisation de l'IAg[^2] :
+Pour un travail conséquent -- comme un mémoire --, il peut être intéressant de détailler les cas d'utilisation de l'IAg[^22] :
 
 > **Pour rappel** : la citation implique les éléments [vus précédemment](#51) et sont codifiés, voici un exemple de mise en forme (note de bas de page et bibliographie) :
 > --> " *Mention du prompt* " prompt. *Nom de l'agent conversationnel*, *version et date de publication de la version*, *Fournisseur de l'agent*,*URL*, *date d'utilisation*.
 
 |Cas d'utilisation|Citation|Mention|
 |-----------------|-----------|----------|
-|Copier-coller|Citer|Mettre en annexe la conversation/mentionner l'utilisation dans un tableau récapitulatif[^3]/tenir un carnet de prompts|
+|Copier-coller|Citer|Mettre en annexe la conversation/mentionner l'utilisation dans un tableau récapitulatif[^23]/tenir un carnet de prompts|
 |Paraphraser, reformuler|Citer|Mettre en annexe la conversation/mentionner l'utilisation dans un tableau récapitulatif/tenir un carnet de prompts|
 |Synthétiser la production de plusieurs IAg|Citer|mentionner l'utilisation dans un tableau récapitulatif/tenir un carnet de prompts|
 |Générer un plan, avoir un retour sur son propre travail|pas de citation|mention dans un tableau récapitulatif/tenir un carnet de prompts|
 |Trouver des idées, trouver des références, traduire un document|pas de citation|mention dans un tableau récapitulatif/tenir un carnet de prompts|
 
-[^1]: Cf. l'initiative de l'UQAC : Pictogrammes de déclaration des niveaux d’utilisation de l’intelligence artificielle générative (IAg), https://www.uqac.ca/ressourcespedago/iag/,  consulté le 21 novembre 2025.
+[^21]: Cf. l'initiative de l'UQAC : Pictogrammes de déclaration des niveaux d’utilisation de l’intelligence artificielle générative (IAg), https://www.uqac.ca/ressourcespedago/iag/,  consulté le 21 novembre 2025.
 
-[^2]: Cf. Université de Genève Bibliothèque, Référencer le recours aux IA générative Guide pratique pour les étudiants de l’UNIGE, https://www.unige.ch/biblio/files/4517/3444/6647/referencer_IAG_v1.2_WEB.pdf , 2024,  consulté le 21 novembre 2025.
+[^22]: Cf. Université de Genève Bibliothèque, Référencer le recours aux IA générative Guide pratique pour les étudiants de l’UNIGE, https://www.unige.ch/biblio/files/4517/3444/6647/referencer_IAG_v1.2_WEB.pdf , 2024,  consulté le 21 novembre 2025.
 
-[^3]: |**Outils d'IAg utilisés pour le travail**|Type d'utilisation|**Prompts utilisé ou liens vers les conversations**|
+[^23]: |**Outils d'IAg utilisés pour le travail**|Type d'utilisation|**Prompts utilisé ou liens vers les conversations**|
