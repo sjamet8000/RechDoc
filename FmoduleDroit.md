@@ -1,5 +1,5 @@
 <!--
-author:   Samuel Jamet
+author:   Samuel Jamet, Angélique Malec, Murielle Le Moulec
 
 email:    samuel.jamet@universite-paris-saclay
 
