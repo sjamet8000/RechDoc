@@ -94,19 +94,19 @@ Si vous venez d'arriver à l'Université Paris-Saclay, vous n'avez peut-être pa
 ![Page d'accueil du site web des bibliothèques de l'Université Paris-Saclay](assets\Acces_RE\CAS.png)Vous connaissez déjà très certainement la page d'**Authentification Centralisée** (aussi connue sous son petit nom **CAS**) par laquelle vous devez passer pour vous connecter aux différents services proposés par l'université.
 
         {{1}}
-![](assets\Acces_RE\wayf.png)En revanche, vous n'êtes peut-être pas encore tombé.e sur la page de sélection de votre établissement[^1](Sans faire de design institutionnel, sachez que de nombreux services, en particulier les ressources électroniques, sont mutualisés et proposés par plusieurs établissements dont Paris-Saclay, ce qui nécessite pour vous de spécifier, lorsque vous demandez un accès à ce genre de service, votre établissement de rattachement.). Veillez donc à bien sélectionner " **Université Paris-Saclay (Périmètre employeur) et IOGS** ".
+![Page de sélection de votre établissement](assets\Acces_RE\wayf.png)En revanche, vous n'êtes peut-être pas encore tombé.e sur la page de sélection de votre établissement[^1](Sans faire de design institutionnel, sachez que de nombreux services, en particulier les ressources électroniques, sont mutualisés et proposés par plusieurs établissements dont Paris-Saclay, ce qui nécessite pour vous de spécifier, lorsque vous demandez un accès à ce genre de service, votre établissement de rattachement.). Veillez donc à bien sélectionner " **Université Paris-Saclay (Périmètre employeur) et IOGS** ".
 
 #### Via le site web des BU
 
 Maintenant que vous êtes parfaitement équipé.e, partons à la découverte des ressources mises à votre disposition.
 
 Rendez-vous sur le [site des bibliothèques de l'Université Paris-Saclay](https://www.bibliotheques.universite-paris-saclay.fr/) que nous vous invitons à enregistrer dans les favoris de votre navigateur habituel.
-![](assets\Acces_RE\BU_acc.png)
+![Page d'accueil du site des BU de Paris-Saclay](assets\Acces_RE\BU_acc.png)
 
 Vous pouvez atteindre la liste des ressources disponibles en ligne en cliquant sur l'onglet **[Explorer les ressources](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources)**, puis sur [(Toutes les) Ressources 24h/24](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources/ressources-24h/24)
 
 Les ressources sont classées par grands domaines scientifiques. Les ressources en [Sciences humaines et sociales](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-sciences-humaines-et-sociales), en [Economie-Gestion](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-economie-et-gestion) et bien entendu, en [Droit](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-droit), devraient tout particulièrement vous intéresser, mais n'oubliez pas d'aller faire un tour dans notre [sélection de presse](https://www.bibliotheques.universite-paris-saclay.fr/presse-en-ligne) !
-![](assets\Acces_RE\BU_RE.png)
+![Page de sélection des ressources en ligne](assets\Acces_RE\BU_RE.png)
 
 #### Via le catalogue des BU
 
@@ -121,15 +121,15 @@ Exemples
 
         {{1}}
 Si vous souhaitez vous rendre sur la base Dalloz Enseignant, entrez " Dalloz " dans la barre de recherche pour que Focus vous suggère [Dalloz Enseignant](https://www-dalloz-fr.ezproxy.universite-paris-saclay.fr/enseignants) et [Dalloz Bibliothèque Numérique](https://bibliotheque-lefebvre-dalloz-fr.ezproxy.universite-paris-saclay.fr/).
-![](assets\Acces_RE\Focus_Dalloz.png)
+![Exemple d'une recherche "Dalloz" dans le catalogue Focus](assets\Acces_RE\Focus_Dalloz.png)
 
         {{2}}
-![](assets\Acces_RE\Focus_Acces_ligne.png)Si vous faites une recherche autour du droit de l'environnement, entrez " droit de l'environnement " entre guillemets dans la barre de recherche puis cochez " **Accès en ligne** " à gauche de votre écran, dans la zone des *facettes*[^*]. N'oubliez pas de valider en cliquant sur **Appliquer les filtres**. De cette manière, vous pourrez faire une recherche thématique sur toutes les bases de données auxquelles l'Université est abonnée.
+![Facettes et zoom sur les types de disponibilités](assets\Acces_RE\Focus_Acces_ligne.png)Si vous faites une recherche autour du droit de l'environnement, entrez " droit de l'environnement " entre guillemets dans la barre de recherche puis cochez " **Accès en ligne** " à gauche de votre écran, dans la zone des *facettes*[^*]. N'oubliez pas de valider en cliquant sur **Appliquer les filtres**. De cette manière, vous pourrez faire une recherche thématique sur toutes les bases de données auxquelles l'Université est abonnée.
 
         {{3}}
 ![](assets\Acces_RE\Focus_erevue.png)Vous pouvez aussi faire une recherche directement dans les titres des revues ou des ebooks en cliquant sur [e-books et e-revues](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/jsearch?vid=33UDPS_VU1&lang=fr_FR) en haut de page.
 
-[^*]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
+[^*]: ![Un schéma basique des interfaces de bases de données](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
 
 [^*]: Attention aux logos ! Pour chercher dans les fonds de l'Université, veillez à bien voir les logos de l'Université Paris-Saclay, de CentralSupélec et de l'ENS Paris-Saclay !
 
@@ -196,7 +196,7 @@ Si vous arrivez d'un autre établissement fournissant un accès à cette platefo
         {{1}}
 Accédez à la [page de connexion de Lexis](https://signin-lexisnexis-com.ezproxy.universite-paris-saclay.fr/lnaccess/app/signin?back=https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/legan-callback&aci=lint) depuis le [site des BU](https://www.bibliotheques.universite-paris-saclay.fr/).
 
-{{2}}![](assets\LexisNexis\Lexisnexis_nouveaucompte.png)Sous **Première visite ?** Cliquez sur **Créer votre compte**.
+{{2}}![Capture de la page d'inscription de Lexis 360 Intelligence](assets\LexisNexis\Lexisnexis_nouveaucompte.png)Sous **Première visite ?** Cliquez sur **Créer votre compte**.
 
         {{3}}
 Renseignez les informations demandées, et tout particulièrement votre adresse mail **universitaire**.
@@ -207,7 +207,7 @@ Créez votre identifiant (i.e. nom d'utilisateur), **notez-le quelque part**, fa
         {{5}}
 Vérifiez bien que vous avez reçu un message, sur votre adresse universitaire, de la part de *customersupport@lexisnexis.com*, censé vous confirmer votre inscription.
 
-{{6}}![](assets\LexisNexis\Lexisnexis_connexion.png) Pendant vos visites, connectez-vous en renseignant votre identifiant (i.e. votre nom d'utilisateur) et votre mot de passe. Ne cliquez pas sur **Accès - Universités et grandes écoles**.
+{{6}}![Capture de la zone de connexion de Lexis 360 Intelligence](assets\LexisNexis\Lexisnexis_connexion.png) Pendant vos visites, connectez-vous en renseignant votre identifiant (i.e. votre nom d'utilisateur) et votre mot de passe. Ne cliquez pas sur **Accès - Universités et grandes écoles**.
 
         {{7}}
 Si vous oubliez votre nom d'utilisateur et/ou votre mot de passe[^*], suivez les indications après avoir cliqué sur **Identifiant ou mot de passe oublié ?**. Dans tous les cas, LexisNexis passera par votre **adresse mail universitaire** pour vous envoyer les informations de récupération avec les adresses *customersupport@lexisnexis.com* et *noreply@lexisnexis.com*. Vous pourrez attendre jusqu'à 5 minutes pour recevoir les messages, vérifiez bien qu'ils ne sont pas tombés dans vos indésirables.
@@ -215,6 +215,7 @@ Si vous oubliez votre nom d'utilisateur et/ou votre mot de passe[^*], suivez les
 [^*]: Ce qui n'arrivera pas si vous notez scrupuleusement ces infos quelque par, dans votre bibliothèque [Zotero](https://www.zotero.org/) par exemple.
 
 #### Strada Lex Europe
+
 [Strada Lex Europe](https://www-stradalex-eu.ezproxy.universite-paris-saclay.fr/fr) est une base indispensable si vous devez étendre vos recherches au-delà des frontières nationales. En effet, Strada Lex est incontournable droit européen et couvre largement les sujets tels que la protection de l'environnement, la protection des données personnelles ou encore le droit des technologies de l'information, le droit intellectuel, entre autres domaines.
 ![Page d'accueil de la base Strada Lex](assets\Stradalex\Strada_acc.png)
 Pour tout ce qui concerne le droit de l'Union Européenne, Strada Lex est reliée à la base [EUR-Lex](https://eur-lex.europa.eu/homepage.html?lang=fr), le Légifrance de l'UE, attendez-vous donc à naviguer de l'une à l'autre.
@@ -228,7 +229,7 @@ Strada Lex propose deux types de recherche :
 ##### La recherche exploratoire
 C'est-à-dire une recherche où vous naviguez dans l'arborescence de la base.
 
-![](assets\Stradalex\Strada_rechex.png)
+![Exemple d'une recherche exploratoire dans Strada Lex](assets\Stradalex\Strada_rechex.png)
 
 Partez depuis l'onglet **Explorer** pour ouvrir l'arborescence principale de Strada Lex.
 
@@ -250,25 +251,25 @@ Quelques filtres (masqués par défaut) vous permetteront d'affiner votre recher
 Notez que :
 -----
 
-{{1}}![](assets\Stradalex\Stradalex_recherche_thematique_2.png) Si la base " reconnaît " un mot-clé que vous lui proposez (i.e. il y a au moins une référence quelque part chez elle qui comporte ce mot-clé), elle vous le fait savoir :
+{{1}}![Mot-clé "intelligence artificielle" reconnu par la base](assets\Stradalex\Stradalex_recherche_thematique_2.png) Si la base " reconnaît " un mot-clé que vous lui proposez (i.e. il y a au moins une référence quelque part chez elle qui comporte ce mot-clé), elle vous le fait savoir :
 
-{{2}}![](assets\Stradalex\Stradalex_recherche_thematique_3.png)Si la base " ne reconnaît pas " un mot-clé que vous lui proposez (i.e. elle ne trouve aucune référence comportant ce mot-clé), elle vous le fait savoir aussi :
+{{2}}![Mot-clé "game of throne" non reconnu par la base](assets\Stradalex\Stradalex_recherche_thematique_3.png)Si la base " ne reconnaît pas " un mot-clé que vous lui proposez (i.e. elle ne trouve aucune référence comportant ce mot-clé), elle vous le fait savoir aussi :
 
-{{3}}![](assets\Stradalex\Stradalex_recherche_thematique_4.png)Strada Lex reconnaît d'autres formes de données telles que les noms abrégés des revues...
+{{3}}![Abréviation CCLR reconnue par la base](assets\Stradalex\Stradalex_recherche_thematique_4.png)Strada Lex reconnaît d'autres formes de données telles que les noms abrégés des revues...
 
-{{4}}![](assets\Stradalex\Stradalex_recherche_thematique_5.png)... et les identifiants d'actes officiels.
+{{4}}![Identifiant de réglement européen reconnu par la base](assets\Stradalex\Stradalex_recherche_thematique_5.png)... et les identifiants d'actes officiels.
 
 ##### La recherche avancée
 
 Vous pouvez atteindre la recherche avancée en cliquant sur la roue crantée sur la droit de la barre de recherche :
 
-![](assets\Stradalex\Strada_rech_av_0.png)
+![Accès à la recherche avancée de Strada Lex](assets\Stradalex\Strada_rech_av_0.png)
 
 La recherche dite " avancée " est surtout une recherche guidée pour vous permettre d'élaborer une requête un peu plus efficace. Elle est conçue comme la [recherche avancée de Google](https://www.google.com/advanced_search) et de [Google Scholar](https://scholar.google.com/#d=gs_asd&t=1759248669064) : renseignez les bons mots-clés aux bons endroits et cela devrait fonctionner.
 
 Sur cet exemple :
 
-![](assets\Stradalex\Strada_rech_av.png)
+![Interface de la recherche avancée de Strada Lex](assets\Stradalex\Strada_rech_av.png)
 
 {{1}} J'ai demandé à la base de me chercher les mots-clés " *protection* " ainsi que " *forêt* " : les deux doivent obligatoirement apparaitre dans les références que Strada Lex fait remonter.
 
@@ -286,14 +287,14 @@ Sur cet exemple :
 
 [LeDoctrinal](https://www-doctrinal-fr.ezproxy.universite-paris-saclay.fr/) est une base de **données bibliographiques** qui propose des notices bibliographiques d’articles de revues, de la jurisprudence française et européenne, des textes officiels, ainsi que des références bibliographiques de Mélanges.
 
-![](assets\LeDoctrinal\LeDoctrinal_acc.png)
+![Page d'accueil de LeDoctrinal](assets\LeDoctrinal\LeDoctrinal_acc.png)
 
 Base de données bibliographiques ?
 =====
 
 Certaines références incluent un accès direct avec les documents (en fonction des accords entre LeDoctrinal et certains éditeurs) comme vous pourrez le constater dès la page de résultats et sur les notices concernées.
 
-![](assets\LeDoctrinal\LeDoctrinal_acces_editeur.png)
+![Exemple de notice bibliographique avec accès éditeur au texte intégral](assets\LeDoctrinal\LeDoctrinal_acces_editeur.png)
 
 Néanmoins, La force de cette plateforme réside dans la qualité des informations qu'elle rend accessible et qui décrivent les documents référencés.
 
@@ -316,7 +317,7 @@ Mettons que recherchons de la doctrine autour de **l'avis consultatif de Cour in
 Lancez la recherche telle quelle, combien de résultats trouvez-vous ?
 (*en chiffre*) -> [[0]]
 
-{1}{*Telle quelle, la requête est trop longue, comporte trop de mots-clés pour que LeDoctrinal puisse retrouver la moindre référence, il faut simplifier.*![](assets\LeDoctrinal\LeDoctrinal_rech_simple.png)}
+{1}{*Telle quelle, la requête est trop longue, comporte trop de mots-clés pour que LeDoctrinal puisse retrouver la moindre référence, il faut simplifier.*![Exemple de recherche "avis consultatif de la cour internationale de justice" en recherche simple](assets\LeDoctrinal\LeDoctrinal_rech_simple.png)}
 
         {{2}}
 Lancez la recherche **avis consultatif cour internationale de justice**<!-- style="color: red" -->, combien de résultats trouvez-vous en doctrine ? (*en chiffres*) -> [[82]]
@@ -327,7 +328,7 @@ Lancez la recherche **avis consultatif cour internationale de justice**<!-- styl
 
 Assez rigide elle aussi, elle vous permet tout de même de monter en puissance sur la précision de vos requêtes, à condition de bien comprendre son fonctionnement...
 
-![](assets\LeDoctrinal\LeDoctrinal_rech_exp.png)
+![Interface de recherche avancée de LeDoctrinal](assets\LeDoctrinal\LeDoctrinal_rech_exp.png)
 
 Boutons et champs :
 ===
@@ -340,7 +341,7 @@ Maîtriser l'usage de ces opérateurs est crucial si vous souhaitez utiliser la 
 
 Lequel ?
 
-[[OU ?|(ET ?)|SAUF ?]]
+[[OU ?|(ET ?)]]
 
 ... L'autre va au contraire l'augmenter.
 
@@ -354,7 +355,7 @@ Une utilisation maîtrisée de ces opérateurs est utile dans une stratégie de 
 
 **3.** Ici, renseignez **un** mot-clé pour éviter de surcharger LeDoctrinal. Notez aussi que la base garde en mémoire les précédents mots-clés que vous avez cherché.
 
-![](assets\LeDoctrinal\LeDoctrinal_rech_exp_2.png)
+![Exemple d'utilisation de la recherche avancée de LeDoctrinal](assets\LeDoctrinal\LeDoctrinal_rech_exp_2.png)
 
 [^1]: Ici, le doute subsiste quand à la nature de la proximité selon LeDoctrinal, est-ce une proximité orthographique ? Ou sémantique ? A vous de vous faire votre idée.
 
@@ -367,16 +368,16 @@ Vous souhaitez interroger **la doctrine relative relative aux compétences et in
 Il est important d'essayer de traduire cet objectif de recherche en une requête que la base est en capacité de comprendre.
 -->
 **Traduction possible**[^1] : vous demandez à LeDoctrinal de vous faire remonter toutes les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants).
-![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3.png)
+![Fonctionnement de la recherche avancée de LeDoctrinal et des opérateurs booléens intégrés](assets\LeDoctrinal\LeDoctrinal_rech_exp_3.png)
 Notez que pour Le Doctrinal, les deux possibilités ci-dessus sont strictement équivalentes.
 
         {{2-3}}
 Vous auriez maintenant besoin d'élargir la recherche précédente au **droit international**. --> **Traduction possible**[^2] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois le mot-clé *droit de l'union européenne* et *forêt* (ou des termes approchants) OU à la fois le mot-clé *droit international* et *forêt* (ou des termes approchants).
-![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_2.png)
+![Fonctionnement de la recherche avancée de LeDoctrinal et des opérateurs booléens intégrés](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_2.png)
 
         {{3-4}}
 Vous auriez maintenant besoin d'associer les deux champs normatifs précédents au **milieu forestier** ou aux **zones humides** en général. --> **Traduction possible**[^3] : vous demandez à LeDoctrinal de vous faire remonter les références doctrinales comportant à la fois les mots-clés *droit de l'union européenne* et *droit international*, tous deux nécessairement associés aux mots-clés *forêt* ou au mot-clé *zones humides*.
-![](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_3.png)
+![Fonctionnement de la recherche avancée de LeDoctrinal et des opérateurs booléens intégrés](assets\LeDoctrinal\LeDoctrinal_rech_exp_3_3.png)
 
 [^1]: En suivant une syntaxe booléenne stricte, on formulera la requête ainsi : **" droit de l'union européenne " ET forêt\***
 
@@ -393,10 +394,10 @@ Ces notices bibliographiques ont l'avantage d'être normées, de rassembler tout
 Avec LeDoctrinal, on peut distinguer deux types de métadonnées :
 
 1. Les métadonnées qui vont vous permettre de retrouver le texte intégral
-![](assets\LeDoctrinal\LeDoctrinal_notice_biblio_meta1.png)
+![Notice bibliographique avec métadonnées](assets\LeDoctrinal\LeDoctrinal_notice_biblio_meta1.png)
 
 2. Les métadonnées qui vous donnent des informations sur le contenu du document
-![](assets\LeDoctrinal\LeDoctrinal_notice_biblio_meta2.png)
+![Notice bibliographique avec métadonnées](assets\LeDoctrinal\LeDoctrinal_notice_biblio_meta2.png)
 
 Avec ces deux types d'information, vous pouvez vous faire une première idée de la pertinence d'un document, et savoir où il se trouve (dans quelle bibliothèque, ou dans quelle plateforme éditoriale).
 
@@ -443,9 +444,9 @@ Si vous devez explorer la littérature de ces domaines, ScienceDirect est un pas
 Comme d'habitude, vous pouvez accéder à ScienceDirect via [le site des BU](https://www.bibliotheques.universite-paris-saclay.fr/elsevier-sciencedirect) ou via [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?institution=33UDPS&vid=33UDPS_VU1&tab=default_tab&search_scope=default_scope&mode=Basic&displayMode=full&bulkSize=50&highlight=true&dum=true&query=any,contains,ScienceDirect&displayField=all&pcAvailabilityMode=false&choix_index=tout)
 
 Pour la méthode de recherche présentée ici, rendez-vous sur l'onglet " **Journals & Books** " à partir duquel vous allez pouvoir faire remonter la liste des revues référencées dans le domaine du droit (selon ScienceDirect, ce qui est large).
-![](assets\ScienceDirect\ScienceDirect_journalsbooks.png)
+![Accès à la liste des revues et ebooks dans ScienceDirect](assets\ScienceDirect\ScienceDirect_journalsbooks.png)
 
-![](assets\ScienceDirect\ScienceDirect_law.png)Pour sabrer dans les milliers de revues et dizaines de milliers d'ouvrages, affinez votre recherche via les *facettes*[^1]. Cela se passe en deux temps :
+![Accès aux revues et ebook en droit avec le sujet "Law"](assets\ScienceDirect\ScienceDirect_law.png)Pour sabrer dans les milliers de revues et dizaines de milliers d'ouvrages, affinez votre recherche via les *facettes*[^1]. Cela se passe en deux temps :
 
 1. Dans " **Select subject area** " sélectionnez " **Social Sciences** " (le dernier sujet de la liste)
 
@@ -453,10 +454,10 @@ Pour la méthode de recherche présentée ici, rendez-vous sur l'onglet " **Jour
 
         {{1}}
 Si tout se passe bien, ScienceDirect doit vous remonter environ 215 publications (des revues et des e-books, leur nombre peut changer en fonction du temps) que vous pouvez encore filtrer depuis les facettes par **types de publications** (revues, livres, manuels, etc.) et surtout par **type d'accès**.
-![](assets\ScienceDirect\ScienceDirect_access.png)
+![Les différents types d'accès, Open Acces / contenant de l'open access / en fonction de votre abonnement](assets\ScienceDirect\ScienceDirect_access.png)
 Si vous souhaitez ne voir que les titres auxquels vous avez accès, **cochez tout**, mais il peut être intéressant d'accéder aux *abstracts* des articles ou ouvrages qui ne sont pas compris dans l'abonnement de l'université quitte à demander un [prêt entre bibliothèques](https://www.bibliotheques.universite-paris-saclay.fr/le-pret-entre-bibliotheques-peb) par la suite.
 Pour aller encore plus loin dans le filtrage, vous pouvez ensuite chercher dans les titres des publications proposées.
-![](assets\ScienceDirect\ScienceDirect_forensic.png)
+![Exemple de recherche du mot-clé "forensic" dans les revues de droit](assets\ScienceDirect\ScienceDirect_forensic.png)
 
 [^1]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
 
@@ -1057,6 +1058,10 @@ Vous pouvez demander efficacement à une IAg de :
 ### Principes élémentaires de fonctionnement des IAg
 
 ![](assets\IA\IAg_fonct.png)
+
+### Un panorama des outils disponibles pour la recherche documentaire
+
+
 
 ### Elaborer le prompt le plus efficace possible
 
