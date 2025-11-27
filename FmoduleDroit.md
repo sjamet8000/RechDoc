@@ -65,10 +65,9 @@ Etudiant.es à l'Université Paris-Saclay, vous avez accès à de très nombreus
 '--------------------------------------------------------------------------------------------------------------------------------------------'
 ````````````````````````````````````````
 
-### Atteindre les ressources en lignes sans encombre
+### Les ressources en lignes sans encombre
 
-Informations primordiales
----
+**Informations primordiales**
 
 Dans les pages qui vont suivre, nous vous invitons à vous munir
 
