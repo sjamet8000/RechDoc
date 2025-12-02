@@ -1349,4 +1349,4 @@ Pour un travail conséquent -- comme un mémoire --, il peut être intéressant 
 
 [^22]: Cf. Université de Genève Bibliothèque, Référencer le recours aux IA générative Guide pratique pour les étudiants de l’UNIGE, https://www.unige.ch/biblio/files/4517/3444/6647/referencer_IAG_v1.2_WEB.pdf , 2024,  consulté le 21 novembre 2025.
 
-[^23]: |**Outils d'IAg utilisés pour le travail**|Type d'utilisation|**Prompts utilisé ou liens vers les conversations**|
+[^23]: |**Outils d'IAg utilisés pour le travail**|Type d'utilisation|**Prompts utilisé ou liens vers les conversations**
