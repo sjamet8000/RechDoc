@@ -11,7 +11,7 @@ repository: github.com/sjamet8000/RechDoc
 
 language: fr
 
-comment:  Ce cours est à destination des étudiants de master de droit
+comment:  Ce cours asynchrone est à destination des étudiants de master de droit de la faculté Droit Economie Management de l'Université Paris-Saclay. Il est en grande partie adapté de formation présentielle Formation à la recherche documentaire destinée aux étudiants de Master 2, conçue et animée par Murielle Le Moulec de la BU Sceaux et Angélique Malec de la BR Sceaux.
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
@@ -80,10 +80,10 @@ Si vous n'avez pas ces deux informations en votre possession, rendez-vous sur
 [l'annuaire Adonis](https://adonis.universite-paris-saclay.fr/annuaire/index.php) pour :
 
         {{1}}
- ![](assets\Acces_RE\Adonis_activer.png) Activer votre compte avec notre n°d'étudiant.e en cliquant sur **Mon compte** > **[Activer son compte](https://adonis.universite-paris-saclay.fr/annuaire/compte/activation/)**
+ ![Activer son compte universtaire avec Adonis](assets\Acces_RE\Adonis_activer.png) Activer votre compte avec notre n°d'étudiant.e en cliquant sur **Mon compte** > **[Activer son compte](https://adonis.universite-paris-saclay.fr/annuaire/compte/activation/)**
 
         {{2}}
-![](assets\Acces_RE\Adonis_mdp.png) Récupérer votre **mot de passe** en cliquant sur **Mon compte** > **[Mot de passe perdu](https://adonis.universite-paris-saclay.fr/annuaire/compte/perte_mdp/)**
+![Récupérer son mot de passe perdu avec Adonis](assets\Acces_RE\Adonis_mdp.png) Récupérer votre **mot de passe** en cliquant sur **Mon compte** > **[Mot de passe perdu](https://adonis.universite-paris-saclay.fr/annuaire/compte/perte_mdp/)**
 
 
 #### CAS et wayf !?
@@ -102,7 +102,7 @@ Si vous venez d'arriver à l'Université Paris-Saclay, vous n'avez peut-être pa
 Maintenant que vous êtes parfaitement équipé.e, partons à la découverte des ressources mises à votre disposition.
 
 Rendez-vous sur le [site des bibliothèques de l'Université Paris-Saclay](https://www.bibliotheques.universite-paris-saclay.fr/) que nous vous invitons à enregistrer dans les favoris de votre navigateur habituel.
-![Page d'accueil du site des BU de Paris-Saclay](assets\Acces_RE\BU_acc.png)
+![Page d'accueil du site des BU de l'Université Paris-Saclay](assets\Acces_RE\BU_acc.png)
 
 Vous pouvez atteindre la liste des ressources disponibles en ligne en cliquant sur l'onglet **[Explorer les ressources](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources)**, puis sur [(Toutes les) Ressources 24h/24](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources/ressources-24h/24)
 
@@ -113,7 +113,7 @@ Les ressources sont classées par grands domaines scientifiques. Les ressources 
 
 Un autre moyen tout aussi efficace vous permettra d'atteindre les ressources en ligne, mais pas seulement, le catalogue des bibliothèques, [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?vid=33UDPS_VU1&lang=fr_FR)[^2].
 
-![](assets\Acces_RE\Logo_Focus.png)
+![Logo du catalogue Focus accompagné des logos de l'Université Paris-Saclay, de CentraleSupélec et de l'ENS Paris-Saclay](assets\Acces_RE\Logo_Focus.png)
 
 Outre les ressources électroniques, Focus peut être utilisé pour faire vos recherches dans les fonds physiques des bibliothèques (ouvrages, revues scientifiques, presse généraliste, thèses, etc.)
 
@@ -128,7 +128,7 @@ Si vous souhaitez vous rendre sur la base Dalloz Enseignant, entrez " Dalloz " d
 ![Facettes et zoom sur les types de disponibilités](assets\Acces_RE\Focus_Acces_ligne.png)Si vous faites une recherche autour du droit de l'environnement, entrez " droit de l'environnement " entre guillemets dans la barre de recherche puis cochez " **Accès en ligne** " à gauche de votre écran, dans la zone des *facettes*[^3]. N'oubliez pas de valider en cliquant sur **Appliquer les filtres**. De cette manière, vous pourrez faire une recherche thématique sur toutes les bases de données auxquelles l'Université est abonnée.
 
         {{3}}
-![](assets\Acces_RE\Focus_erevue.png)Vous pouvez aussi faire une recherche directement dans les titres des revues ou des ebooks en cliquant sur [e-books et e-revues](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/jsearch?vid=33UDPS_VU1&lang=fr_FR) en haut de page.
+![Capture de l'onglet E-BOOKS ET E-REVUES de Focus](assets\Acces_RE\Focus_erevue.png)Vous pouvez aussi faire une recherche directement dans les titres des revues ou des ebooks en cliquant sur [e-books et e-revues](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/jsearch?vid=33UDPS_VU1&lang=fr_FR) en haut de page.
 
 [^3]: ![Un schéma basique des interfaces de bases de données](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
 
@@ -234,8 +234,7 @@ C'est-à-dire une recherche où vous naviguez dans l'arborescence de la base.
 
 Partez depuis l'onglet **Explorer** pour ouvrir l'arborescence principale de Strada Lex.
 
-Sélectionnez le type de source que vous souhaitez consulter. Strada Lex donne accès à toute la législation européenne, de la jurisprudence européenne, belge et internationale, ainsi qu'à de la doctrine. Pour une revue plus complète du contenu de Strada Lex, rendez-vous [ici]()
-***panorama du contenu à faire sur une autre page***<!-- style="color: red" -->.
+Sélectionnez le type de source que vous souhaitez consulter. Strada Lex donne accès à toute la législation européenne, de la jurisprudence européenne, belge et internationale, ainsi qu'à de la doctrine.
 
         {{1}}
 **Avantage** : L'onglet **Explorer** est assez utile pour faire connaissance avec le contenu de la base, explorer la diversité des titres de **revues** **(3)**, la table des matière du **Répertoire Européen** et naviguer dans la **Réglementation consolidée**.
@@ -255,7 +254,7 @@ Quelques filtres (masqués par défaut) vous permetteront d'affiner votre recher
 
 {{2}}![Mot-clé "game of throne" non reconnu par la base](assets\Stradalex\Stradalex_recherche_thematique_3.png)Si la base " ne reconnaît pas " un mot-clé que vous lui proposez (i.e. elle ne trouve aucune référence comportant ce mot-clé), elle vous le fait savoir aussi :
 
-{{3}}![Abréviation CCLR reconnue par la base](assets\Stradalex\Stradalex_recherche_thematique_4.png)Strada Lex reconnaît d'autres formes de données telles que les noms abrégés des revues...
+{{3}}![Abréviation " CCLR reconnue " par la base](assets\Stradalex\Stradalex_recherche_thematique_4.png)Strada Lex reconnaît d'autres formes de données telles que les noms abrégés des revues...
 
 {{4}}![Identifiant de réglement européen reconnu par la base](assets\Stradalex\Stradalex_recherche_thematique_5.png)... et les identifiants d'actes officiels.
 
@@ -421,7 +420,7 @@ Lorsque vous recherchez *cultiv\** au lieu de *cultivées*, vous recherchez à l
 
 #### ScienceDirect
 
-![](assets\ScienceDirect\ScienceDirect_logo.png)[ScienceDirect](https://www-sciencedirect-com.ezproxy.universite-paris-saclay.fr/browse/journals-and-books) est une base payante à laquelle l'université est abonnée. Elle donne accès au texte intégral d’articles de revues, chapitres d’ouvrages et collections thématiques,  majoritairement en **langue anglaise**. Sa richesse disciplinaire en fait une source majeure pour la recherche en sciences, santé, technologies et sciences sociales.
+![Logo de ScienceDirect](assets\ScienceDirect\ScienceDirect_logo.png)[ScienceDirect](https://www-sciencedirect-com.ezproxy.universite-paris-saclay.fr/browse/journals-and-books) est une base payante à laquelle l'université est abonnée. Elle donne accès au texte intégral d’articles de revues, chapitres d’ouvrages et collections thématiques,  majoritairement en **langue anglaise**. Sa richesse disciplinaire en fait une source majeure pour la recherche en sciences, santé, technologies et sciences sociales.
 
 ##### Les revues et ouvrages juridiques dans ScienceDirect
 La recherche thématique n'étant pas le fort de ScienceDirect, il vous est conseillé, dans cette introduction, d'opter pour une recherche exploratoire, d'autant que l'offre pléthorique de la plateforme de Relx (anciennement Elsevier) n'a pas la lisibilité des plateformes plus traditionnelles en littérature juridique.
@@ -458,7 +457,7 @@ Si vous souhaitez ne voir que les titres auxquels vous avez accès, **cochez tou
 Pour aller encore plus loin dans le filtrage, vous pouvez ensuite chercher dans les titres des publications proposées.
 ![Exemple de recherche du mot-clé "forensic" dans les revues de droit](assets\ScienceDirect\ScienceDirect_forensic.png)
 
-[^11]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
+[^11]: ![Schéma d'une page de résultat typique dans une base de données en ligne](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
 
 ###### L'accès au texte intégral sur ScienceDirect
 
@@ -466,25 +465,25 @@ Si vous avez suivi les étapes de filtrages des publications à la page précéd
 
 Trois types d'accès sont mentionnés :
 
-1. " *Open access* " : la publication est gratuitement, entièrement et immédiatement accessible sans condition. ![](assets\ScienceDirect\ScienceDirect_OA.png)
+1. " *Open access* " : la publication est gratuitement, entièrement et immédiatement accessible sans condition. ![Exemple d'un lien vers une publication en open access](assets\ScienceDirect\ScienceDirect_OA.png)
 
-2. " Contains *Open access* " : certaines parties de la publication sont en *Open access*, les autres dépendent de l'abonnement de votre institution (il est donc possible que vous n'ayez pas accès à tout). ![](assets\ScienceDirect\ScienceDirect_COA.png)
+2. " Contains *Open access* " : certaines parties de la publication sont en *Open access*, les autres dépendent de l'abonnement de votre institution (il est donc possible que vous n'ayez pas accès à tout). ![Exemple d'un lien vers une publication contenant de l'open access](assets\ScienceDirect\ScienceDirect_COA.png)
 
-3. aucune mention : la publication n'est pas en *Open access*, votre établissement doit être abonné à cette ressource si vous souhaitez la consulter. ![](assets\ScienceDirect\ScienceDirect_NOA.png)
+3. aucune mention : la publication n'est pas en *Open access*, votre établissement doit être abonné à cette ressource si vous souhaitez la consulter. ![Exemple d'un lien vers un publication ne faisant pas partie de l'abonnement de l'Université](assets\ScienceDirect\ScienceDirect_NOA.png)
 
 Concernant les cas 2. et 3., vous ferez la différence entre les articles/chapitres de la publication en *Open access* et ceux qui ne le sont pas avec, pour l'*Open access* :
 
-- une mention *Open access* ![](assets\ScienceDirect\ScienceDirect_article_OA.png)
+- une mention *Open access* ![Exemple d'un article en open access](assets\ScienceDirect\ScienceDirect_article_OA.png)
 
 Et pour le reste :
 
-- une mention *Full text access* (accès grâce à l'abonnement de votre institution) ![](assets\ScienceDirect\ScienceDirect_article_NOA.png)
+- une mention *Full text access* (accès grâce à l'abonnement de votre institution) ![Exemple d'un article accessible dans le cadre de l'abonnement de votre université](assets\ScienceDirect\ScienceDirect_article_NOA.png)
 
-- une mention *Abstract only* ou *No access*![](assets\ScienceDirect\ScienceDirect_pasacces.png)![](assets\ScienceDirect\ScienceDirect_pasacces2.png)
+- une mention *Abstract only* ou *No access*![Exemple d'un article non accessible, excepté l'abstract](assets\ScienceDirect\ScienceDirect_pasacces.png)![](assets\ScienceDirect\ScienceDirect_pasacces2.png)
 
 ###### Naviguer dans une publication
 
-Pour atteindre les articles d'une publication, cliquez simplement sur le nom de celle-ci pour afficher la page d'accueil. ![](assets\ScienceDirect\ScienceDirect_publication.png)
+Pour atteindre les articles d'une publication, cliquez simplement sur le nom de celle-ci pour afficher la page d'accueil. ![Page d'accueil d'une publication dans ScienceDirect](assets\ScienceDirect\ScienceDirect_publication.png)
 Sur cette dernière, deux points à repérer :
 
 {{1}}- pour accéder à la liste des articles (dernière parution en date et toutes les archives disponibles), cliquer sur *Articles & Issues* ;
@@ -496,16 +495,16 @@ Sur cette dernière, deux points à repérer :
 Enfin, vous parvenez à un article ou à un chapitre. Le texte intégral ressemblera à ceci, et voici les informations que vous trouverez[^12] :
 
         {{3-4}}
-![](assets\ScienceDirect\ScienceDirect_structure_publication.png)
+![Capture de la page d'un article dans ScienceDirect](assets\ScienceDirect\ScienceDirect_structure_publication.png)
 
         {{4-5}}
-![](assets\ScienceDirect\ScienceDirect_publi_gauche.png)
+![Capture de la page d'un article dans ScienceDirect, sommaire mis en avant](assets\ScienceDirect\ScienceDirect_publi_gauche.png)
 
         {{5-6}}
-![](assets\ScienceDirect\ScienceDirect_publi_central.png)
+![Capture de la page d'un article dans ScienceDirect, texte mis en avant](assets\ScienceDirect\ScienceDirect_publi_central.png)
 
         {{6-7}}
-![](assets\ScienceDirect\ScienceDirect_publi_droit.png)
+![Capture de la page d'un article dans ScienceDirect, liens externes mis en avant](assets\ScienceDirect\ScienceDirect_publi_droit.png)
 
 [^12]: Il s'agit d'une mise en forme que vous rencontrerez souvent dans d'autres bases.
 
@@ -517,20 +516,20 @@ L'université met à votre disposition le service de veille fourni par LexisNexi
 
 Attention, tout comme [Lexis 360 Intelligence](https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/home), vous aurez besoin de votre compte LexisNexis pour accéder à toutes les fonctionnalités du service, reportez-vous à [cette section](#9) pour plus d'informations.
 
-![](assets\Lexis_Veille\Lexis_veille_profil.png) Lors de votre première connexion à Lexis Veille, rendez-vous directement dans **Mon profil** pour personnaliser votre veille, l'envoi ou non d'une newsletter sur votre mail ainsi que sa fréquence[^13].
+![Accès au profil dans Lexis Veille](assets\Lexis_Veille\Lexis_veille_profil.png) Lors de votre première connexion à Lexis Veille, rendez-vous directement dans **Mon profil** pour personnaliser votre veille, l'envoi ou non d'une newsletter sur votre mail ainsi que sa fréquence[^13].
 
 Vous aurez la possibilité de sélectionner parmis de très nombreuses matières celles qui vous semblent les plus pertinentes.
 
-![](assets\Lexis_Veille\Lexis_veille_perso.png)
+![Tableau de personnalisation de sa veille dans Lexis Veille](assets\Lexis_Veille\Lexis_veille_perso.png)
 
 Petit conseil d'utilisation : si vous manquez d'inspiration ou d'assurance, testez quelques termes précis de votre sujet de mémoire dans la barre de recherche en haut de page pour voir ce qu'ils vous rendent.
 
 Je cherche par exemple des informations sur l'extraction des minéraux critiques et son impact sur l'environnement, j'ai donc entré le terme *lithium*...
 
-![](assets\Lexis_Veille\Lexis_veille_rech.png)
+![Exemple d'une recherche thématique dans Lexis Veille](assets\Lexis_Veille\Lexis_veille_rech.png)
 
 ... et les résultats qui ressortent m'informent sur les matières que je pourrais sélectionner dans mon produit de veille :
-![](assets\Lexis_Veille\Lexis_veille_index.png)
+![Exemple de résultats obtenus avec une recherche thématique, sélection de mots-clés](assets\Lexis_Veille\Lexis_veille_index.png)
 
 Faites plusieurs essais pour avoir une chance de vous retrouver avec un produit de veille le plus précis et exhaustif possible.
 
@@ -540,7 +539,7 @@ Dalloz Actualité est une newsletter que vous pouvez consulter sur [dalloz-actua
 
 Dalloz Actualité ne propose pas de fonctionnalités aussi avancées que Lexis Veille, néanmoins il vous sera possible de chercher dans les éditions précédentes, par date ou par matières et mots-clés.
 
-![](assets\Dalloz_actu\Dalloz_actu.png)
+![Sélection de l'édition à consulter via un calendrier](assets\Dalloz_actu\Dalloz_actu.png)
 
 [^13]: La newsletter n'est pas obligatoire, une fois votre profil sauvegardé dans Lexis Veille, il restera tel quel et le feed se mettra à jour.
 
@@ -579,7 +578,7 @@ Les utilisateurs peuvent y télécharger, consulter et commenter des documents a
 
 #### HAL
 
-![](assets\HAL\Logo_HAL.png) [HAL (Hyper Articles en Ligne)](https://hal.science/) est une archive ouverte nationale développée par le CCSD (Centre pour la Communication Scientifique Directe, CNRS). Elle permet le dépôt, la diffusion et la consultation de travaux de recherche produits par des chercheurs, enseignants-chercheurs et étudiants français ou étrangers.
+![Logo de HAL](assets\HAL\Logo_HAL.png) [HAL (Hyper Articles en Ligne)](https://hal.science/) est une archive ouverte nationale développée par le CCSD (Centre pour la Communication Scientifique Directe, CNRS). Elle permet le dépôt, la diffusion et la consultation de travaux de recherche produits par des chercheurs, enseignants-chercheurs et étudiants français ou étrangers.
 
 La navigation au sein de cet immense entrepôt peut ne pas être très intuitive, voici quelques pistes pour vous aider à faire connaissance.
 
@@ -587,13 +586,13 @@ La navigation au sein de cet immense entrepôt peut ne pas être très intuitive
 
 Une manière particulièrement simple de faire vos recherches dans les fonds de ressources en droit est d'interroger par **Domaines** et **Sous-domaines**.
 
-> ![](assets\HAL\HAL_acc.png)**Attention** : La barre de recherche de HAL se situe en milieu de page et peut ne pas être visible en fonction de la résolution de votre écran.
+> ![Barre de recherche de HAL](assets\HAL\HAL_acc.png)**Attention** : La barre de recherche de HAL se situe en milieu de page et peut ne pas être visible en fonction de la résolution de votre écran.
 
-{{1}} Sous la barre de recherche, cliquez directement sur **Sciences de l'Homme et de la Société**![](assets\HAL\HAL_SHS_acc.png)
+{{1}} Sous la barre de recherche, cliquez directement sur **Sciences de l'Homme et de la Société**![Sélection d'un champ scientifique](assets\HAL\HAL_SHS_acc.png)
 
-{{2}} Les résultats correspondants au domaine s'affichent, mais ils sont encore bien trop nombreux. Pour les préciser encore un peu, regardez du côté de la barre de recherche qui affiche **domain_t:shs**<!-- style="color: red" --> :![](assets\HAL\HAL_domain.png)
+{{2}} Les résultats correspondants au domaine s'affichent, mais ils sont encore bien trop nombreux. Pour les préciser encore un peu, regardez du côté de la barre de recherche qui affiche **domain_t:shs**<!-- style="color: red" --> :![Préfixe SHS à utiliser dans les recherches](assets\HAL\HAL_domain.png)
 
-{{3}} Il vous suffit d'y ajouter **.droit**<!-- style="color: red" --> pour afficher tous les dépôts répertoriés dans ce domaine. Vous pouvez systématiquement faire débuter votre requête par **domain_t:shs.droit**<!-- style="color: red" --> suivi d'un ou plusieurs mots-clés. ![](assets\HAL\HAL_astuce_recherche.png)
+{{3}} Il vous suffit d'y ajouter **.droit**<!-- style="color: red" --> pour afficher tous les dépôts répertoriés dans ce domaine. Vous pouvez systématiquement faire débuter votre requête par **domain_t:shs.droit**<!-- style="color: red" --> suivi d'un ou plusieurs mots-clés. ![Préfixe SHS plus droit à utiliser dans ses recherche](assets\HAL\HAL_astuce_recherche.png)
 
 {{4}} **Question** : Testez la requête ci-dessus dans [HAL](https://hal.science/). Quel.le auteur.ice est particulièrement présent.e dans les résultats obtenus (*ne notez que son nom de famille, respectez la casse*) ?
 [[Fontanel]]
@@ -609,7 +608,7 @@ Il s'agit de Fontanel.
 Autre intérêt de HAL : les portails institutionnels. Ces derniers vous permettent de suivre les publications de votre université, et mieux encore de votre Graduate School. C'est l'un des moyens les plus commodes de se rendre compte de la recherche en train de se faire dans votre domaine.
 
 Pour accéder aux différents portails institutionnels vous pouvez faire une recherche dans votre moteur favori (*nom de l'université* + hal) ou passer par la page d'accueil et rechercher dans la liste des portails.
-![](assets\HAL\HAL_SHS.png)
+![Accès aux portails en bas de page d'accueil](assets\HAL\HAL_SHS.png)
 
 Le [**portail de l'Université Paris-Saclay**](https://universite-paris-saclay.hal.science/) vous donnera accès aux collections des différentes Graduate Schools, et particulièrement à celle de [**Droit**](https://universite-paris-saclay.hal.science/GS-DROIT), mais n'oubliez pas les collections suivantes qui peuvent vous concerner en fonction de votre sujet de recherche :
 
@@ -634,15 +633,15 @@ Les portails des différentes Graduate Schools sont tous construits de la maniè
 Outre la plateforme principale, il existe un [portail HAL dédié aux sciences humaines et sociales](https://shs.hal.science/), dans lequel il vous sera plus aisé de retrouver des ressources en droit.
 
 Tapez *HAL SHS* dans votre moteur de recherche favori pour y accéder, ou rendez-vous tout en bas de la page d'accueil du site principal pour trouver les accès aux portails plus spécialisés.
-![](assets\HAL\HAL_SHS.png)
+![Accès aux portails en bas de page d'accueil](assets\HAL\HAL_SHS.png)
 
 À partir du portail HAL SHS, vous pourrez déjà effectuer une recherche plus précise, mais vous gagnerez à préciser encore votre exploration, en passant par l'onglet **Parcourir** puis **Par Discipline**.
-![](assets\HAL\HAL_SHS2.png)
+![Préciser sa recherche avec le parcours des disciplines](assets\HAL\HAL_SHS2.png)
 
 Un diagramme en anneau s'affiche, cliquez dessus pour afficher d'autres options et choisissez **Voir les sous-domaines**. Par chance, le droit reste le domaine le plus représenté en SHS dans HAL, vous ne pourrez donc pas le rater.
 
 Sur le deuxième diagramme en anneau, cliquez dans la zone du Droit puis sur **Voir les résultats de recherche**.
-![](assets\HAL\HAL_SHS3.png)
+![Présentation du ratio de dépôts par grandes disciplines en SHS](assets\HAL\HAL_SHS3.png)
 
 ##### Exercices
 
@@ -702,7 +701,7 @@ C'est Philippe Tanchoux qui semble avoir le plus déposé dans HAL sur la questi
 
 #### Mir@bel ou comment trouver l'introuvable
 
-![](assets\Mirabel\Mirabel_logo.png) [**Mir\@bel**](https://reseau-mirabel.info/) est une plateforme collaborative qui permet de repérer et d’accéder aux revues en sciences humaines et sociales disponibles en ligne, qu’elles soient en accès ouvert, partiel ou restreint. Elle a été développée par un réseau de bibliothèques universitaires et de structures de recherche françaises.
+![Logo de Mirabel](assets\Mirabel\Mirabel_logo.png) [**Mir\@bel**](https://reseau-mirabel.info/) est une plateforme collaborative qui permet de repérer et d’accéder aux revues en sciences humaines et sociales disponibles en ligne, qu’elles soient en accès ouvert, partiel ou restreint. Elle a été développée par un réseau de bibliothèques universitaires et de structures de recherche françaises.
 
 Mir@bel permet de trouver où accéder aux revues disponibles en ligne, en vous renseignant :
 
@@ -720,16 +719,16 @@ On cherche à mettre la main sur un article de la revue *Actes Pratiques et Stra
 
 Problème :
 
-{{1-2}}Vous recherchez dans le catalogue Focus, ça n'est pas concluant... ![](assets\Mirabel\Mirabel_demo_focus.png)
+{{1-2}}Vous recherchez dans le catalogue Focus, ça n'est pas concluant... ![Recherche revue dans Focus](assets\Mirabel\Mirabel_demo_focus.png)
 
-{{2-3}}... vous testez dans Lexis 360 Intelligence sans beaucoup plus de résultat... ![](assets\Mirabel\Mirabel_demo_lexis.png)
+{{2-3}}... vous testez dans Lexis 360 Intelligence sans beaucoup plus de résultat... ![Recherche revue dans Lexis 360](assets\Mirabel\Mirabel_demo_lexis.png)
 
-{{3-4}}... sur Dalloz, toujours rien... ![](assets\Mirabel\Mirabel_demo_dalloz.png)
+{{3-4}}... sur Dalloz, toujours rien... ![Recherche revue dans Dalloz](assets\Mirabel\Mirabel_demo_dalloz.png)
 
-{{4-5}}... de guerre lasse vous tentez Google Scholar malgré votre aversion pour les GAFAM... et là, miracle !... Mais hélas non, il ne s'agit que de citations sans rapport avec le papier que vous recherchez et qui ne vous diront rien sur l'accès à la revue en elle-même, sinon qu'elle existe. ![](assets\Mirabel\Mirabel_demo_googlescholar.png)
+{{4-5}}... de guerre lasse vous tentez Google Scholar malgré votre aversion pour les GAFAM... et là, miracle !... Mais hélas non, il ne s'agit que de citations sans rapport avec le papier que vous recherchez et qui ne vous diront rien sur l'accès à la revue en elle-même, sinon qu'elle existe. ![Recherche revue dans Google Scholar](assets\Mirabel\Mirabel_demo_googlescholar.png)
 
 {{5}}Seule solution : rendez-vous sur Mir@bel, entrez le nom de la revue...
-![](assets\Mirabel\Mirabel_recherche.png)
+![Recherche revue dans Mirable](assets\Mirabel\Mirabel_recherche.png)
 
       {{6}}... et miracle !
       <iframe
@@ -742,7 +741,7 @@ Problème :
 
 #### OpenAlex
 
-![](assets\OpenAlex\openalex_logo.png)[OpenAlex](https://openalex.org/) est un catalogue ouvert du système mondial de la recherche scientifique, développé par l’organisation à but non lucratif OurResearch[^14].
+![Logo OpenAlex](assets\OpenAlex\openalex_logo.png)[OpenAlex](https://openalex.org/) est un catalogue ouvert du système mondial de la recherche scientifique, développé par l’organisation à but non lucratif OurResearch[^14].
 
 La base se structure autour des travaux scientifiques (ou *works* : articles, livres, chapitres, thèses, bases de données), elle en indexe, à ce jour plus de 260 millions[^15]. Elle couvre aussi un très large éventail de revues en Open Access[^16].
 
@@ -790,21 +789,21 @@ Voici la structure d'une page de résultats d'OpenAlex :
 
 Vous avez lancé la recherche **'rare earth' (mining OR extraction OR production)**<!-- style="color: red" -->, et obtenu un peu plus de 15 000 résultats.
 
-![](assets\OpenAlex\domain_field_subfield.png)En effet une recherche simple fait remonter trop de résultats, il est donc nécessaire d'adopter une démarche méthodique pour vous en sortir. Cela implique de jouer sur l'organisation thématique de la base, que l'on peut résumer par cette pyramide.
+![Organisation OpenAlex Domains > Fields > Subfields](assets\OpenAlex\domain_field_subfield.png)En effet une recherche simple fait remonter trop de résultats, il est donc nécessaire d'adopter une démarche méthodique pour vous en sortir. Cela implique de jouer sur l'organisation thématique de la base, que l'on peut résumer par cette pyramide.
 
 Vous souhaitez naturellement affiner et ne conserver que ceux qui seront les plus pertinents.
 
 > Ne vous laissez pas séduire par la zone des *Stats* (la zone 4), **n'y touchez pas**.
 
-Positionnez-vous dans la zone 2. Pour le moment, une seule ligne apparaît : celle de votre requête. Nous allons l'enrichir en cliquant sur le **+**. ![](assets\OpenAlex\openalex_exemple_1.png)
+Positionnez-vous dans la zone 2. Pour le moment, une seule ligne apparaît : celle de votre requête. Nous allons l'enrichir en cliquant sur le **+**. ![Exemple d'une recherche dans OpenAlex, phase requête](assets\OpenAlex\openalex_exemple_1.png)
 
 Pour orienter thématiquement votre recherche dans vous perdre dans l'élaboration d'une requête complexe, procédez comme suit :
 
-![](assets\OpenAlex\openalex_wf_2.png)1. Activez le filtre **Domain** et sélectionnez le plus pertinent (dans notre cas, on veut orienter nos résultats de façon à isoler un traitement juridique de la question des terres rares, on va donc se diriger vers le domaine **Social Sciences**) ;
+![Exemple d'une recherche dans OpenAlex, phase filtre Domain](assets\OpenAlex\openalex_wf_2.png)1. Activez le filtre **Domain** et sélectionnez le plus pertinent (dans notre cas, on veut orienter nos résultats de façon à isoler un traitement juridique de la question des terres rares, on va donc se diriger vers le domaine **Social Sciences**) ;
 
-![](assets\OpenAlex\openalex_wf_3.png)2. Activez ensuite le filtre **Field**, plus précis que **Domain** (là encore, on est conduit à choisir Social Sciences comme **field** le plus pertinent) ;
+![Exemple d'une recherche dans OpenAlex, phase filtre Field](assets\OpenAlex\openalex_wf_3.png)2. Activez ensuite le filtre **Field**, plus précis que **Domain** (là encore, on est conduit à choisir Social Sciences comme **field** le plus pertinent) ;
 
-![](assets\OpenAlex\openalex_wf_4.png)3. Enfin, activez le filtre **Subfield**, les termes **Law** ou **Political Science and International Relations** ou autres peuvent être tout à fait pertinents.
+![Exemple d'une recherche dans OpenAlex, phase filtre Subfield](assets\OpenAlex\openalex_wf_4.png)3. Enfin, activez le filtre **Subfield**, les termes **Law** ou **Political Science and International Relations** ou autres peuvent être tout à fait pertinents.
 
 Nous avons ainsi réduit progressivement le nombre de résultats à quelque chose d'exploitable, avec une confiance raisonnable dans la pertinence de ce qui nous est proposé.
 
@@ -812,7 +811,7 @@ Notez qu'il est possible de filtrer directement via les **Subfield**s, mais ils 
 
 ### Rechercher dans la presse en ligne
 
-![](assets\Europresse\Europresse_acc2.png)
+![Page d'accueil Europresse](assets\Europresse\Europresse_acc2.png)
 
 Pour un accès direct à la page d'accueil de la presse en ligne : [**cliquez ici**](https://www.bibliotheques.universite-paris-saclay.fr/presse-en-ligne)
 
@@ -822,15 +821,15 @@ La base [Europresse](https://nouveau-europresse-com.ezproxy.universite-paris-sac
 
 Il s'agit d'une base payante, il est donc nécessaire de passer par [le site web des BU](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources/ressources-24h/24) ou par le catalogue [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?institution=33UDPS&vid=33UDPS_VU1&tab=default_tab&search_scope=default_scope&mode=Basic&displayMode=full&bulkSize=50&highlight=true&dum=true&query=any,contains,europresse&displayField=all&pcAvailabilityMode=false&choix_index=tout) pour y accéder sans encombre.
 
-![](assets\Europresse\Europresse_acc.png)
+![Page d'accueil Europresse](assets\Europresse\Europresse_acc.png)
 
 La plateforme comporte une grande variété de types de contenus, mais nous allons nous concentrer sur la presse, avec trois exemples d'utilisation pour apprendre à connaître la plateforme.
 
 Pour les exemples qui vont suivre, nous utiliserons la version dite **classique** d'Europresse avec quelques options intéressantes. Celle-ci n'étant pas activée par défaut cliquez, en haut à droite de la page sur **Etudiant** puis **Version classique**.
-![](assets\Europresse\Europressevclassique.png)
+![Activation de la version classique](assets\Europresse\Europressevclassique.png)
 
 Le passage à la **version classique** fait apparaitre de nouvelles options en plus de la recherche simple.
-![](assets\Europresse\Europressevclass_option.png)
+![Version classique : plus d'options de recherche](assets\Europresse\Europressevclass_option.png)
 
 ##### La recherche thématique simple
 
@@ -1105,11 +1104,42 @@ Le prompt doit être construit de manière précise, en tenant compte des capaci
 | Élément de prompt | Pourquoi | Exemple d'utilisation pour générer un champ sémantique | Exemple d'utilisation pour générer une bibliographie |
 |-------------------|----------|--------------------------------------------------------|------------------------------------------------------|
 | **1. Rôle de l’agent** | Le rôle définit le niveau d’expertise attendu et oriente le vocabulaire ainsi que la posture de l’IA, garantissant une réponse adaptée au domaine étudié. | « Tu es un juriste spécialisé en droit du patrimoine dans une collectivité territoiriale. » | « Tu es bibliothécaire dans une bibliothèque universitaire de droit. » |
-| **2. Tâche générale de l’agent** | Indiquer précisément la nature de la tâche évite les interprétations incorrectes et améliore la cohérence de la production. | « Ta tâche est d’analyser un concept juridique et d’identifier l’ensemble de ses notions associées. » | « Ta tâche est de sélectionner et de présenter des références académiques pertinentes selon les normes APA. » |
+| **2. Tâche générale de l’agent** | Indiquer précisément la nature de la tâche évite les interprétations incorrectes et améliore la cohérence de la production. | « Ta tâche est d’analyser un concept juridique et d’identifier l’ensemble de ses notions associées. » | « Ta tâche est de sélectionner et de présenter des références académiques pertinentes selon des normes bibliographiques strictes. » |
 | **3. Demande précise à l’agent** | Une demande explicite permet d’obtenir un résultat ciblé, sans hors-sujet ni ajout inutile. | « Dégage le champ sémantique complet du sujet suivant : *les labels en droit du patrimoine*. » | « Produis une bibliographie en style APA portant sur le sujet suivant : *l’exploitation des terres rares*. » |
 | **4. Format(s) souhaité(s)** | Le format impose une structure stable et permet d’obtenir des résultats directement exploitables dans un travail académique. | « Présente les résultats sous forme d’un tableau Markdown : catégorie / terme / définition courte. » | « Présente les références sous forme d’une liste APA, une référence par ligne, en Markdown. » |
 | **5. Contraintes de styles** | Ces contraintes garantissent la conformité académique, un niveau de langue adapté et l’absence d’éléments non désirés. | « Utilise un style académique concis, sans exemples, sans paraphrase, et sans ajout contextuel. » | « Utilise un style académique, respecte strictement les normes APA, n’ajoute aucun commentaire explicatif. » |
 | **6. Ce que l’agent ne doit surtout pas faire** | Délimiter les interdictions réduit les risques d’erreurs fréquentes : invention, extrapolation, confusion ou hors-sujet. | « Ne crée aucun terme fictif, ne traduis aucun élément, et n’introduis aucune notion qui ne relève pas du droit du patrimoine. » | « N’invente aucune source, n’utilise aucun style autre que l’APA, et n’ajoute aucune référence non vérifiable. » |
+
+**Génération d'un champ sémantique :**
+
+" **Tu es** un juriste spécialisé en droit du patrimoine dans une collectivité territoiriale.
+
+**Ta tâche** est d’analyser un concept juridique et d’identifier l’ensemble de ses notions associées.
+
+**Dégage** le champ sémantique complet du sujet suivant : *les labels en droit du patrimoine*.
+
+**Présente** les résultats sous forme d’un tableau Markdown : catégorie / terme / définition courte.
+
+**Utilise** un style académique concis, sans exemples, sans paraphrase, et sans ajout contextuel.
+
+**Ne** crée aucun terme fictif, **ne** traduis aucun élément, et n’introduis aucune notion qui ne relève pas du droit du patrimoine. "
+
+---
+
+**Génération d'une bibliographie :**
+
+" **Tu es** bibliothécaire dans une bibliothèque universitaire de droit.
+
+**Ta tâche** est de sélectionner et de présenter des références académiques pertinentes selon des normes bibliographiques strictes.
+
+**Produis** une bibliographie en style APA portant sur le sujet suivant : *l’exploitation des terres rares*.
+
+**Présente** les références sous forme d’une liste APA, une référence par ligne, en Markdown.
+
+**Utilise** un style académique, respecte strictement les normes APA, **n**’ajoute aucun commentaire explicatif.
+
+**N**’invente aucune source, **n**’utilise aucun style autre que l’APA, et **n**’ajoute aucune référence non vérifiable. "
+
 
 ### Rester vigilant
 
