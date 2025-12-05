@@ -810,23 +810,6 @@ Nous avons ainsi réduit progressivement le nombre de résultats à quelque chos
 
 Notez qu'il est possible de filtrer directement via les **Subfield**s, mais ils sont nombreux et vous risquez de vous y perdre. Dans un premier temps, je vous conseille de procéder progressivement.
 
-#### Exercices
-
-**QUESTION 1**
-
-Jusqu'en 2024 compris, combien de travaux de Benoît Blottin sont référencés dans Open Alex ?
-
-[[26]]
-****************
-Ici, pas de piège, si vous entrez **Benoît Blottin** dans la barre de recherche principale, OpenAlex vous remonte directement les 26 références dont il est (co-)auteur.
-
-Concernant la limitation de la période de temps, il peut être nécessaire d'ajouter le filtre Years (en cliquant sur le gros + en dessous de votre recherche) et d'entrer 2015-2024.
-****************
-
-**QUESTION 2**
-
-Benoît Blottin a aussi publié dans le domaines des sciences de la santé. Trouvez le titre de l'une des références présentes dans OpenAlex.
-
 ### Rechercher dans la presse en ligne
 
 ![](assets\Europresse\Europresse_acc2.png)
@@ -1009,9 +992,34 @@ Vous pouvez demander efficacement à une IAg de :
 - l'imagination d'idées originales
 ![](assets\IA\IA_oui_non.png)
 
-### Principes élémentaires de fonctionnement des IAg
+> L'illustration est tirée de la formation : DOCQ, Françoise, POLAIN, Céline, WARNIER, Léticia et WOUTERS, Pascale, 2023. ChatGPT et les outils d’IA : quels enjeux sur les mémoires en 2023 ? [en ligne]. Formation. UCLouvain. 17 mars 2023. Disponible à l’adresse : https://oer.uclouvain.be/jspui/bitstream/20.500.12279/901/1/Formation_IA_memoires_2023-03-17.pdf [Consulté le 5 décembre 2025]. 
 
-![](assets\IA\IAg_fonct.png)
+### Principes élémentaires de fonctionnement des IAg de textes
+
+Quelques mots sur les principes de bases à connître au sujet du fonctionnement des IA génératives de textes (les IA génératives d'images fonctionnent sur d'autres principes) :
+
+![](assets\IA\Fonctionnement_IA_g_textuelle.png)Une IAg de texte c'est avant tout un modèle, c'est-à-dire un ensemble gigantesque d'instructions, les **algorithmes**. On entraîne ce modèle sur un ensemble non moins gigantesque de **données textuelles** issues pour une grande part d'Internet. On va y trouver l'intégralité de Wikipédia, les interactions humaines sur les réseaux sociaux, les codes sur Github, les blogs, etc.
+
+> Ces données n'ont pas toutes, loin de là, été obtenues de manière régulière. Elles sont de plus fortement biaisées (surreprésentation de la langue anglaise). Ces biais se retrouvent encodés dans les modèles que nous utilisons.
+
+Le but de cet entraînement, c'est d'avoir un modèle capable de prédire, à partir d'une séquence linguistique incomplète, la suite de la séquence d'une manière qui ne dépareillerait pas avec le contenu des données textuelles de l'entraînement. Cet entraînement n'a pas besoin de la supervisation d'un humain, le modèle se corrige seul, c'est ce qu'on appelle, l'**entraînement auto-supervisé** (ou non supervisé).
+
+Il s'agit de la première phase de l'entraînement d'un IAg textuelle : la phase de **pretraining**.
+
+**En gros, le fondement d'une IAg textuelle, c'est d'être un compléteur de phrase.**
+
+![](assets\IA\Fonctionnement_IA_g_textuelle2.png)
+
+Une subtilité tout de même : le modèle complète la séquence linguistique sur une base probabiliste : il calcul la suite plus plausible eu égard à ses connaissances antérieures, opère un classement et sélectionne, dans la majorité des cas, la réponse au taux de probabilité le plus élevé.
+
+Vous pouvez tester et voir en direct le fonctionnement de plusieurs IAg textuelles sur le site [Vittascience](https://fr.vittascience.com/ia/text?localId=loc645316f08204a0) (sans nécessité de création de compte).
+
+Il ne s'agit que de la première phase d'entraînement à l'issue de laquelle on obtient un **modèle de fondation** qu'il faut ensuite entraîner à tenir des conversations respectueuses et utiles avec des humains.
+
+Plusieurs phases d'entraînement supplémentaires (**fine-tuning**) sont alors nécessaires pour aboutir aux différents modèles que nous connaissons aujourd'hui.
+
+> Les illustrations de cette page sont issues du cours d'Aline Bouchard : BOUCHARD, Aline, 2025. Savoir utiliser ChatGPT et d’autres IA génératives pour la recherche documentaire en master [en ligne]. Formation. URFIST de Paris - Ecole nationale des chartes - PSL. 11 avril 2025. Disponible à l’adresse : https://www.enssib.fr/bibliotheque-numerique/documents/73173-savoir-utiliser-chatgpt-et-d-autres-ia-generatives-pour-la-recherche-documentaire-en-master.pdf [Consulté le 5 décembre 2025]. 
+
 
 ### Un panorama des outils disponibles pour la recherche documentaire
 
