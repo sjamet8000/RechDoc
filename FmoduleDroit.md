@@ -1143,6 +1143,8 @@ Le prompt doit être construit de manière précise, en tenant compte des capaci
 
 ### Rester vigilant
 
+Gardez en tête que d'un point de vue fondamental, les IAg textuelles sont des outils chargés d'émuler des conversations avec des êtres humain. Les notions de vérités, de réalité, de mensonge sont des notions qui ne leur appartiennent pas, c'est à vous de rester prudent.e face à ce qu'une AIg textuelle (ou autre) vous raconte.
+
 !?[UNIGE - Hors Classe #5 -- Intelligence artificielle générative](https://youtu.be/YbuB_TU9ETE?si=RQ3qJOe_pZ-7AbQU)
 
 ### Trois repères méthodologiques pour un usage fiable de l’IA générative
