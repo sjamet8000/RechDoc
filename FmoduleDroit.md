@@ -1174,7 +1174,7 @@ Sans méthode claire, les erreurs et les biais se propagent facilement, au détr
 
 Dans tout travail universitaire, il est indispensable de citer ses sources correctement et d’y inclure à la fin une bibliographie comprenant éventuellement une webographie qui récapitule l’ensemble des documents que vous avez consulté pour traiter votre sujet. L’origine des informations issues de vos lectures et utilisées dans votre devoir universitaire doit être indiquée précisément.
 
-### Pourquoi citer c'est important (quelques rappels) ?
+### Pourquoi citer c'est important (rappels) ?
 
 ![Marteau jurisprudence](assets\Citer\Marteau.png)**Premièrement** : le plagiat est un délit ([Article L 335-3 du code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020740345/)), ce qui signifie qu’il est sanctionné de plusieurs manières :
 
