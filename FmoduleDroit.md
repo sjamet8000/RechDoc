@@ -995,7 +995,7 @@ Vous pouvez demander efficacement à une IAg de :
 
 ### Principes élémentaires de fonctionnement des IAg de textes
 
-Quelques mots sur les principes de bases à connître au sujet du fonctionnement des IA génératives de textes (les IA génératives d'images fonctionnent sur d'autres principes) :
+Quelques mots sur les principes de bases à connaître au sujet du fonctionnement des IA génératives de textes (les IA génératives d'images fonctionnent sur d'autres principes) :
 
 ![](assets\IA\Fonctionnement_IA_g_textuelle.png)Une IAg de texte c'est avant tout un modèle, c'est-à-dire un ensemble gigantesque d'instructions, les **algorithmes**. On entraîne ce modèle sur un ensemble non moins gigantesque de **données textuelles** issues pour une grande part d'Internet. On va y trouver l'intégralité de Wikipédia, les interactions humaines sur les réseaux sociaux, les codes sur Github, les blogs, etc.
 
