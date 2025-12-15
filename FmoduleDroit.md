@@ -136,8 +136,6 @@ Si vous souhaitez vous rendre sur la base Dalloz Enseignant, entrez " Dalloz " d
 
 ### Un panorama des ressources en droit, économie, management
 
-***à terminer***<!-- style="color: red" -->
-
 Depuis la page des [Ressources 24h/24](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources/ressources-24h/24), nous pouvons faire un petit tour d'horizon des différentes bases auxquelles vous avez accès.
 
 Du côté du Droit :
@@ -1220,7 +1218,7 @@ Dans tout travail universitaire, il est indispensable de citer ses sources corre
 
 - **Pédagogique** : avec annulation de la note, un 0, etc. ;
 - **Disciplinaire** : annulation du partiel, exclusion de tout établissement de l’enseignement supérieur pour une durée qui peut aller jusqu’à 5 ans avec interdiction de passer des examens ou des concours ;
-- **Pénal** (si vous y allez fort) : dommages et intérêts, 150 000€ d’amende et jusqu’à deux ans de prison.
+- **Pénal** (si vous y allez fort) : dommages et intérêts, 300 000€ d’amende et jusqu’à trois ans de prison.
 
 ---
 
