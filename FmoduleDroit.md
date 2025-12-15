@@ -86,7 +86,7 @@ Si vous n'avez pas ces deux informations en votre possession, rendez-vous sur
 ![Récupérer son mot de passe perdu avec Adonis](assets\Acces_RE\Adonis_mdp.png) Récupérer votre **mot de passe** en cliquant sur **Mon compte** > **[Mot de passe perdu](https://adonis.universite-paris-saclay.fr/annuaire/compte/perte_mdp/)**
 
 
-#### CAS et wayf !?
+### CAS et wayf !?
 
 Si vous venez d'arriver à l'Université Paris-Saclay, vous n'avez peut-être pas encore eu besoin d'accéder à l'environnement numérique. Avec votre mail universitaire et de votre mot de passe, vous allez pouvoir accéder à votre messagerie, aux réseaux wifis Eduroam et Eduspot, et, bien sûr aux ressources électroniques.
 
@@ -97,7 +97,7 @@ Si vous venez d'arriver à l'Université Paris-Saclay, vous n'avez peut-être pa
 
 [^1]: Sans faire de design institutionnel, sachez que de nombreux services, en particulier les ressources électroniques, sont mutualisés et proposés par plusieurs établissements dont Paris-Saclay, ce qui nécessite pour vous de spécifier, lorsque vous demandez un accès à ce genre de service, votre établissement de rattachement.
 
-#### Via le site web des BU
+### Via le site web des BU
 
 Maintenant que vous êtes parfaitement équipé.e, partons à la découverte des ressources mises à votre disposition.
 
@@ -109,7 +109,7 @@ Vous pouvez atteindre la liste des ressources disponibles en ligne en cliquant s
 Les ressources sont classées par grands domaines scientifiques. Les ressources en [Sciences humaines et sociales](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-sciences-humaines-et-sociales), en [Economie-Gestion](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-economie-et-gestion) et bien entendu, en [Droit](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-droit), devraient tout particulièrement vous intéresser, mais n'oubliez pas d'aller faire un tour dans notre [sélection de presse](https://www.bibliotheques.universite-paris-saclay.fr/presse-en-ligne) !
 ![Page de sélection des ressources en ligne](assets\Acces_RE\BU_RE.png)
 
-#### Via le catalogue des BU
+### Via le catalogue des BU
 
 Un autre moyen tout aussi efficace vous permettra d'atteindre les ressources en ligne, mais pas seulement, le catalogue des bibliothèques, [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?vid=33UDPS_VU1&lang=fr_FR)[^2].
 
@@ -140,46 +140,44 @@ Depuis la page des [Ressources 24h/24](https://www.bibliotheques.universite-pari
 
 Du côté du Droit :
 ------------
-|Plateforme|Editeur|Contenus|
-|:----|:--------------:|:--------:|
-|[Dalloz Enseignant](https://www-dalloz-fr.ezproxy.universite-paris-saclay.fr/enseignants)|Dalloz|Codes, revues juridiques, fiche d'orientation, ouvrages, décisions de justice|
-|[Dalloz Bibliothèque Numérique](https://bibliotheque-lefebvre-dalloz-fr.ezproxy.universite-paris-saclay.fr/)|Dalloz|Codes, précis, mémentos, hypercours|
-|[Elnet](https://www-elnet-fr.ezproxy.universite-paris-saclay.fr/)|Editions Législatives|Dictionnaire permanent|
-|[Stradalex](https://www-stradalex-eu.ezproxy.universite-paris-saclay.fr/fr)|Buylant et Larcier|Revues juridiques et ouvrages spécialisés en droit de l'UE|
-|[Navis](https://www-efl-fr.ezproxy.universite-paris-saclay.fr/)|Francis Lefebvre|Ouvrages et revues en droit fiscal, droit social, droit des affaires et comptabilité-gestion|
-|[Lexis 360 Intelligence](https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/home)|LexisNexis|Codes, revues juridiques, veille juridique, encyclopédie en droit français et européen|
-|[Lextenso](https://www-labase-lextenso-fr.ezproxy.universite-paris-saclay.fr/)|LGDJ|Ouvrages, revues, codes, jurisprudence|
-|[Lexbase](https://www-lexbase-fr.ezproxy.universite-paris-saclay.fr/)|Lexbase|Revues, ouvrages en droit social, droit fiscal et droit des affaires, codes et autres sources officielles|
-|[Lamyline](https://www-lamyline-fr.ezproxy.universite-paris-saclay.fr/Content/Search.aspx?params=H4sIAAAAAAAEAMssdiwoKMovS02xNTIwMjWwNDYwNDUyVHNxDHG0rTQoj4py8zIvCi-qyPV0dPKqKverzAMAtSP6KTMAAAA=WKE)|Editions Lamy|Ouvrages et revues en droit social, droit civil, droit des transports, droit des affaires, droit fiscal|
-|[LeDoctrinal]()||Données bibliographiques|
+| Plateforme                                                                                                                                                                                            | Éditeur               | Contenus                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------ |
+| [Dalloz Enseignant](https://www-dalloz-fr.ezproxy.universite-paris-saclay.fr/enseignants)                                                                                                             | Dalloz                | Codes, revues juridiques, fiches d'orientation, ouvrages, décisions de justice                   |
+| [Dalloz Bibliothèque Numérique](https://bibliotheque-lefebvre-dalloz-fr.ezproxy.universite-paris-saclay.fr/)                                                                                          | Dalloz                | Codes, précis, mémentos, hypercours (Bibliothèque d'ouvrages)                                    |
+| [Elnet](https://www-elnet-fr.ezproxy.universite-paris-saclay.fr/)                                                                                                                                     | Éditions Législatives | Dictionnaire permanent, guides pratiques et revues spécialisées                                  |
+| [Stradalex](https://www-stradalex-eu.ezproxy.universite-paris-saclay.fr/fr)                                                                                                                           | Larcier / Bruylant    | Revues juridiques et ouvrages spécialisés en droit belge et droit de l'UE                        |
+| [Navis](https://www-efl-fr.ezproxy.universite-paris-saclay.fr/)                                                                                                                                       | Francis Lefebvre      | Mémentos, ouvrages et revues en droit fiscal, social, affaires et comptabilité                   |
+| [Lexis 360 Intelligence](https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/home)                                                                                                 | LexisNexis            | Encyclopédies (JurisClasseur), revues, codes, jurisprudence et fiches pratiques                  |
+| [Lextenso](https://www-labase-lextenso-fr.ezproxy.universite-paris-saclay.fr/)                                                                                                                        | LGDJ / Lextenso       | Packs de revues (Defrénois, Gazette du Palais...), jurisprudence et codes                        |
+| [Lexbase](https://www-lexbase-fr.ezproxy.universite-paris-saclay.fr/)                                                                                                                                 | Lexbase               | Revues, ouvrages en droit social, fiscal et affaires, codes et sources officielles               |
+| [Lamyline](https://www-lamyline-fr.ezproxy.universite-paris-saclay.fr/Content/Search.aspx?params=H4sIAAAAAAAEAMssdiwoKMovS02xNTIwMjWwNDYwNDUyVHNxDHG0rTQoj4py8zIvCi-qyPV0dPKqKverzAMAtSP6KTMAAAA=WKE) | Éditions Lamy         | Ouvrages et revues officiels Lamy (Social, Civil, Affaires, Transport)                           |
+| [LeDoctrinal](https://www-doctrinal-fr.ezproxy.universite-paris-saclay.fr/)                                                                                                                           | Lexbase               | Méta-moteur de recherche bibliographique (articles de revues), jurisprudence et textes officiels |
+
 
 Du côté de l'Economie et du Management :
 -----------
-|Plateforme|Editeur|Contenus|
-|:----|:--------------:|:-----:|
-|[Business Source Ultimate](https://research-ebsco-com.ezproxy.universite-paris-saclay.fr/c/377pni/search/advanced/filters?autocorrect=n&db=bsu)||Revues, articles, e-books|
-|[Statista](https://www-statista-com.ezproxy.universite-paris-saclay.fr/)||Données statistiques|
+| Plateforme                                                                                                                                         | Éditeur      | Contenus                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------- |
+| [Business Source Ultimate](http://ezproxy.universite-paris-saclay.fr/login?url=https://research.ebsco.com/c/377pni/search/advanced/filters?db=bsu) | EBSCO        | Revues académiques (Harvard Business Review...), rapports économiques, analyses SWOT et profils d'entreprises |
+| [Statista](https://www-statista-com.ezproxy.universite-paris-saclay.fr/)                                                                           | Statista     | Portail de statistiques, études de marché, infographies et prévisions sectorielles                            |
+| [ENI Informatique](https://ezproxy.universite-paris-saclay.fr/login?url=https://www.eni-training.com/cs/u-psud-ip)                                 | Éditions ENI | Bibliothèque numérique en informatique : livres, vidéos et cours (bureautique, système, dév, gestion)         |
+| Xerfi Essential                                                                                                                                    | Xerfi        | Études sectorielles (France et Monde), analyses de groupes (Corporate) et conjoncture économique              |
+
 Plus généralement en SHS, on vous conseille :
-------------
-|Bases|Type de contenus|Force|
-|:----|:--------------:|:-----:|
-|[Cairn](https://shs-cairn-info.ezproxy.universite-paris-saclay.fr/)|Revues & e-books|xxxx|
-|[OpenEdition Books](https://books-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue)|e-books|xxxx|
-|[OpenEdition Revues](https://www-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue-journals)|Revues|xxxx|
+----------
+| Plateforme                                                                                                | Éditeur                                                                                         | Contenus                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [Cairn.info](https://shs-cairn-info.ezproxy.universite-paris-saclay.fr/)                                  | Collectif d'éditeurs (Belin, De Boeck, La Découverte, Érès...)                                  | Revues francophones, e-books (collections "Que sais-je ?"), magazines et ouvrages de référence en SHS.                       |
+| [OpenEdition Books](https://books-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue)           | OpenEdition Center                                                                              | Ouvrages de recherche en SHS (essentiellement francophones), majorité des titres en accès ouvert (HTML).                     |
+| [OpenEdition Journals](https://www-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue-journals) | OpenEdition Center                                                                              | Revues scientifiques électroniques en SHS (francophones et autres), accès ouvert (HTML) et formats téléchargeables.          |
+| JSTOR                                                                                                     | Ithaka                                                                                          | Archives numériques d'articles de revues scientifiques internationales (rétrospectives), e-books et sources primaires.       |
+| [Isidore](https://isidore.science/)                                                                       | Huma-Num / CNRS                                                                                 | Moteur de recherche moissonnant des millions de documents de la recherche en SHS (Cairn, Persée, etc.) pour un accès unifié. |
+| [Persée](https://info.persee.fr/)                                                                         | Université de Lyon, ENS de Lyon, CNRS, Ministère de l'Enseignement supérieur et de la Recherche | Portail de revues scientifiques patrimoniales (fonds rétrospectif) en libre accès, principalement en SHS.                    |
+
+
 
 ## Guide des ressources en ligne
 
-***brise-glace à terminer, intégration H5P OK***<!-- style="color: red" -->
-
-Brise-glace sur quelle ressources est quoi ? Archive ouverte ou accès non libre
-
-<iframe
-  src="https://sjamet8000.github.io/RechDoc/activites/TestH5P.html"
-  width="100%"
-  height="600"
-  style="border:none;"
-  allowfullscreen
-></iframe>
 
 ### La recherche documentaire juridique : les bonnes pratiques
 
@@ -279,6 +277,44 @@ Sur cet exemple :
 **Attention** : ne surchargez pas trop les lignes " Tous ces termes " et " Cette expression exacte " au risque de vous retrouver avec un résultat totalement silencieux.
 
 [^5]: Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
+
+##### Quelques exercices
+
+Sur Strada Lex Europe, vous souhaitez faire remonter tous les articles de la revue **RAE** (voir Ref-Lex pour le nom complet) de l'année **2016**. 
+
+Quelle requête proposez-vous ?
+
+[[RAE 2016]]
+*****************
+Ici, aucun piège, vous savez que le moteur de recherche de Strada Lex Europe reconnait les abréviations de tout genre, il vous suffit donc d'entrer la requête suivante :
+
+**RAE 2016**
+
+Pour pouvoir rechercher dans toutes les sorties de l'année 2016 en même temps.
+****************
+
+Qui est l'auteur.ice de la citation en exergue au début de l'article de doctrine que Benoît Blottin a publié en 2016 dans RAE ?
+
+Donner son nom **complet**.
+
+[[Bernard Le Bovier De Fontenelle]]
+*****************
+Comment se sortir de cette question tordue pleine de pièges ?
+
+Avec la requête **RAE 2016**, tous les articles de l'année 2016 parus dans la Revue des affaires européennes vous sont remontés (soit 60 articles).
+
+A partir de là, pour retrouver le bon article, vous pouviez fouiller "à la main", en faisant défiler les résultats jusqu'à retrouver : *Le calcul des amendes en droit de la concurrence : vers une véritable science ?* de Benoît Blottin, qui était le papier signalé dans OpenAlex.
+
+Mais on pouvait aller plus vite et activer le filtre Auteurs, entrer "Blottin" et... vous retrouver avec deux Blottin ! "Benoît Blottin" et "B. Blottin". Que faire alors ?...
+
+Par acquit de conscience, sélectionnez les deux occurrences pour trouver directement l'article cherché, plus un autre : *Le comportement anticoncurrentiel de la filiale en contradiction flagrante avec les instructions de la société mère*. Ce n'est pas celui que nous cherchons.
+
+Cliquez sur le titre de l'article que vous souhaitez consulter, seul Le calcul des amendes... contenait une citation en exergue, dont l'auteur est bien **Bernard Le Bovier De Fontenelle**.
+
+---
+
+**A retenir** : les doublons d'auteur.ices, comme c'est le cas ici, sont très fréquents dans la plupart des plateformes éditoriales et bases en open access que vous allez visiter. La seule solution : faire les vérifications vous-mêmes, et gardez votre sens logique : les probabilités que deux homonymes aient publié la même année dans la même revue sur le même domaine (droit de la concurrence) est généralement plus faible qu'une erreur de dédoublonnage.
+******************
 
 #### La recherche de données bibliographiques avec LeDoctrinal
 
@@ -396,6 +432,33 @@ Avec LeDoctrinal, on peut distinguer deux types de métadonnées :
 ![Notice bibliographique avec métadonnées](assets\LeDoctrinal\LeDoctrinal_notice_biblio_meta2.png)
 
 Avec ces deux types d'information, vous pouvez vous faire une première idée de la pertinence d'un document, et savoir où il se trouve (dans quelle bibliothèque, ou dans quelle plateforme éditoriale).
+
+##### Quelques questions
+
+**QUESTION 1**
+
+Vous souhaitez consulter la doctrine concernant **réforme** du **code minier**, sujet largement abordé par la *Gazette des communes*. Quelle requête proposeriez-vous ?
+
+[[réforme code minier]]
+*************************
+Ici, pas de piège, la requête la plus simple sera la meilleure : *réforme code minier* sera amplement suffisant, elle vous remontera une vingtaine de résultats. 
+
+Une variante plus précise fonctionne aussi : *réforme "code minier"* qui vous remonte une quinzaine de résultats, avec moins de bruit.
+************************
+
+**QUESTION 2**
+
+Lancez la recherche sur la reforme du code minier dans LeDoctrinal. Quelle revue semble avoir le plus publié sur la question ? 
+
+<!-- data-randomize -->
+- [(X)] Droit de l'environnement
+- [( )] JCP N
+- [( )] JCP G
+- [( )] RDAI
+- [( )] Revue juridique de l'environnement
+************************
+Il est assez simple, en parcourant les résultats de constater que Droit de l'environnement est très présente. Constatation confirmée par un rapide coup d’œil dans les facettes, rubrique Filtrer par revues.
+***********************
 
 #### Bonus : Les guillemets et la troncature
 
@@ -737,6 +800,59 @@ Problème :
         allowfullscreen
       ></iframe>
 
+##### Quelques questions
+
+**QUESTION 1**
+
+Qui édite la revue trouvée dans LeDoctrinal, Droit de l'environnement ?
+
+[[Editions Cogiterra]]
+*******************
+L'éditeur de *Droit de l'environnement* se nomme Cogiterra. L'information est présente dans LeDoctrinal sur la notice de la revue, ainsi que sur la plateforme Mir@bel, avec quelques informations supplémentaires.
+*******************
+
+**QUESTION 2**
+
+Quel est l'éditeur de *La revue des affaires européennes* ?
+
+[[Editions Larcier]]
+*********************
+Vous le sentiez venir (espérons-le), il fallait vous rendre sur la plateforme Mir@bel, entrer le nom de la revue et aboutir tout simplement sur la notice qui vous indiquait deux éditeurs : Bruylant et les Éditions Larcier.
+
+Pour l'exercice, les deux réponses étaient valables : ces deux éditeurs appartiennent au même groupe : le Groupe Larcier.
+
+Vous pouviez directement passer par votre moteur de recherche favori pour retrouver l'information, mais, entre nous, c'est quand même moins drôle.
+*******************
+
+**QUESTION 3**
+
+Selon Mir@bel, quelle base faut-il consulter pour avoir accès au texte intégral de l'article que Benoît Blottin a publié dans *La revue des affaires européennes* en 2016 ?
+
+- [( )] Google Scholar
+- [(X)] Strada Lex Europe
+- [( )] Dialnet
+- [( )] Jurisquare
+******************
+C'est bien sur Strada Lex Europe.
+
+La réponse se trouve sur la notice de la revue, rubrique Accès en ligne.
+
+Attention, Mir@bel donne plusieurs voies d'accès, mais en précisant bien quel type d'accès est fourni. Pour accéder au texte intégral, il faut vous rendre sur Strada Lex, mais bénéficier d'un abonnement (ce qui est le cas de l'Université).
+
+Prêtez attention à la colonne des numéros : dans notre cas, seuls les n° publiés depuis 2011 sont consultables sur Strada Lex Europe. Si vous souhaitez consulter des numéros plus anciens, il vous faudra passer par une demande de Prêt entre bibliothèques.
+******************
+
+**QUESTION 4**
+
+Retrouvez l'ISSN de l'*Annuaire International de Justice Constitutionnelle*.
+
+[[0995-3817]]
+*******************
+Pas de piège sur cette question, il suffisait de vous rendre sur la plateforme Mir@bel et d'entrer le nom de la revue pour tomber immédiatement sur sa notice..
+
+L'ISSN est l'information la plus fiable et la plus stable que vous puissiez trouver au sujet d'une publication périodique (comme les revues), et Mir@bel reste l'outil le plus complet et le plus simple d'utilisation pour la retrouver.
+*******************
+
 #### OpenAlex
 
 ![Logo OpenAlex](assets\OpenAlex\openalex_logo.png)[OpenAlex](https://openalex.org/) est un catalogue ouvert du système mondial de la recherche scientifique, développé par l’organisation à but non lucratif OurResearch[^14].
@@ -989,7 +1105,9 @@ Vous pouvez demander efficacement à une IAg de :
 - l'imagination d'idées originales
 ![](assets\IA\IA_oui_non.png)
 
-> L'illustration est tirée de la formation : DOCQ, Françoise, POLAIN, Céline, WARNIER, Léticia et WOUTERS, Pascale, 2023. ChatGPT et les outils d’IA : quels enjeux sur les mémoires en 2023 ? [en ligne]. Formation. UCLouvain. 17 mars 2023. Disponible à l’adresse : https://oer.uclouvain.be/jspui/bitstream/20.500.12279/901/1/Formation_IA_memoires_2023-03-17.pdf [Consulté le 5 décembre 2025]. 
+> L'illustration est tirée de la formation : DOCQ, Françoise, POLAIN, Céline, WARNIER, Léticia et WOUTERS, Pascale, 2023. ChatGPT et les outils d’IA : quels enjeux sur les mémoires en 2023 ? [en ligne]. Formation. UCLouvain. 17 mars 2023. Disponible à l’adresse : https://oer.uclouvain.be/jspui/bitstream/20.500.12279/901/1/Formation_IA_memoires_2023-03-17.pdf [Consulté le 5 décembre 2025]. *This work is licensed under CC-BY-SA 4.0*
+
+> Pour approfondir la question, consultez la **Charte d'usage de l'IA générative à l'Université Paris-Saclay**
 
 ### Principes élémentaires de fonctionnement des IAg de textes
 
@@ -1013,7 +1131,7 @@ Vous pouvez tester et voir en direct le fonctionnement de plusieurs IAg textuell
 
 Il ne s'agit que de la première phase d'entraînement à l'issue de laquelle on obtient un **modèle de fondation** qu'il faut ensuite entraîner à tenir des conversations respectueuses et utiles avec des humains.
 
-Plusieurs phases d'entraînement supplémentaires (**fine-tuning**) sont alors nécessaires pour aboutir aux différents modèles que nous connaissons aujourd'hui.
+Plusieurs phases d'entraînement supplémentaires (**fine-tuning**) sont alors nécessaires pour aboutir aux différents modèles que nous connaissons aujourd'hui et de nouvelles méthode sde fine-tuning sont régulièrement élaborées, comme le fine-tuning par raisonnement.
 
 > Les illustrations de cette page sont issues du cours d'Aline Bouchard : BOUCHARD, Aline, 2025. Savoir utiliser ChatGPT et d’autres IA génératives pour la recherche documentaire en master [en ligne]. Formation. URFIST de Paris - Ecole nationale des chartes - PSL. 11 avril 2025. Disponible à l’adresse : https://www.enssib.fr/bibliotheque-numerique/documents/73173-savoir-utiliser-chatgpt-et-d-autres-ia-generatives-pour-la-recherche-documentaire-en-master.pdf [Consulté le 5 décembre 2025]. 
 
@@ -1322,9 +1440,9 @@ La grande diversité de types de documents qui intervenant dans tout travail aca
 
 Le site Ref-Lex met à disposition deux outils bienvenus :
 
-1. [Le guide de rédaction](https://reflex.sne.fr/guide), consultable en ligne ou téléchargeable en version PDF et XLS. ![Page d'accueil du Guide de rédaction du SNE](assets\Ref_Lex\Ref_Lex_guide_redac.png) Le guide est précis, complet et relativement pédagogique. ![Exemple ](assets\Ref_Lex\Ref_Lex_juris.png)
+1. [Le guide de rédaction](https://reflex.sne.fr/guide), consultable en ligne ou téléchargeable en version PDF et XLS. ![Page d'accueil du Guide de rédaction du SNE](assets\Ref_Lex\Ref_Lex_guide1.png) Le guide est précis, complet et relativement pédagogique. ![Exemple ](assets\Ref_Lex\Ref_Lex_guide2.png)
 
-2. [Les tables d'abréviations](https://reflex.sne.fr/tables-dabreviations), qui vous donneront des indications précieuses pour déchiffrer une abréviation, ou pour abréger correctement le nom d'une revue par exemple. ![Liste des différentes tables d'abréviations](assets\Ref_Lex\Ref_Lex_table_abreviation.png) Un exemple **nom complet --> nom abrégé** : ![](assets\Ref_Lex\Ref_Lex_table_abrev_rev1.png) Un exemple **nom abrégé --> nom complet** :![](assets\Ref_Lex\Ref_Lex_table_abrev2.png)
+2. [Les tables d'abréviations](https://reflex.sne.fr/tables-dabreviations), qui vous donneront des indications précieuses pour déchiffrer une abréviation, ou pour abréger correctement le nom d'une revue par exemple. ![Liste des différentes tables d'abréviations](assets\Ref_Lex\Ref_Lex_tababb.png) Un exemple **nom complet --> nom abrégé** : ![](assets\Ref_Lex\Ref_Lex_tababb1.png) Un exemple **nom abrégé --> nom complet** :![](assets\Ref_Lex\Ref_Lex_tababb2.png)
 
 ### Les styles bibliographiques
 
@@ -1334,10 +1452,21 @@ Le styles bibliographiques vont déterminer de manière précise à quoi vont re
 
 Ici, seul votre établissement, votre Graduate School ou même votre directeur.ice de mémoire est en capacité de vous prescrire un style bibliographique précis, n'hésitez surtout pas à vous renseigner avant d'entamer la rédaction !
 
-{{1-2}}De manière générale, voilà à quoi doit ressembler une citation correcte dans un texte. On y trouve les quatre éléments suivants[^18] :
+{{1-2}}De manière générale, voilà à quoi doit ressembler une citation correcte dans un texte. On y trouve les trois éléments suivants[^18] :
+
+ - **Les appels de citation** sous la forme de numéros en indice dans le corps du texte ;
+
+ - **Les notes de bas de page** qui précisent l'emplacement exact de la citation ;
+
+ - **La bibliographie** qui se trouve généralement en fin d'ouvrage, d'articles ou parfois de chapitre dans le cadre d'un ouvrage collectif.
 ![](assets\Citer\Style_biblio1.png)
 
-{{2-3}}Mais ne soyez pas surpris de rencontrer ce genre de style dans vos lectures, sans note de bas de page[^19]. ![](assets\Citer\Style_biblio2.png)
+{{2-3}}Mais ne soyez pas surpris de rencontrer ce genre de style dans vos lectures, sans note de bas de page[^19]. 
+
+- **Les appels de citation** dans le corps du texte sous la forme (auteur, date), moins courant en droit, mais très présent dans beaucoup d'autres disciplines
+
+- **La bibliographie**, en fin de document/chapitre/article.
+![](assets\Citer\Style_biblio2.png)
 
 Les styles bibliographiques les plus couramment utilisés en droit sont les suivants[^20], vous les trouverez tous dans la [bibliothèque de style de Zotero](https://www.zotero.org/styles) :
 
@@ -1372,7 +1501,7 @@ Plusieurs initiatives[^21] proposent des pictogrammes à insérer dans votre tra
 
 Pour un travail conséquent -- comme un mémoire --, il peut être intéressant de détailler les cas d'utilisation de l'IAg[^22] :
 
-> **Pour rappel** : la citation implique les éléments [vus précédemment](#51) et sont codifiés, voici un exemple de mise en forme (note de bas de page et bibliographie) :
+> **Pour rappel** : la citation implique les éléments [vus précédemment](#55) et sont codifiés, voici un exemple de mise en forme (note de bas de page et bibliographie) :
 > --> " *Mention du prompt* " prompt. *Nom de l'agent conversationnel*, *version et date de publication de la version*, *Fournisseur de l'agent*,*URL*, *date d'utilisation*.
 
 |Cas d'utilisation|Citation|Mention|
