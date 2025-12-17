@@ -5,7 +5,7 @@ email:    samuel.jamet@universite-paris-saclay
 
 tags:     Liascript, recherche documentaire, droit
 
-version:  0.0.1
+version:  0.9
 
 repository: github.com/sjamet8000/RechDoc
 
