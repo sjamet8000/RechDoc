@@ -278,7 +278,29 @@ Sur cet exemple :
 
 [^5]: Pour information, cette requête s'écrit **"zone humide" AND protection AND forêt AND (loup OR ours OR lynx) AND NOT mouton**
 
-##### Quelques exercices
+##### Quelques questions
+
+**QUESTION 1**
+Parmi toutes ces revues, laquelle ne fait pas partie de celles mises à disposition par la base Strada Lex Europe ?
+
+<!-- data-randomize -->
+- [( )] Renewable Energy Law and Policy Review
+- [( )] Revue du Droit des Technologies de l'Information
+- [( )] Revue européenne et internationale de droit fiscal
+- [(X)] Cahiers du droit européen de la concurrence
+****************
+Le but ici était de vous inciter à afficher la liste des revues disponibles sur Strada Lex Europe. Vous aviez pour cela deux voies d'accès :
+
+La première en passant par l'onglet "**Explorer**" et en suivant ce chemin
+
+**Revues** > **Liste des revues**
+
+Un petit moteur de recherche vous permettait de vous rendre immédiatement compte que les *Cahiers du droit européen de la concurrence* ne se trouvait pas dans la liste.
+
+Une autre solution consistait à sélectionner "**Revues**" dans la liste des sources disponibles au dessus de la barre de recherche principale. Les **38** (en 2025) revues disponibles s'affichent alors sous la barre de recherche.
+****************
+
+**QUESTION 2**
 
 Sur Strada Lex Europe, vous souhaitez faire remonter tous les articles de la revue **RAE** (voir Ref-Lex pour le nom complet) de l'année **2016**. 
 
@@ -292,6 +314,8 @@ Ici, aucun piège, vous savez que le moteur de recherche de Strada Lex Europe re
 
 Pour pouvoir rechercher dans toutes les sorties de l'année 2016 en même temps.
 ****************
+
+**QUESTION 3**
 
 Qui est l'auteur.ice de la citation en exergue au début de l'article de doctrine que Benoît Blottin a publié en 2016 dans RAE ?
 
@@ -459,6 +483,21 @@ Lancez la recherche sur la reforme du code minier dans LeDoctrinal. Quelle revue
 ************************
 Il est assez simple, en parcourant les résultats de constater que Droit de l'environnement est très présente. Constatation confirmée par un rapide coup d’œil dans les facettes, rubrique Filtrer par revues.
 ***********************
+
+**QUESTION 3**
+
+Dans quel numéro de JurisTourisme trouve-t-on l'article de François Goliard : "Labels de tourisme : un renforcement du rôle de l’État" ? (*ne noter que le n°*)
+
+[[282]]
+*****************
+Ici, le seul piège était de choisir à partir de quelle information commencer pour atteindre votre objectif.
+
+Le plus évident était d'entrer tel quel le titre de l'article " Labels de tourisme : un renforcement du rôle de l’État " dans la barre de recherche, en activant le filtre **Titre**.
+
+Vous pouviez aussi facilement retrouver la référence en entrant les mots-clés : *label* et *tourisme* et en activant le filtre **Mots-clés**.
+
+Finalement, connaître l'auteur ainsi que le nom de la revue n'est pas absolument nécessaire pour retrouver une référence doctrinale dans LeDoctrinal.
+****************
 
 #### Bonus : Les guillemets et la troncature
 
@@ -1487,7 +1526,7 @@ Les styles bibliographiques les plus couramment utilisés en droit sont les suiv
 
 ### Déclarer et citer l'utilisation d'une IAg
 
-En tant qu'auteur.ice, vous êtes responsable du contenu produit par une IA générative (texte, image, vidéo, etc.), il est donc de bon ton de déclarer tout usage d'une IAg, et de citer l'outil employé.
+En tant qu'auteur.ice, vous êtes responsable du contenu produit par une IA générative (texte, image, vidéo, etc.), il est donc de bonne pratique de déclarer tout usage d'une IAg, et de citer l'outil employé.
 
 Plusieurs initiatives[^21] proposent des pictogrammes à insérer dans votre travail. Quoi que vous utilisiez, vous trouverez généralement ce genre de pictogramme :
 
@@ -1501,7 +1540,7 @@ Plusieurs initiatives[^21] proposent des pictogrammes à insérer dans votre tra
 
 Pour un travail conséquent -- comme un mémoire --, il peut être intéressant de détailler les cas d'utilisation de l'IAg[^22] :
 
-> **Pour rappel** : la citation implique les éléments [vus précédemment](#55) et sont codifiés, voici un exemple de mise en forme (note de bas de page et bibliographie) :
+> **Pour rappel** : la citation implique les éléments [vus précédemment](#55) et sont codifiés, voici une possibilité de mise en forme (note de bas de page et bibliographie) :
 > --> " *Mention du prompt* " prompt. *Nom de l'agent conversationnel*, *version et date de publication de la version*, *Fournisseur de l'agent*,*URL*, *date d'utilisation*.
 
 |Cas d'utilisation|Citation|Mention|
