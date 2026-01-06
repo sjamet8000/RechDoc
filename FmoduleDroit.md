@@ -178,7 +178,6 @@ Plus généralement en SHS, on vous conseille :
 
 ## Guide des ressources en ligne
 
-
 ### La recherche documentaire juridique : les bonnes pratiques
 
 ![Page d'accueil des ressources électroniques en droit](assets\Acces_RE\RE_Droit.png)
