@@ -174,8 +174,6 @@ Plus généralement en SHS, on vous conseille :
 | [Isidore](https://isidore.science/)                                                                       | Huma-Num / CNRS                                                                                 | Moteur de recherche moissonnant des millions de documents de la recherche en SHS (Cairn, Persée, etc.) pour un accès unifié. |
 | [Persée](https://info.persee.fr/)                                                                         | Université de Lyon, ENS de Lyon, CNRS, Ministère de l'Enseignement supérieur et de la Recherche | Portail de revues scientifiques patrimoniales (fonds rétrospectif) en libre accès, principalement en SHS.                    |
 
-
-
 ## Guide des ressources en ligne
 
 
