@@ -24,7 +24,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 [preview-lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/sjamet8000/RechDoc/refs/heads/main/FmoduleDroit.md#1)
 
-## En préambule : à quoi avez-vous accès ?
+## En préambule : à quoi avez-vous accès ? Boubou
 
 Etudiant.es à l'Université Paris-Saclay, vous avez accès à de très nombreuses ressources, les quelques pages qui vont suivre ont pour objectif de vous montrer comment y accéder le plus simplement possible, et de faire un petit tour d'horizon de la diversité des ressources qui sont à votre disposition.
 
