@@ -26,44 +26,52 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 ## En préambule : à quoi avez-vous accès ?
 
+          --{{0}}--
 Etudiant.es à l'Université Paris-Saclay, vous avez accès à de très nombreuses ressources, les quelques pages qui vont suivre ont pour objectif de vous montrer comment y accéder le plus simplement possible, et de faire un petit tour d'horizon de la diversité des ressources qui sont à votre disposition.
 
 *Si vous vous repérez déjà sans difficulté dans les méandres de l'environnement numériques de l'Université, vous pouvez vous rendre directement [à cette page](#8) pour commencer la formation proprement dite.*
 
-````````````````````````````````````````
-.--------------------------------------------------------------------------------------------------------------------------------------------.
-|  WELCOME TO...                                                                                                                             |
-|                                                                                                                                            |
-| __/\\\________/\\\________________________________________________________________________________________________________________         |
-|  _\/\\\_______\/\\\________________________________________________________________________________________________________________        |
-|   _\/\\\_______\/\\\________________/\\\__________________________________________________________/\\\_____/\\\_____________________       |
-|    _\/\\\_______\/\\\__/\\/\\\\\\___\///___/\\\____/\\\_____/\\\\\\\\___/\\/\\\\\\\___/\\\\\\\\\\_\///___/\\\\\\\\\\\_____/\\\\\\\\__      |
-|     _\/\\\_______\/\\\_\/\\\////\\\___/\\\_\//\\\__/\\\____/\\\/////\\\_\/\\\/////\\\_\/\\\//////___/\\\_\////\\\////____/\\\/////\\\_     |
-|      _\/\\\_______\/\\\_\/\\\__\//\\\_\/\\\__\//\\\/\\\____/\\\\\\\\\\\__\/\\\___\///__\/\\\\\\\\\\_\/\\\____\/\\\_______/\\\\\\\\\\\__    |
-|       _\//\\\______/\\\__\/\\\___\/\\\_\/\\\___\//\\\\\____\//\\///////___\/\\\_________\////////\\\_\/\\\____\/\\\_/\\__\//\\///////___   |
-|        __\///\\\\\\\\\/___\/\\\___\/\\\_\/\\\____\//\\\______\//\\\\\\\\\\_\/\\\__________/\\\\\\\\\\_\/\\\____\//\\\\\____\//\\\\\\\\\\_  |
-|         ____\/////////_____\///____\///__\///______\///________\//////////__\///__________\//////////__\///______\/////______\//////////__ |
-|  ___________         __/\\\\\\\\\\\\\___________________________________________________                                                   |
-|   ___________         _\/\\\/////////\\\_________________________________________________                                                  |
-|    ___________         _\/\\\_______\/\\\_______________________________/\\\______________                                                 |
-|     ___________         _\/\\\\\\\\\\\\\/___/\\\\\\\\\_____/\\/\\\\\\\__\///___/\\\\\\\\\\_                                                |
-|      ___________         _\/\\\/////////____\////////\\\___\/\\\/////\\\__/\\\_\/\\\//////__                                               |
-|       ___________         _\/\\\_______________/\\\\\\\\\\__\/\\\___\///__\/\\\_\/\\\\\\\\\\_                                              |
-|        ___________         _\/\\\______________/\\\/////\\\__\/\\\_________\/\\\_\////////\\\_                                             |
-|         ___________         _\/\\\_____________\//\\\\\\\\/\\_\/\\\_________\/\\\__/\\\\\\\\\\_                                            |
-|          ___________         _\///_______________\////////\//__\///__________\///__\//////////__                                           |
-|  ___________         _____/\\\\\\\\\\\_________________________________/\\\\\\_________________________________                            |
-|   ___________         ___/\\\/////////\\\______________________________\////\\\_________________________________                           |
-|    ___________         __\//\\\______\///__________________________________\/\\\______________________/\\\__/\\\_                          |
-|     ___________         ___\////\\\__________/\\\\\\\\\________/\\\\\\\\____\/\\\_____/\\\\\\\\\______\//\\\/\\\__                         |
-|      ___________         ______\////\\\______\////////\\\_____/\\\//////_____\/\\\____\////////\\\______\//\\\\\___                        |
-|       ___________         _________\////\\\_____/\\\\\\\\\\___/\\\____________\/\\\______/\\\\\\\\\\______\//\\\____                       |
-|        ___________         __/\\\______\//\\\___/\\\/////\\\__\//\\\___________\/\\\_____/\\\/////\\\___/\\_/\\\_____                      |
-|         ___________         _\///\\\\\\\\\\\/___\//\\\\\\\\/\\__\///\\\\\\\\__/\\\\\\\\\_\//\\\\\\\\/\\_\//\\\\/______                     |
-|          ___________         ___\///////////______\////////\//_____\////////__\/////////___\////////\//___\////________                    |
-|                                                                                                                                            |
-'--------------------------------------------------------------------------------------------------------------------------------------------'
-````````````````````````````````````````
+<!-- Bloc Objectifs -->
+<div style="background-color:#72003e; padding: 0.8em; border-radius: 6px;">
+    <div style="color:white; display:flex; align-items:center;">
+        <i class="fa-solid fa-compass" style="font-size: 1.8em; margin-right: 10px;"></i>
+        <div style="font-size: 1.2em;"><strong>Objectif du préambule</strong></div>
+    </div>
+</div>
+
+<div style="background-color:#F5F6F9; font-size: 0.95em; padding: 1em 1.2em; margin-top:-8px; border-radius: 0 0 6px 6px;">
+    <ul>
+        <li><strong>Sécuriser</strong> l'accès aux ressources électroniques en maîtrisant l'authentification institutionnelle et en identifiant les canaux d'accès privilégiés (Site des BU, Catalogue Focus).</li>
+    </ul>
+</div>
+<div style="background-color:#72003e; padding: 0.8em; border-radius: 6px; margin-top:2em;">
+    <div style="color:white; display:flex; align-items:center;">
+        <i class="fa fa-layer-group" style="font-size: 1.8em; margin-right: 10px;"></i>
+        <div style="font-size: 1.2em;"><strong>Contenus abordés</strong></div>
+    </div>
+</div>
+
+<div style="background-color:#F5F6F9; font-size: 0.95em; padding: 1em 1.2em; margin-top:-8px; border-radius: 0 0 6px 6px;">
+    <ol style="margin-top: 0;">
+        <li>L'accès au site des BU de l'Université Paris-Saclay (et ce que vous allez y trouver d'intéressant)</li>
+        <li>Un point sur les identifiants universitaires</li>
+        <li>Le panorama global des ressources en ligne en <strong>droit</strong>, <strong>économie</strong>, <strong>management </strong>et <strong>sciences humaines et sociales</strong></li>
+    </ol>
+</div>
+<div style="background-color:#72003e; padding: 0.8em; border-radius: 6px; margin-top:2em;">
+    <div style="color:white; display:flex; align-items:center;">
+        <div style="font-size: 1.2em;"><strong>En résumé</strong></div>
+    </div>
+</div>
+
+<div style="background-color:#F5F6F9; font-size: 0.95em; padding: 1.1em 1.2em; margin-top:-8px; border-radius: 0 0 6px 6px; line-height: 1.6;">
+    <p>
+        <b>L'accès institutionnel est indispensable.</b> Les bases juridiques (Dalloz, Lexis) sont payantes et constituent le fondement de la recherche de Master. Maîtriser le protocole de connexion garantit votre capacité à travailler sans interruption.
+    </p>
+    <p>
+        <b>Utilisez vos identifiants universitaires (mail et mot de passe)</b> pour l'authentification centralisée (CAS/WAYF). Pour localiser et déverrouiller les ressources, privilégiez le <b>Site des BU</b> (<i>Ressources 24h/24</i>) ou le catalogue <b>Focus</b> (pour une recherche par titre de base).
+    </p>
+</div>
 
 ### Les ressources en lignes sans encombre
 
@@ -88,6 +96,7 @@ Si vous n'avez pas ces deux informations en votre possession, rendez-vous sur
 
 ### CAS et wayf !?
 
+        --{{0}}--
 Si vous venez d'arriver à l'Université Paris-Saclay, vous n'avez peut-être pas encore eu besoin d'accéder à l'environnement numérique. Avec votre mail universitaire et de votre mot de passe, vous allez pouvoir accéder à votre messagerie, aux réseaux wifis Eduroam et Eduspot, et, bien sûr aux ressources électroniques.
 
 ![Page d'accueil du site web des bibliothèques de l'Université Paris-Saclay](assets\Acces_RE\CAS.png)Vous connaissez déjà très certainement la page d'**Authentification Centralisée** (aussi connue sous son petit nom **CAS**) par laquelle vous devez passer pour vous connecter aux différents services proposés par l'université.
@@ -138,41 +147,342 @@ Si vous souhaitez vous rendre sur la base Dalloz Enseignant, entrez " Dalloz " d
 
 Depuis la page des [Ressources 24h/24](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources/ressources-24h/24), nous pouvons faire un petit tour d'horizon des différentes bases auxquelles vous avez accès.
 
-Du côté du Droit :
-------------
-| Plateforme                                                                                                                                                                                            | Éditeur               | Contenus                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------ |
-| [Dalloz Enseignant](https://www-dalloz-fr.ezproxy.universite-paris-saclay.fr/enseignants)                                                                                                             | Dalloz                | Codes, revues juridiques, fiches d'orientation, ouvrages, décisions de justice                   |
-| [Dalloz Bibliothèque Numérique](https://bibliotheque-lefebvre-dalloz-fr.ezproxy.universite-paris-saclay.fr/)                                                                                          | Dalloz                | Codes, précis, mémentos, hypercours (Bibliothèque d'ouvrages)                                    |
-| [Elnet](https://www-elnet-fr.ezproxy.universite-paris-saclay.fr/)                                                                                                                                     | Éditions Législatives | Dictionnaire permanent, guides pratiques et revues spécialisées                                  |
-| [Stradalex](https://www-stradalex-eu.ezproxy.universite-paris-saclay.fr/fr)                                                                                                                           | Larcier / Bruylant    | Revues juridiques et ouvrages spécialisés en droit belge et droit de l'UE                        |
-| [Navis](https://www-efl-fr.ezproxy.universite-paris-saclay.fr/)                                                                                                                                       | Francis Lefebvre      | Mémentos, ouvrages et revues en droit fiscal, social, affaires et comptabilité                   |
-| [Lexis 360 Intelligence](https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/home)                                                                                                 | LexisNexis            | Encyclopédies (JurisClasseur), revues, codes, jurisprudence et fiches pratiques                  |
-| [Lextenso](https://www-labase-lextenso-fr.ezproxy.universite-paris-saclay.fr/)                                                                                                                        | LGDJ / Lextenso       | Packs de revues (Defrénois, Gazette du Palais...), jurisprudence et codes                        |
-| [Lexbase](https://www-lexbase-fr.ezproxy.universite-paris-saclay.fr/)                                                                                                                                 | Lexbase               | Revues, ouvrages en droit social, fiscal et affaires, codes et sources officielles               |
-| [Lamyline](https://www-lamyline-fr.ezproxy.universite-paris-saclay.fr/Content/Search.aspx?params=H4sIAAAAAAAEAMssdiwoKMovS02xNTIwMjWwNDYwNDUyVHNxDHG0rTQoj4py8zIvCi-qyPV0dPKqKverzAMAtSP6KTMAAAA=WKE) | Éditions Lamy         | Ouvrages et revues officiels Lamy (Social, Civil, Affaires, Transport)                           |
-| [LeDoctrinal](https://www-doctrinal-fr.ezproxy.universite-paris-saclay.fr/)                                                                                                                           | Lexbase               | Méta-moteur de recherche bibliographique (articles de revues), jurisprudence et textes officiels |
+        {{1-2}}
+Du côté du Droit
+===
+        {{1-2}}
+<div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 14px rgba(0,0,0,0.10); margin-bottom: 28px;">
+    <table aria-label="Bases de données juridiques" style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; font-size:0.95em;">
+        <thead>
+            <tr style="font-weight:600; text-align:left;">
+                <th style="padding:12px 14px; width:25%; background:#1a4a3a; color:#fff;">
+                    ⚖️ Plateforme
+                </th>
+                <th style="padding:12px 14px; width:20%; background:#1e5c48; color:#fff; border-left:1px solid rgba(255,255,255,0.2);">
+                    Éditeur
+                </th>
+                <th style="padding:12px 14px; width:55%; background:#236b54; color:#fff; border-left:1px solid rgba(255,255,255,0.2);">
+                    Contenus
+                </th>
+            </tr>
+        </thead>
+        <tbody>
 
+            <!-- Ligne 1 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://www-dalloz-fr.ezproxy.universite-paris-saclay.fr/enseignants" target="_blank" style="color:#1a4a3a; text-decoration:none; font-weight:600;">Dalloz Enseignant</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Dalloz
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f2f7f5;">
+                    Codes, revues juridiques, fiches d'orientation, ouvrages, décisions de justice
+                </td>
+            </tr>
 
-Du côté de l'Economie et du Management :
------------
-| Plateforme                                                                                                                                         | Éditeur      | Contenus                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------- |
-| [Business Source Ultimate](http://ezproxy.universite-paris-saclay.fr/login?url=https://research.ebsco.com/c/377pni/search/advanced/filters?db=bsu) | EBSCO        | Revues académiques (Harvard Business Review...), rapports économiques, analyses SWOT et profils d'entreprises |
-| [Statista](https://www-statista-com.ezproxy.universite-paris-saclay.fr/)                                                                           | Statista     | Portail de statistiques, études de marché, infographies et prévisions sectorielles                            |
-| [ENI Informatique](https://ezproxy.universite-paris-saclay.fr/login?url=https://www.eni-training.com/cs/u-psud-ip)                                 | Éditions ENI | Bibliothèque numérique en informatique : livres, vidéos et cours (bureautique, système, dév, gestion)         |
-| Xerfi Essential                                                                                                                                    | Xerfi        | Études sectorielles (France et Monde), analyses de groupes (Corporate) et conjoncture économique              |
+            <!-- Ligne 2 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://bibliotheque-lefebvre-dalloz-fr.ezproxy.universite-paris-saclay.fr/" target="_blank" style="color:#1a4a3a; text-decoration:none; font-weight:600;">Dalloz Bibliothèque Numérique</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Dalloz
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#eaf2ef;">
+                    Codes, précis, mémentos, hypercours (Bibliothèque d'ouvrages)
+                </td>
+            </tr>
 
-Plus généralement en SHS, on vous conseille :
-----------
-| Plateforme                                                                                                | Éditeur                                                                                         | Contenus                                                                                                                     |
-| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [Cairn.info](https://shs-cairn-info.ezproxy.universite-paris-saclay.fr/)                                  | Collectif d'éditeurs (Belin, De Boeck, La Découverte, Érès...)                                  | Revues francophones, e-books (collections "Que sais-je ?"), magazines et ouvrages de référence en SHS.                       |
-| [OpenEdition Books](https://books-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue)           | OpenEdition Center                                                                              | Ouvrages de recherche en SHS (essentiellement francophones), majorité des titres en accès ouvert (HTML).                     |
-| [OpenEdition Journals](https://www-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue-journals) | OpenEdition Center                                                                              | Revues scientifiques électroniques en SHS (francophones et autres), accès ouvert (HTML) et formats téléchargeables.          |
-| JSTOR                                                                                                     | Ithaka                                                                                          | Archives numériques d'articles de revues scientifiques internationales (rétrospectives), e-books et sources primaires.       |
-| [Isidore](https://isidore.science/)                                                                       | Huma-Num / CNRS                                                                                 | Moteur de recherche moissonnant des millions de documents de la recherche en SHS (Cairn, Persée, etc.) pour un accès unifié. |
-| [Persée](https://info.persee.fr/)                                                                         | Université de Lyon, ENS de Lyon, CNRS, Ministère de l'Enseignement supérieur et de la Recherche | Portail de revues scientifiques patrimoniales (fonds rétrospectif) en libre accès, principalement en SHS.                    |
+            <!-- Ligne 3 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://www-elnet-fr.ezproxy.universite-paris-saclay.fr/" target="_blank" style="color:#1a4a3a; text-decoration:none; font-weight:600;">Elnet</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Éditions Législatives
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f2f7f5;">
+                    Dictionnaire permanent, guides pratiques et revues spécialisées
+                </td>
+            </tr>
+
+            <!-- Ligne 4 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://www-stradalex-eu.ezproxy.universite-paris-saclay.fr/fr" target="_blank" style="color:#1a4a3a; text-decoration:none; font-weight:600;">Stradalex</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Larcier / Bruylant
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#eaf2ef;">
+                    Revues juridiques et ouvrages spécialisés en droit belge et droit de l'UE
+                </td>
+            </tr>
+
+            <!-- Ligne 5 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://www-efl-fr.ezproxy.universite-paris-saclay.fr/" target="_blank" style="color:#1a4a3a; text-decoration:none; font-weight:600;">Navis</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Francis Lefebvre
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f2f7f5;">
+                    Mémentos, ouvrages et revues en droit fiscal, social, affaires et comptabilité
+                </td>
+            </tr>
+
+            <!-- Ligne 6 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://www-lexis360intelligence-fr.ezproxy.universite-paris-saclay.fr/home" target="_blank" style="color:#1a4a3a; text-decoration:none; font-weight:600;">Lexis 360 Intelligence</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    LexisNexis
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#eaf2ef;">
+                    Encyclopédies (JurisClasseur), revues, codes, jurisprudence et fiches pratiques
+                </td>
+            </tr>
+
+            <!-- Ligne 7 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://www-labase-lextenso-fr.ezproxy.universite-paris-saclay.fr/" target="_blank" style="color:#1a4a3a; text-decoration:none; font-weight:600;">Lextenso</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    LGDJ / Lextenso
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f2f7f5;">
+                    Packs de revues (Defrénois, Gazette du Palais...), jurisprudence et codes
+                </td>
+            </tr>
+
+            <!-- Ligne 8 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://www-lexbase-fr.ezproxy.universite-paris-saclay.fr/" target="_blank" style="color:#1a4a3a; text-decoration:none; font-weight:600;">Lexbase</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Lexbase
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#eaf2ef;">
+                    Revues, ouvrages en droit social, fiscal et affaires, codes et sources officielles
+                </td>
+            </tr>
+
+            <!-- Ligne 9 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://www-lamyline-fr.ezproxy.universite-paris-saclay.fr/Content/Search.aspx?params=H4sIAAAAAAAEAMssdiwoKMovS02xNTIwMjWwNDYwNDUyVHNxDHG0rTQoj4py8zIvCi-qyPV0dPKqKverzAMAtSP6KTMAAAA=WKE" target="_blank" style="color:#1a4a3a; text-decoration:none; font-weight:600;">Lamyline</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Éditions Lamy
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f2f7f5;">
+                    Ouvrages et revues officiels Lamy (Social, Civil, Affaires, Transport)
+                </td>
+            </tr>
+
+            <!-- Ligne 10 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top;">
+                    <a href="https://www-doctrinal-fr.ezproxy.universite-paris-saclay.fr/" target="_blank" style="color:#1a4a3a; text-decoration:none; font-weight:600;">LeDoctrinal</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-left:1px solid #e8e8e8; color:#555;">
+                    Lexbase
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-left:1px solid #e8e8e8; background:#eaf2ef;">
+                    Méta-moteur de recherche bibliographique (articles de revues), jurisprudence et textes officiels
+                </td>
+            </tr>
+
+        </tbody>
+    </table>
+</div>
+
+        {{2-3}}
+Du côté de l'économie et du management
+===
+
+        {{2-3}}
+<div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 14px rgba(0,0,0,0.10); margin-bottom: 28px;">
+    <table aria-label="Bases de données économie et management" style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; font-size:0.95em;">
+        <thead>
+            <tr style="font-weight:600; text-align:left;">
+                <th style="padding:12px 14px; width:25%; background:#1a3a5c; color:#fff;">
+                    📈 Plateforme
+                </th>
+                <th style="padding:12px 14px; width:20%; background:#1e4a74; color:#fff; border-left:1px solid rgba(255,255,255,0.2);">
+                    Éditeur
+                </th>
+                <th style="padding:12px 14px; width:55%; background:#23588a; color:#fff; border-left:1px solid rgba(255,255,255,0.2);">
+                    Contenus
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+
+            <!-- Ligne 1 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="http://ezproxy.universite-paris-saclay.fr/login?url=https://research.ebsco.com/c/377pni/search/advanced/filters?db=bsu" target="_blank" style="color:#1a3a5c; text-decoration:none; font-weight:600;">Business Source Ultimate</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    EBSCO
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f0f4f9;">
+                    Revues académiques (Harvard Business Review...), rapports économiques, analyses SWOT et profils d'entreprises
+                </td>
+            </tr>
+
+            <!-- Ligne 2 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://www-statista-com.ezproxy.universite-paris-saclay.fr/" target="_blank" style="color:#1a3a5c; text-decoration:none; font-weight:600;">Statista</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Statista
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#e5edf5;">
+                    Portail de statistiques, études de marché, infographies et prévisions sectorielles
+                </td>
+            </tr>
+
+            <!-- Ligne 3 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://ezproxy.universite-paris-saclay.fr/login?url=https://www.eni-training.com/cs/u-psud-ip" target="_blank" style="color:#1a3a5c; text-decoration:none; font-weight:600;">ENI Informatique</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Éditions ENI
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f0f4f9;">
+                    Bibliothèque numérique en informatique : livres, vidéos et cours (bureautique, système, dév, gestion)
+                </td>
+            </tr>
+
+            <!-- Ligne 4 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top;">
+                    <a href="https://www-xerfiknowledge-com.ezproxy.universite-paris-saclay.fr/" target="_blank" style="color:#1a3a5c; text-decoration:none; font-weight:600;">Xerfi Essential</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-left:1px solid #e8e8e8; color:#555;">
+                    Xerfi
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-left:1px solid #e8e8e8; background:#e5edf5;">
+                    Études sectorielles (France et Monde), analyses de groupes (Corporate) et conjoncture économique
+                </td>
+            </tr>
+
+        </tbody>
+    </table>
+</div>
+
+        {{3-4}}
+En sciences humaines et sociales
+===
+
+        {{3-4}}
+<div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 14px rgba(0,0,0,0.10); margin-bottom: 28px;">
+    <table aria-label="Bases de données sciences humaines et sociales" style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; font-size:0.95em;">
+        <thead>
+            <tr style="font-weight:600; text-align:left;">
+                <th style="padding:12px 14px; width:25%; background:#4a2060; color:#fff;">
+                    🧠 Plateforme
+                </th>
+                <th style="padding:12px 14px; width:20%; background:#5c2878; color:#fff; border-left:1px solid rgba(255,255,255,0.2);">
+                    Éditeur
+                </th>
+                <th style="padding:12px 14px; width:55%; background:#6d3090; color:#fff; border-left:1px solid rgba(255,255,255,0.2);">
+                    Contenus
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+
+            <!-- Ligne 1 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://shs-cairn-info.ezproxy.universite-paris-saclay.fr/" target="_blank" style="color:#4a2060; text-decoration:none; font-weight:600;">Cairn.info</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Collectif d'éditeurs (Belin, De Boeck, La Découverte, Érès...)
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f5f0f9;">
+                    Revues francophones, e-books (collections « Que sais-je ? »), magazines et ouvrages de référence en SHS.
+                </td>
+            </tr>
+
+            <!-- Ligne 2 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://books-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue" target="_blank" style="color:#4a2060; text-decoration:none; font-weight:600;">OpenEdition Books</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    OpenEdition Center
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#ede5f5;">
+                    Ouvrages de recherche en SHS (essentiellement francophones), majorité des titres en accès ouvert (HTML).
+                </td>
+            </tr>
+
+            <!-- Ligne 3 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://www-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue-journals" target="_blank" style="color:#4a2060; text-decoration:none; font-weight:600;">OpenEdition Journals</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    OpenEdition Center
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f5f0f9;">
+                    Revues scientifiques électroniques en SHS (francophones et autres), accès ouvert (HTML) et formats téléchargeables.
+                </td>
+            </tr>
+
+            <!-- Ligne 4 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://www-jstor-org.ezproxy.universite-paris-saclay.fr/" target="_blank" style="color:#4a2060; text-decoration:none; font-weight:600;">JSTOR</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Ithaka
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#ede5f5;">
+                    Archives numériques d'articles de revues scientifiques internationales (rétrospectives), e-books et sources primaires.
+                </td>
+            </tr>
+
+            <!-- Ligne 5 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://isidore.science/" target="_blank" style="color:#4a2060; text-decoration:none; font-weight:600;">Isidore</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Huma-Num / CNRS
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f5f0f9;">
+                    Moteur de recherche moissonnant des millions de documents de la recherche en SHS (Cairn, Persée, etc.) pour un accès unifié.
+                </td>
+            </tr>
+
+            <!-- Ligne 6 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top;">
+                    <a href="https://info.persee.fr/" target="_blank" style="color:#4a2060; text-decoration:none; font-weight:600;">Persée</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-left:1px solid #e8e8e8; color:#555;">
+                    Université de Lyon, ENS de Lyon, CNRS, Ministère de l'Enseignement supérieur et de la Recherche
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-left:1px solid #e8e8e8; background:#ede5f5;">
+                    Portail de revues scientifiques patrimoniales (fonds rétrospectif) en libre accès, principalement en SHS.
+                </td>
+            </tr>
+
+        </tbody>
+    </table>
+</div>
 
 ## Guide des ressources en ligne
 
