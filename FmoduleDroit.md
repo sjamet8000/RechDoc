@@ -156,23 +156,181 @@ Du côté du Droit :
 
 Du côté de l'Economie et du Management :
 -----------
-| Plateforme                                                                                                                                         | Éditeur      | Contenus                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------- |
-| [Business Source Ultimate](http://ezproxy.universite-paris-saclay.fr/login?url=https://research.ebsco.com/c/377pni/search/advanced/filters?db=bsu) | EBSCO        | Revues académiques (Harvard Business Review...), rapports économiques, analyses SWOT et profils d'entreprises |
-| [Statista](https://www-statista-com.ezproxy.universite-paris-saclay.fr/)                                                                           | Statista     | Portail de statistiques, études de marché, infographies et prévisions sectorielles                            |
-| [ENI Informatique](https://ezproxy.universite-paris-saclay.fr/login?url=https://www.eni-training.com/cs/u-psud-ip)                                 | Éditions ENI | Bibliothèque numérique en informatique : livres, vidéos et cours (bureautique, système, dév, gestion)         |
-| Xerfi Essential                                                                                                                                    | Xerfi        | Études sectorielles (France et Monde), analyses de groupes (Corporate) et conjoncture économique              |
+
+<div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 14px rgba(0,0,0,0.10); margin-bottom: 28px;">
+    <table aria-label="Bases de données économie et management" style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; font-size:0.95em;">
+        <thead>
+            <tr style="font-weight:600; text-align:left;">
+                <th style="padding:12px 14px; width:25%; background:#1a3a5c; color:#fff;">
+                    📈 Plateforme
+                </th>
+                <th style="padding:12px 14px; width:20%; background:#1e4a74; color:#fff; border-left:1px solid rgba(255,255,255,0.2);">
+                    Éditeur
+                </th>
+                <th style="padding:12px 14px; width:55%; background:#23588a; color:#fff; border-left:1px solid rgba(255,255,255,0.2);">
+                    Contenus
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+
+            <!-- Ligne 1 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="http://ezproxy.universite-paris-saclay.fr/login?url=https://research.ebsco.com/c/377pni/search/advanced/filters?db=bsu" target="_blank" style="color:#1a3a5c; text-decoration:none; font-weight:600;">Business Source Ultimate</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    EBSCO
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f0f4f9;">
+                    Revues académiques (Harvard Business Review...), rapports économiques, analyses SWOT et profils d'entreprises
+                </td>
+            </tr>
+
+            <!-- Ligne 2 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://www-statista-com.ezproxy.universite-paris-saclay.fr/" target="_blank" style="color:#1a3a5c; text-decoration:none; font-weight:600;">Statista</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Statista
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#e5edf5;">
+                    Portail de statistiques, études de marché, infographies et prévisions sectorielles
+                </td>
+            </tr>
+
+            <!-- Ligne 3 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://ezproxy.universite-paris-saclay.fr/login?url=https://www.eni-training.com/cs/u-psud-ip" target="_blank" style="color:#1a3a5c; text-decoration:none; font-weight:600;">ENI Informatique</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Éditions ENI
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f0f4f9;">
+                    Bibliothèque numérique en informatique : livres, vidéos et cours (bureautique, système, dév, gestion)
+                </td>
+            </tr>
+
+            <!-- Ligne 4 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top;">
+                    <a href="https://www-xerfiknowledge-com.ezproxy.universite-paris-saclay.fr/" target="_blank" style="color:#1a3a5c; text-decoration:none; font-weight:600;">Xerfi Essential</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-left:1px solid #e8e8e8; color:#555;">
+                    Xerfi
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-left:1px solid #e8e8e8; background:#e5edf5;">
+                    Études sectorielles (France et Monde), analyses de groupes (Corporate) et conjoncture économique
+                </td>
+            </tr>
+
+        </tbody>
+    </table>
+</div>
 
 Plus généralement en SHS, on vous conseille :
 ----------
-| Plateforme                                                                                                | Éditeur                                                                                         | Contenus                                                                                                                     |
-| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [Cairn.info](https://shs-cairn-info.ezproxy.universite-paris-saclay.fr/)                                  | Collectif d'éditeurs (Belin, De Boeck, La Découverte, Érès...)                                  | Revues francophones, e-books (collections "Que sais-je ?"), magazines et ouvrages de référence en SHS.                       |
-| [OpenEdition Books](https://books-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue)           | OpenEdition Center                                                                              | Ouvrages de recherche en SHS (essentiellement francophones), majorité des titres en accès ouvert (HTML).                     |
-| [OpenEdition Journals](https://www-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue-journals) | OpenEdition Center                                                                              | Revues scientifiques électroniques en SHS (francophones et autres), accès ouvert (HTML) et formats téléchargeables.          |
-| JSTOR                                                                                                     | Ithaka                                                                                          | Archives numériques d'articles de revues scientifiques internationales (rétrospectives), e-books et sources primaires.       |
-| [Isidore](https://isidore.science/)                                                                       | Huma-Num / CNRS                                                                                 | Moteur de recherche moissonnant des millions de documents de la recherche en SHS (Cairn, Persée, etc.) pour un accès unifié. |
-| [Persée](https://info.persee.fr/)                                                                         | Université de Lyon, ENS de Lyon, CNRS, Ministère de l'Enseignement supérieur et de la Recherche | Portail de revues scientifiques patrimoniales (fonds rétrospectif) en libre accès, principalement en SHS.                    |
+
+<div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 14px rgba(0,0,0,0.10); margin-bottom: 28px;">
+    <table aria-label="Bases de données sciences humaines et sociales" style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; font-size:0.95em;">
+        <thead>
+            <tr style="font-weight:600; text-align:left;">
+                <th style="padding:12px 14px; width:25%; background:#4a2060; color:#fff;">
+                    🧠 Plateforme
+                </th>
+                <th style="padding:12px 14px; width:20%; background:#5c2878; color:#fff; border-left:1px solid rgba(255,255,255,0.2);">
+                    Éditeur
+                </th>
+                <th style="padding:12px 14px; width:55%; background:#6d3090; color:#fff; border-left:1px solid rgba(255,255,255,0.2);">
+                    Contenus
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+
+            <!-- Ligne 1 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://shs-cairn-info.ezproxy.universite-paris-saclay.fr/" target="_blank" style="color:#4a2060; text-decoration:none; font-weight:600;">Cairn.info</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Collectif d'éditeurs (Belin, De Boeck, La Découverte, Érès...)
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f5f0f9;">
+                    Revues francophones, e-books (collections « Que sais-je ? »), magazines et ouvrages de référence en SHS.
+                </td>
+            </tr>
+
+            <!-- Ligne 2 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://books-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue" target="_blank" style="color:#4a2060; text-decoration:none; font-weight:600;">OpenEdition Books</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    OpenEdition Center
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#ede5f5;">
+                    Ouvrages de recherche en SHS (essentiellement francophones), majorité des titres en accès ouvert (HTML).
+                </td>
+            </tr>
+
+            <!-- Ligne 3 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://www-openedition-org.ezproxy.universite-paris-saclay.fr/catalogue-journals" target="_blank" style="color:#4a2060; text-decoration:none; font-weight:600;">OpenEdition Journals</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    OpenEdition Center
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f5f0f9;">
+                    Revues scientifiques électroniques en SHS (francophones et autres), accès ouvert (HTML) et formats téléchargeables.
+                </td>
+            </tr>
+
+            <!-- Ligne 4 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://www-jstor-org.ezproxy.universite-paris-saclay.fr/" target="_blank" style="color:#4a2060; text-decoration:none; font-weight:600;">JSTOR</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Ithaka
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#ede5f5;">
+                    Archives numériques d'articles de revues scientifiques internationales (rétrospectives), e-books et sources primaires.
+                </td>
+            </tr>
+
+            <!-- Ligne 5 -->
+            <tr style="background:#ffffff;">
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0;">
+                    <a href="https://isidore.science/" target="_blank" style="color:#4a2060; text-decoration:none; font-weight:600;">Isidore</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; color:#555;">
+                    Huma-Num / CNRS
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-bottom:1px solid #e0e0e0; border-left:1px solid #e8e8e8; background:#f5f0f9;">
+                    Moteur de recherche moissonnant des millions de documents de la recherche en SHS (Cairn, Persée, etc.) pour un accès unifié.
+                </td>
+            </tr>
+
+            <!-- Ligne 6 -->
+            <tr style="background:#f9f9f9;">
+                <td style="padding:10px 14px; vertical-align:top;">
+                    <a href="https://info.persee.fr/" target="_blank" style="color:#4a2060; text-decoration:none; font-weight:600;">Persée</a>
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-left:1px solid #e8e8e8; color:#555;">
+                    Université de Lyon, ENS de Lyon, CNRS, Ministère de l'Enseignement supérieur et de la Recherche
+                </td>
+                <td style="padding:10px 14px; vertical-align:top; border-left:1px solid #e8e8e8; background:#ede5f5;">
+                    Portail de revues scientifiques patrimoniales (fonds rétrospectif) en libre accès, principalement en SHS.
+                </td>
+            </tr>
+
+        </tbody>
+    </table>
+</div>
 
 ## Guide des ressources en ligne
 
